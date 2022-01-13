@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <config>
-    <FLASHSITE value="http://img4.bymz.ru/flash/" />
-    <BACKUP_FLASHSITE value="http://img4.bymz.ru/flash/" />
+    <FLASHSITE value="http://localhost:82/flash/" />
+    <BACKUP_FLASHSITE value="http://localhost:82/flash/" />
     <USE_MD5 value="false" />
-    <SITE value="http://Img4.bymz.ru/" />
-    <FIRSTPAGE value="http:///bb.mail.ru" />
-    <REGISTER value="http:///bb.mail.ru/reg.aspx" />
-    <REQUEST_PATH value="http://Req4.bymz.ru/" />
-    <LOGIN_PATH value="http://bb.mail.ru" siteName="DDT" />
-    <FILL_PATH value="http://bb.mail.ru/billing/payment" />
+    <SITE value="http://localhost:82/" />
+    <FIRSTPAGE value="http://localhost:82" />
+    <REGISTER value="http://localhost:82/" />
+    <REQUEST_PATH value="http://localhost:81/" />
+    <LOGIN_PATH value="http://localhost:82" siteName="DDT" />
+    <FILL_PATH value="http://localhost:82/billing/payment" />
     <POLICY_FILES>
-      <file value="http://Img4.bymz.ru/crossdomain.xml" />
+      <file value="http://localhost:82/flash/crossdomain.xml" />
     </POLICY_FILES>
     <FIGHTLIB value="true" />
     <ALLOW_MULTI value="true" />
