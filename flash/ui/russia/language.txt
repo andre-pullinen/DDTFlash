@@ -1,0 +1,2820 @@
+AlertDialog.Error:Ошибка
+AlertDialog.Info:Подсказка
+BaseStateCreator.LoadingTip:Загрузка игрового модуля…
+tank.auctionHouse.view.BaseStripView.Font:Calibri
+ok:Подтвердить
+get:Принять
+sure:Согласиться
+modify:Изменить
+close:Закрыть
+cancel:Отмена
+alert:Внимание:
+wrongUnit:Ошибка
+ServerLinkError:ServerLinkError
+core.MarriedTipLatterTextHusband:Жена: {0}
+core.MarriedTipLatterTextWife:Муж: {0}
+tank.game.danderStripTip.pow:Ярость
+core.crossZone.PrivateChatToUnable:Невозможно отправить личное сообщение игроку на другом канале.
+core.crossZone.ViewGoodInfoUnable:Просмотр предметов между серверами невозможен.
+tank.auctionHouse.controller.AuctionHouseListError:Ошибка загрузки аукциона!
+tank.auctionHouse.view.AuctionBrowseView.sure: Вы уверены, что хотите сделать ставку?
+tank.auctionHouse.view.AuctionBrowseView.Auction: Сделать ставку
+tank.auctionHouse.view.AuctionBrowseView.stippleII: алмазов
+tank.auctionHouse.view.AuctionBrowseView.Your:У вас недостаточно средств.
+tank.auctionHouse.view.AuctionBrowseView.buy:Вы уверены, что хотите выкупить предмет немедленно?
+tank.auctionHouse.view.AuctionBuyView.Your:У вас недостаточно средств.
+tank.auctionHouse.view.AuctionBuyView.price:Ставка:
+tank.auctionHouse.view.AuctionCellView.Object:Срок действия лота истек
+tank.auctionHouse.view.AuctionDragInArea.this:Срок действия лота истек
+tank.auctionHouse.view.AuctionRightView.Object:Предмет 
+tank.auctionHouse.view.AuctionRightView.Total:(Всего 
+tank.auctionHouse.view.AuctionSellLeftView.Choose:Выберите предмет для продажи на аукционе. 
+tank.auctionHouse.view.AuctionSellLeftView.8h:8 часов
+tank.auctionHouse.view.AuctionSellLeftView.24h: 24 часа
+tank.auctionHouse.view.AuctionSellLeftView.48h: 48 часов
+tank.auctionHouse.view.AuctionSellLeftView.Price: Назначьте стартовую цену.
+tank.auctionHouse.view.AuctionSellLeftView.PriceTwo:Цена выкупа не может быть ниже стартовой цены
+tank.auctionHouse.view.AuctionSellView.Choose: Выберите предмет
+choosecharacter.ChooseCharacterView.space: Введите имя персонажа!
+choosecharacter.ChooseCharacterView.input: Введите имя. 
+choosecharacter.ChooseSexPanel: Сначала выберите пол.
+tank.game.actions.ChangePlayerAction: ☎■■■■Ваш ход■■■■☎","☏□□□□Ваш ход□□□□☏
+tank.game.actions.SelfPlayerWalkAction: Недостаточно энергии!
+tank.game.ArrowViewIII.fall: Дождитесь своего хода.
+tank.game.ArrowViewIII.skill: Использовать это умение можно будет через {0} рнд.
+tank.game.EnergyViewIII.proximal: Начинается ближний бой
+tank.game.WebSpeedView.frame:FPS:
+tank.game.WebSpeedView.delay:Пинг: 
+tank.game.WebSpeedView.explain2:Графическое качество интерфейса игры. Для улучшения качества измените <FONT COLOR='#0099FF'>настройки графики</FONT>.
+tank.invite.InviteView.request: Пригласить
+tank.invite.InviteView.list: Обновить список
+tank.invite.InviteView.close:Закрыть
+tank.room.RoomIIController.all: Игра не может начаться, пока все игроки не будут готовы.
+tank.room.RoomIIController.balance: В командах недостаточно игроков для начала игры.
+tank.room.RoomIIMapSet.room: Вы не можете изменить настройки зала.
+tank.room.RoomIIMapSet.room2: Изменить данные зала
+tank.room.RoomIIPlayerItem.unallowed: Запрещено!
+tank.room.RoomIIView2.kick:Вас просят покинуть зал.
+tank.room.RoomIIView2.owner:Произвести отмену может только хозяин зала
+tank.room.RoomIIView2.noallow:Изменять настройки может только хозяин зала
+tank.roomlist.RoomListIIBGView.start:Игроки готовы к бою.
+tank.roomlist.RoomListIIBGView.room:В зале нет свободных мест.
+tank.roomlist.RoomListIICreateRoomView.tank: В атаку!
+tank.roomlist.RoomListIICreateRoomView.go:К бою!
+tank.roomlist.RoomListIICreateRoomView.fire:Побьемся на славу!
+tank.roomlist.RoomListIICreateRoomView.happy:Штаб! Штаб! Мы вступаем в бой!
+tank.roomlist.RoomListIICreateRoomView.time:Продолжительность раунда в зале - 10 сек.
+tank.roomlist.RoomListIICreateRoomView.name:Введите название зала.
+tank.roomlist.RoomListIICreateRoomView.set:Задайте пароль к своему залу
+tank.roomlist.RoomListIICreateRoomView.set1:Выберите режим боя. 
+tank.roomlist.RoomListIICreateRoomView.set2:Выберите режим зала. 
+tank.roomlist.RoomListIIFindRoomPanel.search:Поиск зала
+tank.roomlist.RoomListIIPassInput.write:Введите пароль.
+tank.hall.ChooseHallView.sorry:Эта функция пока недоступна.
+tank.movement.MovementRightView.pass:Введите промо-код.
+tank.serverlist.ServerListPosView.close:Закрытие.........
+tank.serverlist.ServerListView.login:Ошибка авторизации.
+shop.ShopIIBtnPanel.yellow:У вас недостаточно алмазов или золота.
+shop.ShopIIBtnPanel.stipple:У вас недостаточно алмазов.
+shop.ShopIIBtnPanel.gold:У вас недостаточно золота.
+shop.ShopIIBtnPanel.buy:Подтвердить покупку? 
+shop.ShopIIModel.car:В корзине нет места.
+shop.ShopIIPresentView.give:Введите имя игрока, которому вы хотите сделать подарок.
+shop.ShopIIPresentView.space:Вы должны ввести имя того, кому хотите сделать подарок.
+shop.ShopIISaveFigurePanel.point: очк.
+shop.ShopIIShoppingCarItem.stipple: алм.
+shop.ShopIIShoppingCarItem.day: дн.
+shop.ShopIIShoppingCarItem.piece:шт.
+shop.ShopIIShoppingCarItem.free:бесплатно
+shop.ShopIIShoppingCarItem.gongxun: оч. славы
+shop.ShopIIShoppingCarItem.gifttoken: куп.
+shop.ShopIIShoppingCarItem.medal:Мед.
+shop.ShopIIShoppingCarItem.medal2:мед.
+store.view.fusion.AccessoryDragInArea.overdue: Срок действия предмета истек.
+store.view.fusion.LoadStrengthenListError:Ошибка загрузки!
+store.view.fusion.TransferItemCell.current:Типы снаряжения не совпадают!
+store.view.fusion.AccessoryItemCell.overdue:Срок действия предмета истек!
+store.view.fusion.AccessoryItemCell.fusion:Предмет непригоден для слияния!
+store.view.fusion.PreviewFrame.preview:Предпросмотр
+store.view.fusion.StoreIIFusionBG.your:У вас недостаточно золота.
+store.view.fusion.StoreIIFusionBG.put:Добавьте предмет и формулу для слияния.
+store.view.fusion.StoreIIFusionBG.say:Слияние
+store.view.fusion.StoreIIFusionBG.use:Использование данных предметов сделает <br>ваше снаряжение персональным! Продолжить?
+store.view.transfer.StoreIITransferBG.jade:Нефрит
+store.view.transfer.StoreIITransferBG.gold:У вас недостаточно золота.
+store.view.transfer.StoreIITransferBG.point:У вас недостаточно алмазов. Приобрести их? 
+store.StoreIIComposeBG.say:Улучшение
+store.StoreIIComposeBG.use:Использование данных предметов сделает <br>ваше снаряжение персональным! Продолжить?
+store.StoreIIStrengthBG.say:Усиление
+store.StoreIIStrengthBG.use:Использование данных предметов сделает <br>ваше снаряжение персональным! Продолжить?
+tank.data.auctionHouse.AuctionGoodsInfo.short:< 30 мин.
+tank.data.auctionHouse.AuctionGoodsInfo.middle:30 мин. - 2 ч.
+tank.data.auctionHouse.AuctionGoodsInfo.long:2ч. - 12 ч.
+tank.data.auctionHouse.AuctionGoodsInfo.very:> 12 ч.
+tank.data.channel.ChannelType.current:Текущий
+tank.data.channel.ChannelType.house:Гильдия
+tank.data.EmailInfo.test:Китай
+tank.data.EmailInfo.email:Проверка почты. . . . . . . . . . . 
+tank.data.EmailInfo.random:Случайная проверка
+tank.data.EquipType.head:Шапка
+tank.data.EquipType.glass:Очки
+tank.data.EquipType.face:Лицо
+tank.data.EquipType.clothing:Костюм
+tank.data.EquipType.eye:Глаза
+tank.data.EquipType.bangle:Браслет
+tank.data.EquipType.finger:Кольцо
+tank.data.WebSpeedInfo.good:Отличное
+tank.data.WebSpeedInfo.find:Удовлетворительное
+tank.data.WebSpeedInfo.bad:Плохое
+tank.manager.BallManager.bom:Ошибка загрузки данных.
+tank.manager.CharTimerManager.say:Прежде, чем продолжить разговор, подождите 3 сек.
+tank.manager.ItemManager.loader:Ошибка загрузки данных предмета
+tank.manager.MailManager.delete:Письмо удалено!
+tank.manager.MailManager.false:Ошибка удаления
+tank.manager.MailManager.back:Письмо доставлено!
+tank.manager.MailManager.return:Ошибка доставки
+tank.manager.MapManager.random:Случайная локация
+tank.manager.MapManager.loader:Ошибка загрузки
+tank.consortia.club.CreatConsortiaFrame.titleText:Создать гильдию
+tank.manager.PlayerManager.request:Приглашение в гильдию
+tank.manager.PlayerManager.sure:Подтвердить
+tank.manager.PlayerManager.refuse:Отказаться
+tank.manager.StateManager.save:Сохраните файлы на вашем компьютере для ускорения загрузки в следующий раз.
+tank.manager.TaskManager.loader:Системная ошибка. Повторите попытку позже!
+tank.manager.TaskManager.task:Ваш список заданий заполнен
+tank.request.LoadServerListAction.server:Сервер закрыт на обслуживание. Повторите попытку позже!
+tank.view.bagII.BreakGoodsView.split:Разделить
+tank.view.bagII.BreakGoodsView.num:Количество
+tank.view.bagII.BreakGoodsView.number:Количество разделяемых предметов.
+tank.view.bagII.BreakGoodsView.right:Неверное количество.
+tank.view.bagII.DeleteGoodsBtn.delete:Удалить
+tank.view.bagII.GoodsTipPanel.fire:Атака
+tank.view.bagII.GoodsTipPanel.recovery:Защита
+tank.view.bagII.GoodsTipPanel.agility:Ловкость
+tank.view.bagII.GoodsTipPanel.lucky:Удача
+tank.view.bagII.GoodsTipPanel.need:Требуемый уровень
+tank.view.bagII.GoodsTipPanel.man:Требуемый пол: мужской
+tank.view.bagII.GoodsTipPanel.woman:Требуемый пол: женский
+tank.view.bagII.GoodsTipPanel.display:Ошибка усиления предмета!
+tank.view.bagII.GoodsTipPanel.may:Можно усилить и улучшить
+tank.view.bagII.GoodsTipPanel.compose:Можно улучшить
+tank.view.bagII.GoodsTipPanel.strong:Можно усилить
+tank.view.bagII.GoodsTipPanel.intensify:Уровень усиления {0}
+tank.view.bagII.GoodsTipPanel.he:Улучшение
+tank.view.bagII.GoodsTipPanel.z:Камень феникса дает прибавку к атаке.
+tank.view.bagII.GoodsTipPanel.x:Камень змея дает прибавку к защите.
+tank.view.bagII.GoodsTipPanel.q:Камень дракона дает прибавку к ловкости.
+tank.view.bagII.GoodsTipPanel.b:Камень тигра дает прибавку к удаче.
+tank.view.bagII.GoodsTipPanel.qianghuashi:Камень энергии
+tank.view.bagII.GoodsTipPanel.renwu:Задание
+tank.view.bagII.GoodsTipPanel.bangding:Тип привязки: Становится персональным при использовании.
+tank.view.bagII.GoodsTipPanel.zhuangbei:Тип привязки: Становится персональным при надевании.
+tank.view.common.AddPricePanel.xufei2: Способ оплаты
+tank.view.common.AddPricePanel.xu:Продлить
+tank.view.common.AddPricePanel.pay:Подтвердить оплату?
+tank.game.ToolStripView.face:Смайлик
+tank.game.ToolStripView.chat:Быстрый чат
+tank.game.ToolStripView.exit:Выход
+tank.game.ToolStripView.suicide:Самоубийство
+tank.roomlist.RoomListIIRoomBtnPanel.createRoom:Создать зал
+tank.roomlist.RoomListIIRoomBtnPanel.fastjojn:Быстрый доступ к командному бою
+tank.roomlist.RoomListIIRoomBtnPanel.fastjojnQj:Быстрый доступ к бою за флаг
+tank.roomlist.RoomListIIRoomBtnPanel.findRoom:Найти зал
+tank.roomlist.RoomListIIRoomBtnPanel.waitRoomList:Список доступных залов
+tank.roomlist.RoomListIIRoomBtnPanel.allRoom:Список всех залов
+tank.view.common.BellowStripViewII.shop:Лавка
+tank.view.common.BellowStripViewII.back:Назад
+tank.view.common.FPSView.biaozhun:Стандартные: 25FPS\n
+tank.view.common.FPSView.dangqian:Текущие: {0} FPS\n
+tank.view.common.FPSView.xingneng:Функция
+FPSView.as.InviteAlertPanel.bianhao:Номер зала
+FPSView.as.InviteAlertPanel.ModeLabel:Режим игры
+FPSView.as.InviteAlertPanel.name:Название зала
+FPSView.as.InviteAlertPanel.mode:Режим боя
+FPSView.as.InviteAlertPanel.free:Создать команду
+FPSView.as.InviteAlertPanel.duoqi:Режим флага
+FPSView.as.InviteAlertPanel.meifanying:Предложение будет автоматически отклонено через 15 сек. 
+FPSView.as.InviteAlertPanel.map:Название локации
+FPSView.as.InviteAlertPanel.huihetime:Длительность хода 
+FPSView.as.InviteAlertPanel.nochoice: Не выбрано
+tank.view.scenechatII.PrivateChatIIView.privatename:Личное сообщение
+tank.manager.citywideManager.privatename:Написать ЛС
+tank.manager.citywideManager.complete:Ок
+tank.view.scenechatII.PrivateChatIIView.nick:Имя игрока
+tank.view.scenechatII.SceneChatIIController.littleb:] вещает с помощью рупора
+tank.view.scenechatII.SceneChatIIController.bigb:] вещает с помощью мегафона
+tank.view.scenechatII.SceneChatIIController.sys:
+tank.view.scenechatII.SceneChatIIController.sys0:[
+tank.view.scenechatII.SceneChatIIController.say2:]
+tank.view.scenechatII.SceneChatIIController.say4:[{0}
+tank.view.scenechatII.SceneChatIIFastReply.say1:Ребята! Я круче всех! 
+tank.view.scenechatII.SceneChatIIFastReply.say4:Мамочки! Вот это да! 
+tank.view.scenechatII.SceneChatIIFastReply.say6:Я в настроении кому-нибудь врезать. 
+tank.view.scenechatII.SceneChatIIFastReply.say7:Да ну! Неужели ты это серьезно? 
+tank.view.scenechatII.SceneChatIIFastReply.say8:Черт побери, о чем ты говоришь? 
+tank.view.scenechatII.SceneChatIIFastReply.say9:Сейчас я вам задам урок, салаги! 
+tank.view.scenechatII.SceneChatIIFastReply.say10:Ну все, тебе крышка! 
+tank.view.scenechatII.SceneChatIIFastReply.say11:Отомстить никогда не поздно! 
+tank.view.scenechatII.SceneChatIIFastReply.say12:Начинай! Чего ты ждешь?
+tank.view.scenechatII.SceneChatIIModel.channel1:Текущий
+tank.view.scenechatII.SceneChatIIModel.channel2:Гильдия
+tank.view.scenechatII.SceneChatIIModel.channel3:Мегафон
+tank.view.scenechatII.SceneChatIIModel.channel4:Рупор
+tank.view.scenechatII.SceneChatIIModel.channel5:Команда
+tank.view.scenechatII.SceneChatIIView.send:Послать сообщение
+tank.view.scenechatII.SceneChatIIView.fast:Быстрый ответ
+tank.view.scenechatII.SceneChatIIView.face:Смайлик
+tank.view.im.AddFriendFrame.add:Добавить друга
+tank.view.im.AddFriendFrame.name:Введите имя
+tank.view.im.AddFriendFrame.qingwrite:Введите имя игрока
+tank.view.im.IMConsortiaList.online:В игре
+tank.view.im.IMConsortiaList.zhanli:Не в игре
+tank.view.im.IMConsortiaList.paiming:Рейтинг
+tank.view.im.IMController.yitianjia:{0} теперь будет в списке ваших друзей. Хотите отправить личное сообщение?
+tank.view.im.IMController.hi:[{0}] добавляет вас в список своих друзей. Хотите сделать то же самое? 
+tank.view.im.IMController.yitianjiahaoyou:] добавляет вас в список своих друзей.
+tank.view.im.IMController.friend:  добавляет вас в список своих друзей.
+tank.view.task.TaskCanAcceptView.nextInfo:Следующее
+tank.view.task.TaskCanAcceptView.finishTask:Принять задание
+tank.view.task.TaskCatalogContentView.dropTask:Отменить задание
+tank.view.task.TaskCatalogContentView.finishTask:Завершить задание
+tank.view.task.TaskCatalogContentView.over:(Выполнено)
+tank.view.task.TaskCatalogContentView.tip:Подсказка
+tank.view.task.TaskCatalogContentView.chooseYourAward:Выберите награду и щелкните по кнопке "Награда".
+tank.view.tutorial.EnterTutorialFrame.lodingTip:Загрузка модулей...
+tank.view.emailII.EmailIIDiamondView.moneyDeficient:У вас недостаточно Алмазов.
+tank.view.emailII.EmailIIStripView.sender:От: 
+tank.view.emailII.EmailIIStripView.validity: 
+tank.view.emailII.EmailIIStripView.day:дн.
+tank.view.emailII.EmaillIIBagCell.isBinds:Это персональный предмет.
+tank.view.emailII.EmaillIIBagCell.RemainDate:Срок действия предмета истек.
+tank.view.emailII.WritingView.sender:Укажите адресата.
+tank.view.emailII.WritingView.annex.tip:Добавьте вложение
+tank.view.emailII.WritingView.topic:Укажите тему письма.
+tank.view.emailII.WritingView.contentLength:Текст письма может быть не больше 300 знаков.
+tank.view.emailII.WritingView.annex:Не забудьте добавить вложение для доставки наложенным платежом.
+tank.view.emailII.WritingView.money_txt:Введите количество алмазов. 
+tank.view.emailII.LoadSendInfoError:Ошибка загрузки!
+tank.view.emailII.LoadMailAllInfoError:Ошибка загрузки!
+tank.view.emailII.WritingView.tip:Подсказка
+tank.view.emailII.WritingView.isEdit:Текст письма не будет сохранен!
+tank.view.im.IMFriendList.online:В игре
+tank.view.im.IMFriendList.offline:Не в игре
+tank.view.im.IMFriendList.addFriend:Добавить в друзья
+tank.view.im.IMFriendList.InviteFriend:Пригласить друзей по сообществу
+tank.view.im.IMFriendItem.delete:Удалить
+shop.ShopIITryDressView.repeal:Вернуться к предыдущему изображению
+shop.ShopIITryDressView.returnToBegin1:Удалить все изменения внешности
+shop.ShopIITryDressView.returnToBegin2:Восстановить образ по умолчанию
+road.ui.controls.TabPanel.zhi:Число должно быть от нуля до
+road.ui.controls.TabPanel.zhijian:
+tank.game.ToolStripView.limit:У вас меньше 30% здоровья, поэтому попытка самоубийства невозможна.
+tank.room.RoomIIPlayerItem.chat:Личное сообщение
+tank.room.RoomIIPlayerItem.look:Обзор
+tank.room.RoomIIPlayerItem.friend:Добавить в друзья
+tank.room.RoomIIPlayerItem.copy:Копировать имя
+tank.view.bagII.DeleteGoodsBtn.break:Разделить
+tank.room.RoomIIPlayerItem.addFriend:Добавить в друзья
+tank.room.RoomIIPlayerItem.view:Обзор
+tank.view.bagII.BreakGoodsView.wrong2:Введите количество
+tank.task.TaskPannelPosView.loginPath:Официальный сайт "Бумз"
+shop.ShopIISaveFigurePanel.gold:Не хватает золота: {0}
+shop.ShopIISaveFigurePanel.medal: Не хватает медалей: {0}
+shop.ShopIIBtnPanel.present:Сделать подарок? 
+tank.menu.PrivateChat:Послать сообщение
+tank.menu.ViewInfo:Просмотр профиля
+tank.menu.AddFriend:Добавить в друзья
+tank.menu.CopyName:Копировать имя
+tank.menu.AddBlack:В черный список
+tank.menu.Up:Повысить
+tank.menu.Down:Понизить
+tank.menu.Invite:Пригласить в гильдию
+tank.menu.ChatAllow:Отключить доступ к чату.
+tank.menu.ChatDisable:Вернуть доступ к чату.
+tank.menu.ClubName:Гильдия: 
+tank.menu.GongXun:Слава: {0}
+tank.menu.Level:Уровень: {0}
+tank.menu.WinCount:Победы: {0}
+tank.menu.LostCount:Поражения: {0}
+tank.menu.Winrate:Выиграно: {0}
+tank.room.UpdateGameStyle:Ваша команда принимает участие в бое гильдии и в свободном бое. 
+tank.data.RoomInfo.BeginFree:Приготовьтесь к битве!
+tank.data.RoomInfo.BeginClub:Приготовьтесь к бою гильдии.
+tank.game.GameView.player:Игрок [{0}] вышел!
+tank.view.chat.ChatInput.time:Говорите медленней!
+tank.room.PickupPanel.ChangeStyle:Для вас не нашлось подходящей гильдии!<br>Хотите поучаствовать в обычном бою, пока идет ожидание? 
+tank.consortia.club.consortiaList:Список гильдии
+tank.consortia.club.searchTxt:Введите название гильдии.
+tank.consortia.club.text:Наша гильдия - самая крутая гильдия на свете!
+tank.consortia.club.CreatConsortiaFrame.inputPlease:Введите название гильдии.
+tank.consortia.consortiadiplomatism.ConsortiaDiplomatismView.searchTxt:Введите название гильдии.
+tank.consortia.consortiadiplomatism.ConsortiaDiplomatismView.inputPlease:Введите условия поиска.
+tank.consortia.consortiadiplomatism.ConsortiaDiplomatismView.text:Наша гильдия - самая крутая гильдия на свете!
+tank.consortia.myconsortia.frame.AlienationConsortiaFrame.titleText:Передать гильдию
+tank.consortia.myconsortia.frame.LoadMyconsortiaInfoError:Ошибка загрузки!
+tank.consortia.myconsortia.frame.LoadMemberInfoError:Ошибка загрузки!
+tank.consortia.myconsortia.frame.LoadMyconsortiaLevelError:Ошибка загрузки!
+tank.consortia.myconsortia.frame.LoadMyconsortiaListError:Ошибка загрузки!
+tank.consortia.myconsortia.frame.LoadApplyRecordError:Ошибка загрузки!
+tank.consortia.myconsortia.frame.LoadDutyListError:Ошибка загрузки!
+tank.consortia.myconsortia.frame.LoadEnemyInfoError:Ошибка загрузки!
+tank.consortia.myconsortia.frame.AlienationConsortiaFrame.inputName:Введите имя игрока
+tank.consortia.myconsortia.frame.AlienationConsortiaFrame.info:Внимание: Вы можете передавать гильдию только одному из ее участников.
+tank.consortia.myconsortia.frame.DeleteMemberFrame.titleText:Исключить участника гильдии
+tank.consortia.myconsortia.frame.DeleteMemberFrame.inputName:Введите имя игрока
+tank.consortia.myconsortia.frame.DeleteMemberFrame.delete:Вы не можете исключать из гильдии игроков, чье звание выше вашего.
+tank.consortia.myconsortia.frame.DeleteMemberFrame.success:Операция завершена!
+tank.consortia.myconsortia.frame.DisbandConsortiaFrame.titleText:Распустить гильдию
+tank.consortia.myconsortia.frame.DisbandConsortiaFrame.sure:Для подтверждения введите слово "Disband". 
+tank.consortia.myconsortia.frame.ExitConsortiaFrame.titleText:Выйти из гильдии
+tank.consortia.myconsortia.frame.ExitConsortiaFrame.quit:Для подтверждения введите слово "Quit". 
+tank.consortia.myconsortia.frame.MyConsortiaAfficheFrame.titleText:Объявление гильдии
+tank.consortia.myconsortia.frame.MyConsortiaAfficheFrame.long:Текст слишком длинный.
+tank.consortia.myconsortia.frame.MyConsortiaAfficheFrame.input:Введите текст объявления.
+tank.consortia.myconsortia.frame.MyConsortiaJobItem.null:Введите название!
+tank.consortia.myconsortia.frame.MyConsortiaRightsFrame.titleText:Управление званиями
+tank.consortia.myconsortia.frame.MyConsortiaTax.titleText:Взнос
+tank.consortia.myconsortia.frame.MyConsortiaTax.money:У вас {0} алм. Введите размер взноса. 
+tank.consortia.myconsortia.frame.MyConsortiaTax.input:Укажите размер взноса от 2 алмазов и больше.
+tank.consortia.myconsortia.frame.MyConsortiaTax.info:Информация
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.titleText:Развитие умений гильдии
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.okLabel:Улучшить
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.gold:У вас недостаточно золота!
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.null:Нет
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.nextLevel:Уровень гильдии - {0}. Максимальное число участников - {1}.
+tank.consortia.myconsortia.frame.RecruitMemberFrame.titleText:Принять в гильдию
+tank.consortia.myconsortia.frame.RecruitMemberFrame.tipTxt:Введите имя игрока
+tank.consortia.myconsortia.MyConsortiaAuditingApplyList.titleText:Одобрить заявку
+tank.consortia.myconsortia.MyConsortiaAuditingApplyList.okLabel:Принять в гильдию
+tank.consortia.myconsortia.MyConsortiaInfoPane.week:Размер налога, вычитаемого из вкладов
+tank.consortia.myconsortia.MyConsortiaView.titleText:Данные гильдии
+tank.consortia.myconsortia.MyConsortiaMemberInfoItem.offlineTxt:В сети
+tank.consortia.myconsortia.AtLeastChoose:Вы ничего не выбрали.
+tank.manager.ChatManagerII.you:Вы не состоите в гильдии!
+tank.manager.ChatManagerII.now:Вы не входите ни в одну команду!
+tank.manager.HYellowGlowButtonManager.Error:Название {0} используется.
+tank.manager.PlayerManager.invite:Заявка одобрена! 
+tank.manager.PlayerManager.success:Вы вступили в гильдию <{0}>
+tank.manager.PlayerManager.leave:Вы вышли из гильдии.
+tank.manager.PlayerManager.upgrade:Уровень вашей гильдии повышен до {0}. Теперь в ней может быть до {1} участников!
+tank.manager.PlayerManager.upsuccess:Участник гильдии повышен в звании. 
+tank.manager.PlayerManager.upfalse:Системная ошибка. Повторите попытку позже!
+tank.manager.PlayerManager.downsuccess:Звание участника гильдии понижено. 
+tank.manager.PlayerManager.downfalse:Системная ошибка. Повторите попытку позже!
+tank.menu.RightMenuPanel.btnChat.label:Вернуть доступ к чату.
+tank.view.bagII.KeySetFrame.autocheck:Автозаполнение
+tank.view.bagII.KeySetFrame.autocheck.tips:Автоматически заполняет пустые ячейки на панели умений.
+tank.view.chat.ChannelListSelectView.big:Мегафон
+tank.view.chat.ChannelListSelectView.small:Рупор
+tank.view.chat.ChannelListSelectView.private:ЛС
+tank.view.chat.ChannelListSelectView.consortia:Гильдия
+tank.view.chat.ChannelListSelectView.ream:Команда
+tank.view.chat.ChannelListSelectView.current:Текущий
+chat.FriendList:Список друзей
+chat.Expression:Смайлик
+chat.FastReply:Короткий ответ
+chat.Send:Отправить
+tank.view.chat.ChatInputView.choose:Выберите игрока для отправки личного сообщения.
+tank.view.chat.ChatInputView.channel:Прежде, чем продолжить разговор, подождите 30 сек.
+tank.view.chat.FaceTextField.stealthily: шепчет вам: 
+tank.view.chat.SelectPlayerChatView.name:Введите имя игрока. 
+tank.view.common.BuggleView.small:] кричит в рупор: 
+tank.view.common.BuggleView.big:] кричит в мегафон: 
+tank.view.common.ConsortiaIcon.middle:Нейтральный
+tank.view.common.ConsortiaIcon.enemy:Враг
+tank.view.common.RoomIIPropTip.infinity:(Неограниченно)
+tank.view.common.RoomIIPropTip.consume:Расход энергии 
+tank.view.im.AddBlackListFrame.titleText:Добавить в черный список
+tank.view.im.AddBlackListFrame.btnText:Черный список
+tank.view.im.AddBlackListFrame.chat:Чтобы увидеть имя игрока, щелкните по нему.
+tank.view.im.IMController.success:Операция завершена.
+tank.view.im.IMController.addfriend:добавляет вас в список друзей.<br>Хотите сделать то же самое? 
+tank.view.im.IMController.thisplayer:Этот игрок в черном списке
+tank.view.im.LoadFriendsListError:Ошибка загрузки!
+tank.view.task.TaskCanAcceptView.new:Новое задание
+tank.view.task.TaskCatalogContentView.new:Содержание задания
+tank.view.task.TaskCatalogView.new:Задание
+tank.view.quest.newquest.Title:Принять новое задание
+tank.game.ArrowViewIII.big:Прозрачность [T]
+tank.game.ArrowViewIII.alpha:Настройка уровня прозрачности
+tank.game.ArrowViewIII.give: Можно использовать не чаще, чем раз в 2 раунда.
+tank.game.ToolStripView.itemTemplateInfo.Name:Смертельный прием [B]
+tank.room.RoomIIMapSetPanel.room:Настройки зала
+tank.roomlist.RoomListIICreateRoomView.titleText:Создать зал
+tank.roomlist.RoomListIIFindRoomPanel.room.info:Зала с таким номером не существует.
+tank.tofflist.view.TofflistLeftCurrentCharcter.cdr:Магистр
+tank.tofflist.view.TofflistLeftInfo.no:Нет гильдии.
+Crazytank.load:Ошибка загрузки!
+Crazytank.TankStartApp.login:Ошибка входа в игру. 
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.titleTxt:Развитие умений гильдии
+tank.view.movement.MovementLeftView.action:Список мероприятий
+tank.game.ToolStripView.start:Вы не можете предпринять попытку самоубийства, не проведя в бою {0} мин.
+tank.data.MovementInfo.begin:Начать с {0}
+tank.menu.TotalCount:Раунды: {0}
+tank.consortia.myconsortia.MyConsortiaAuditingApplyList.cancelLabel:Отмена
+choosecharacter.ChooseCharacterView.pass:Ура! Имя персонажа не занято! 
+choosecharacter.ChooseCharacterView.lost:Имя персонажа занято!
+tank.view.common.AddPricePanel.xufei1:Срок действия предмета истек. Продлите его.
+tank.consortia.club.CreatConsortiaFrame.yourGold:У вас недостаточно золота
+tank.game.LeftPlayerCartoonView.Description:Пропустите один раунд боя, чтобы поднять свой уровень ярости. 
+tank.view.comon.lack:У вас недостаточно алмазов. Хотите их купить? 
+tank.view.enthrall.turnSwitch:Выключить опции предотвращения игровой зависимости
+tank.view.enthrallCheckFrame.checkBtn:Начало верификации
+tank.view.enthrallCheckFrame.checkTitle:Верификация имени
+shop.ShopIIBtnPanel.lackGold:У вас недостаточно золота.
+shop.ShopIIBtnPanel.fullBagAlert:Покупка не удалась. У вас нет места в рюкзаке.
+tank.consortia.club.CreatConsortiaFrame.consortiaName:В названии гильдии не должно быть запрещенных символов.
+tank.consortia.club.CreatConsortiaFrame.Numeric:В названии гильдии не должно быть запрещенных символов.
+tank.view.buff.freeCard:Активировать эту функцию на 1 день стоит {0} алмазов. Продолжить? 
+tank.view.buff.doubleExp:Активировать эту функцию стоит {0} алмазов. Продолжить? 
+tank.view.buff.preventKick:Активировать эту функцию на 30 дней стоит {0} алмазов. Продолжить? 
+tank.view.buff.addPrice:Продлить срок действия предмета можно за {0} алмазов. Продолжить? 
+tank.gameover.DisableGetCard:Вы не можете получить награду. Ваша команда не нанесла урона противнику. 
+tank.view.buffInfo.outDate:{0}: срок действия истекает через {1} мин.
+tank.serverlist.ServerListPosView.your:Извините. Ваш уровень слишком высок для этого сервера.
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.consumeTxt: Вклады: {0} {1}; золотых.: {2}
+crazytank.clickboard: Пригласите друга играть в "Бумз". Вместе веселей!
+crazytank.copyOK:Ссылка скопирована. Отправьте ее своим друзьям по Skype или ICQ.
+tank.auctionHouse.view.BrowseLeftMenuView.specialties:Особый
+tank.auctionHouse.view.BrowseLeftMenuView.qianghua1:Камень энергии I
+tank.auctionHouse.view.BrowseLeftMenuView.qianghua2:Камень энергии II
+tank.auctionHouse.view.BrowseLeftMenuView.qianghua3:Камень энергии III
+tank.auctionHouse.view.BrowseLeftMenuView.qianghua4:Камень энергии IV
+tank.auctionHouse.view.BrowseLeftMenuView.zhuque1:Кристалл феникса I
+tank.auctionHouse.view.BrowseLeftMenuView.zhuque2:Кристалл феникса II
+tank.auctionHouse.view.BrowseLeftMenuView.zhuque3:Кристалл феникса III
+tank.auctionHouse.view.BrowseLeftMenuView.zhuque4:Кристалл феникса IV
+tank.auctionHouse.view.BrowseLeftMenuView.xuanwu1:Кристалл змея I
+tank.auctionHouse.view.BrowseLeftMenuView.xuanwu2:Кристалл змея II
+tank.auctionHouse.view.BrowseLeftMenuView.xuanwu3:Кристалл змея III
+tank.auctionHouse.view.BrowseLeftMenuView.xuanwu4:Кристалл змея IV
+tank.auctionHouse.view.BrowseLeftMenuView.qinglong1:Кристалл дракона I
+tank.auctionHouse.view.BrowseLeftMenuView.qinglong2:Кристалл дракона II
+tank.auctionHouse.view.BrowseLeftMenuView.qinglong3:Кристалл дракона III
+tank.auctionHouse.view.BrowseLeftMenuView.qinglong4:Кристалл дракона IV
+tank.auctionHouse.view.BrowseLeftMenuView.baihu1:Кристалл тигра I
+tank.auctionHouse.view.BrowseLeftMenuView.baihu2:Кристалл тигра II
+tank.auctionHouse.view.BrowseLeftMenuView.baihu3:Кристалл тигра III
+tank.auctionHouse.view.BrowseLeftMenuView.baihu4:Кристалл тигра IV
+choosecharacter.ChooseCharacterView.check_txt:Введите до 14 символов.
+choosecharacter.LoadCheckName.m:Ошибка проверки. 
+choosecharacter.LoadChooseFigure.trace:Загрузка регистрационных данных
+church.churchScene.frame.ModifyDiscriptionFrame.spare:Осталось
+church.churchScene.menu.MenuPanel.menuClick:Идет бракосочетание. Подождите.
+church.churchScene.SceneControler.startWedding.isStarted:Повтор бракосочетания стоит 500 алмазов. Продолжить? 
+church.churchScene.SceneControler.startWedding.more:Повторить бракосочетание
+church.churchScene.SceneControler.startWedding.Money:Вы не можете сделать подарок - у вас меньше 100 алмазов.
+church.churchScene.SceneMask.chatMsg.msg:Скидка на бракосочетание
+church.churchScene.SceneMask.click:Церемония началась. Вы не можете перемещаться.
+church.churchScene.SceneUI.switchVisibleFireList:Загрузка фейерверков. Подождите.
+church.churchScene.SceneUI.info:Подсказка: 
+church.weddingRoom.frame.AddWeddingRoomFrame.titleText:Посетить бракосочетание
+church.weddingRoom.frame.AddWeddingRoomFrame.into:Войти
+church.weddingRoom.frame.AddWeddingRoomFrame.time:0 ч. 0 мин.
+church.weddingRoom.frame.AddWeddingRoomFrame.minute:мин.
+church.weddingRoom.frame.CreateRoomFrame.titleText:Сыграть свадьбу
+church.weddingRoom.RoomListBtnPanel.clickListener:Вы не состоите в браке!
+church.weddingRoom.WeddingRoomControler.addRoom:Системная ошибка. Повторите попытку позже!
+church.weddingRoom.WeddingRoomControler.leaveRoom:Вы уверены, что хотите покинуть Храм?
+civil.frame.CivilRegisterFrame.married:В браке
+civil.frame.CivilRegisterFrame.marry:Не в браке
+civil.frame.CivilRegisterFrame.checkBox:Показать снаряжение
+civil.frame.CivilRegisterFrame.modify:Изменить данные
+civil.frame.CivilRegisterFrame.infoError:Ошибка регистрации
+tank.consortia.club.ConsortiaClubView.applyJoinClickHandler:Гильдия прекратила прием новых участников.
+tank.consortia.club.ConsortiaClubView.cellDoubleClick:Усовершенствуйте сейф гильдии.
+tank.consortia.club.ConsortiaClubView.cellDoubleClick.msg:Сейф гильдии полон.
+tank.consortia.club.ConsortiaClubView.cellOpen:Ваш уровень слишком низок.
+tank.consortia.consortiabank.ConsortiaBankView.titleText:Сейф
+tank.consortia.consortiashop.ConsortiaShopItem.checkMoney:Уровень магазина гильдии слишком низок.
+tank.consortia.consortiashop.ConsortiaShopItem.Money:У вас не хватает алмазов. Желаете их приобрести?
+tank.consortia.consortiashop.ConsortiaShopView.titleText:Магазин гильдии 
+tank.consortia.myconsortia.frame.ConsortiaAssetManagerFrame.titleText:Доступ к функциям гильдии
+grade: ур.
+consortia.Money: оч. вклада
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.consortiaShopUpgrade:Улучшение магазина гильдии
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.contentUpgrade:После улучшения сейфа гильдии, его вместимость увеличится. Сейчас в нем {0} ячеек.
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.contentSmith:Сейф гильдии {0}-го уровня имеет {1} ячеек.
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.appealTxt:Уровень гильдии: {0}
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.consortiaSmithUpgrade:Улучшить сейф гильдии
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.storeSuccess:Арсенал гильдии {0}-го уровня повышает вероятность успеха до {1}
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.storeUpgrade:Улучшить арсенал гильдии
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.condition:<FONT SIZE='12' FACE='Calibri' KERNING='2' COLOR='#ff0000'>(Не выполнено)</FONT>
+tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.name:Имя участника
+tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.duty:Должность участника
+tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.level:Уровень участника
+tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.time:Время прошедшее с последнего выхода участника из игры.
+tank.consortia.myconsortia.MyConsortiaView.consortiaStore:Арсенал гильдии
+tank.manager.ChurchRoomManager.loadingMap:Загрузка свадебной сцены
+tank.manager.ItemManager.falseLoading:Ошибка загрузки типа предмета
+tank.manager.ItemManager.cigaretteAsh:Фейерверк
+tank.manager.ItemManager.Description:Фейерверк! Фейерверк!
+tank.manager.PlayerManager.isInvent.msg:Вы вступили в гильдию <{0}>.
+tank.manager.PlayerManager.consortiaShop:Магазин гильдии улучшен до {0}-го уровня.
+tank.manager.PlayerManager.consortiaShop2:Магазин вашей гильдии улучшен до {0}-го уровня.
+tank.manager.PlayerManager.consortiaStore:Арсенал гильдии улучшен до {0}-го уровня.
+tank.manager.PlayerManager.consortiaStore2:Арсенал вашей гильдии улучшен до {0}-го уровня.
+tank.manager.PlayerManager.consortiaSmith:Сейф гильдии улучшен до {0}-го уровня.
+tank.manager.PlayerManager.consortiaSmith2:Сейф гильдии улучшен до {0}-го уровня.
+tank.manager.PlayerManager.IsMarried:Вы уже состоите в браке.
+tank.manager.PlayerManager.notAllow:Вы не можете сделать предложение персонажу вашего пола.
+tank.manager.PlayerManager.married:Ваш партнер уже состоит в браке.
+tank.manager.PlayerManager.youMarried:Вы уже состоите в браке.
+tank.manager.PlayerManager.isApplicant:принимает ваше предложение.
+tank.manager.PlayerManager.refuseMarry:отказывается принять ваше предложение.
+tank.manager.PlayerManager.youAndOtherMarried:Вы и {0} обручились!
+tank.manager.PlayerManager.divorce:Вы разведены
+tank.manager.SocketManager.copyRight:Версия
+tank.view.bagII.baglocked.BagLockedGetFrame.titleText2:Удалить доп. пароль
+tank.view.bagII.baglocked.BagLockedHelpFrame.titleText: Данные о доп. пароле
+tank.view.bagII.baglocked.BagLockedSetFrame.tip1:Длина пароля - от 6 до 14 символов. 
+tank.view.bagII.baglocked.BagLockedSetFrame.tip3:Пароли не совпадают. Попробуйте еще раз. 
+tank.view.bagII.baglocked.BagLockedSetFrame.titleText: Настройки доп. пароля
+tank.view.bagII.baglocked.BagLockedUpdateFrame.oldPassWord:Введите старый пароль. 
+tank.view.bagII.baglocked.BagLockedUpdateFrame.newPassWord:Введите новый пароль. 
+tank.view.bagII.baglocked.BagLockedUpdateFrame.wrong:Пароли не совпадают. Попробуйте еще раз. 
+tank.view.bagII.baglocked.BagLockedUpdateFrame.titleText:Изменить доп. пароль
+tank.view.bagII.BagIIView.bagLockedBtn: Настройки доп. пароля
+tank.view.bagII.BagIIView.level:Слишком низкий уровень.
+delet:Удалить
+tank.view.bagII.GoodsTipPanel.free:Лечение
+tank.view.bagII.GoodsTipPanel.life:Здоровье
+tank.view.chat.FaceTextField.copy:Копировать
+tank.view.common.church.DialogueAgreePropose.okLabel:Провести бракосочетание
+tank.view.common.church.DialogueAgreePropose.cancelLabel:В другой раз
+songti:Calibri
+accept:Принять
+refuse:Отказаться
+tank.view.common.church.ProposeResponseFrame.titleText:Признание в любви!
+tank.view.common.AddPricePanel.label: Срок действия предмета скоро истечет. Пожалуйста, вовремя продлите его.
+tank.view.continuation.ContinuationItem.initCom:Выберите срок.
+reBack_btn.label:Вернуть
+reply_btn.label:Ответить
+write_btn.label:Написать
+tank.view.emailII.ReadingView.deleteSelectListener:Выберите письмо
+send:Отправить
+tank.view.emailII.WritingView.backTime:Время возврата письма: 1 час
+tank.view.emailII.WritingView.backTime2:Время возврата письма: 6 часов
+tank.view.tutorial.EnterTutorialFrame.loaderComplete:Обратитесь к руководству для новичков.
+duoqi:Флаг
+nextPage:Далее
+lastPage:В конец
+prePage:Назад
+firstPage:В начало
+tank.roomlist.RoomListIICreateRoomView.DESCRIPTION:В режиме PvP боя вы сражаетесь со случайно подобранными противниками и получаете за победу щедрые награды. 
+tank.roomlist.RoomListIICreateRoomView.DESCRIPTION2:В учебном режиме вы сами выбираете себе противников, но награда не так высока.
+shop.ShopIISaveFigurePanel.okBtn.label:Оплатить
+shop.ShopIISaveFigurePanel.cancelBtn.label:Выход
+store.StoreIIComposeBG.consortiaRate_txt:Бонус гильдии {0}%
+MarryIcon.hubby:Жена: {0} 
+MarryIcon.wife:Муж: {0}
+tank.data.EquipType.suit:Образ
+tank.data.EquipType.necklace:Ожерелье
+tank.data.EquipType.wing:Крылья
+tank.data.EquipType.paopao:Облачко
+hurch.weddingRoom.frame.CreateRoomFrame.name_txt:Свадьба {0} и {1}.
+yu: и 
+dehunli: сочетаются браком!
+church.churchScene.scene.SceneMap.lihua:Эффект фейерверка отключен.
+church.churchScene.frame.ModifyRoomInfoFrame.titleText:Настройки зала
+ranfang:Настроить фейерверк
+tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.total:Сумма взносов участников и очков, полученных за выполнение заданий.
+tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.getOrLost:Очки вклада, заработанные игроком в боях гильдии.
+gongxun:Слава
+ConsortiaShopItem.gongXunbuzu:У вас недостаточно славы.
+Crazytank.share:Поделиться с друзьями по Skype или ICQ
+Crazytank.collection:Поместить ссылку в закладки
+Crazytank.supply:Купить алмазы
+tank.common.fastMenu.hasnotOfficialSite:Пока недоступно
+tank.common.fastMenu.hasnotForum:Пока недоступно
+tank.manager.enthrallRemind1:Вы провели в игре больше 1 часа
+tank.manager.enthrallRemind2:Вы провели в игре больше 2 часов
+tank.manager.enthrallRemind4:Вы провели в игре больше 5 часов. Отдохните, или не будете получать добычу с боев и походов!
+community:Друг по сообществу
+tank.view.bagII.fushion:Слияние
+tank.view.bagII.couldFushion:Доступен для слияния
+tank.view.dailyconduct.clubDayly:Ежедневные задания гильдии
+tank.view.dailyconduct.dayly:Ежедневное задание
+tank.view.dailyconduct.completeProcess:Общий прогресс
+tank.view.dailyconduct.daylyAndCompleteProcess:Ежедневные задания\nЗавершено: 
+tank.view.dailyconduct.clubDaylyAndCompleteProcess:Ежедневные задания гильдии\nЗавершено:
+tank.view.dailyconduct.DailyTaskItem.complete:[Завершено]
+tank.view.dailyconduct.DailyTaskItem.uncomplete:[Не завершено]
+tank.view.dailyconduct.DailyTaskItem.accomplish:<b><FONT SIZE='13' FACE='Calibri' KERNING='2' COLOR='#00FF00' >Завершено</FONT></b>
+tank.view.dailyconduct.DailyTaskItem.noAccomplish:<b><FONT SIZE='13' FACE='Calibri' KERNING='2' COLOR='#FF0000' >Не завершено</FONT></b>
+tank.view.dailyconduct.dailyFrameTitle:Ежедневные события
+tank.data.auctionHouse.AuctionGoodsInfo.tmiddle:От 30 мин. до 2 ч.
+tank.data.auctionHouse.AuctionGoodsInfo.tlong:От 2 до 12 ч.
+tank.data.auctionHouse.AuctionGoodsInfo.tvery:Больше 12 ч.
+tank.gameover.NotEnoughPayToTakeCard:У вас недостаточно алмазов, чтобы переворачивать карточки. 
+tank.room.RoomIIView2.noplacetoinvite:В зале нет мест.
+tank.room.RoomIIView2.notenoughmoney.title:Подсказка
+tank.room.RoomIIView2.notenoughmoney.content:У вас недостаточно алмазов. Хотите их купить? 
+continue:Продолжить
+shop.ShopIISaveFigurePanel.gift:Не хватает купонов: {0}
+tank.data.EquipType.offhand:Артефакт
+tank.view.bagII.GoodsTipPanel.ciclehole:Ячейка характеристик
+tank.view.bagII.GoodsTipPanel.recthole:Ячейка защиты
+tank.view.bagII.GoodsTipPanel.trianglehole:Ячейка атаки
+tank.view.bagII.GoodsTipPanel.unknowhole:Неизвестная ячейка
+tank.view.bagII.GoodsTipPanel.melting: и подвергнуть слиянию
+tank.view.bagII.GoodsTipPanel.canmelting:Доступен для слияния
+tank.view.bagII.GoodsTipPanel.holeenable: [Доступна]
+tank.dungeon.tryagain.title:Попробовать еще раз
+tank.invite.InvitePlayerItem.levelInadequate:Ваш уровень слишком низок или слишком высок для этого зала.
+tank.roomlist.RoomListIIPveBGView.levelCheck:Ваш уровень слишком низок или слишком высок для этого зала. Выберите другой зал.
+tank.view.common.shortcutBuyItem:{0} стоит {1} алм. Продолжить? 
+tank.missionsettle.dungeon.leaveConfirm.contents:<font color='#ff0000'>Поход еще не завершен. Досрочный выход означает отказ от ценного приза. </font>
+tank.missionsettle.explore.leaveConfirm.title:Выйти из битвы
+tank.room.RoomIIView2.affirm:Подтвердить
+tank.room.RoomIIView2.clewContent:Режим Похода имеет повышенную сложность.<br/> Проходить его легче командой, состоящей из <FONT COLOR='#FF0000'>2</FONT> и более игроков.<br/> Вы уверены, что хотите отправиться туда в одиночку? 
+tank.game.ArrowViewIII.deputyweapon.title:Артефакт [R]
+tank.game.ArrowViewIII.deputyweapon.description:Специальный предмет с уникальным эффектом.
+tank.game.prop.effect.seal:Вы не можете использовать предметы под действием печати!
+tank.room.RoomMapSetPanelDuplicate.choicePermissionType:Выберите уровень сложности
+tank.view.task.Taskstatus.onProgress: (Не завершено) 
+tank.gameover.takecard.money:Алмазы
+tank.gameover.takecard.gifttoken: куп.
+tank.dialog.showbugleframe.ok:Подтвердить покупку
+tank.dialog.showbugleframe.bigbugletitle:Приобрести мегафоны
+tank.dialog.showbugleframe.smallbugletitle:Приобрести рупоры
+tank.view.ReworkNameView.consortiaReworkName:Смена названия гильдии
+tank.view.ReworkNameView.reworkName:Смена имени
+tank.view.ReworkNameView.okLabel:Подтвердить изменения
+tank.view.ReworkNameView.inputName:Введите имя
+tank.view.ReworkNameView.consortiaInputName:Введите название гильдии
+tank.view.ReworkNameView.reworkNameComplete:Изменения вступят в силу через 24 часа.
+tank.view.bagII.GoodsTipPanel.over1:Срок действия предмета истек. Он будет удален через {0} дн.
+tank.view.bagII.GoodsTipPanel.over2:Не забывайте продлять срок действия предметов.
+tank.view.bagII.GoodsTipPanel.over3:Срок действия предмета истек. Он будет удален через {0} ч.
+tank.view.bagII.GoodsTipPanel.over4:Не забывайте продлять срок действия предметов.
+tank.view.userGuide.AnswerView.answerFail:Неверный ответ!
+tank.view.userGuide.Common.progress:Задача выполнена!
+tank.view.DefyAfficheView.cancel:Отмена
+tank.view.DefyAfficheView.affiche:Победный клич
+tank.view.DefyAfficheView.afficheInfo: Мы - лучшие из лучших. Присоединяйтесь к нам.
+tank.view.DefyAfficheView.afficheCaput: со своей командой побеждает 
+tank.view.DefyAfficheView.afficheTitText:Введите текст объявления (у вас осталось {0} зн.)
+tank.view.DefyAfficheView.hint:<FONT SIZE='16' FACE='Calibri' KERNING='2' COLOR='#FF0000'>Это действие стоит 500 алмазов. Продолжить? </FONT>
+tank.view.personalinfoII.hp:Здоровье
+tank.view.personalinfoII.attact:Атака
+tank.view.personalinfoII.attactDetail:Увеличивает наносимый вами урон, но слегка снижает скорость атаки. 
+tank.view.personalinfoII.defense:Защита
+tank.view.personalinfoII.agility:Ловкость
+tank.view.personalinfoII.agilityDetail:Влияет на скорость вашей атаки и повышает запас энергии. 
+tank.view.personalinfoII.luck:Удача
+tank.view.personalinfoII.luckDetail:Влияет на шанс нанести урон противнику, игнорируя его защиту. 
+tank.view.personalinfoII.energy:Энергия
+tank.view.personalinfoII.energyDetail:Расходуется на применение умений и перемещение. 
+tank.view.personalinfoII.damage:Урон
+tank.view.personalinfoII.damageDetail:Базовый урон, который вы можете нанести противнику в бою.
+tank.view.bagII.BagIIView.bagFinishingBtn:Сортировка предметов.
+tank.view.store.matteTips:Если у вас есть подходящие жемчужины, просто вложите их в соответствующие ячейки для украшения.
+tank.view.GoldInadequate:У вас недостаточно золота. Хотите купить сундук с золотом?
+tank.game.GameViewBase.Hint:<FONT SIZE='16' FACE='Calibri' KERNING='2' COLOR='#0077bc'><B>Срок действия вашей карточки умений истек. Продлите его скорее! </B></FONT>
+tank.game.GameViewBase.HintTitle:Подсказки
+tank.view.store.matteHelp.title:Украшение
+tank.view.store.title:Арсенал
+tank.view.store.matte.notOpen:Эта ячейка пока недоступна.
+tank.view.store.matte.notType:Неверный тип
+tank.view.store.matte.goldQuickBuy:Быстрая покупка
+tank.view.common.freeFight:Обычный бой
+tank.view.common.guildFight:Бой гильдии
+tank.view.common.exploreFight:Приключение
+tank.view.common.bossFight:Схватка с боссом
+tank.view.common.duplicateFight:Поход
+tank.gameover.times:раз
+shop.view.present:Подарить
+tank.auctionHouse.view.jewelry:Украшения
+tank.auctionHouse.view.offhand:Артефакт
+tank.auctionHouse.view.triangle:Жемчужина атаки
+tank.auctionHouse.view.round:Жемчужина хар-к
+tank.auctionHouse.view.square:Жемчужина защиты
+tank.auctionHouse.view.auctioned:На предмет сделаны ставки.
+tank.manager.selectDuplicate:Выберите карту
+tank.manager.loadShopItemsFailed:Ошибка загрузки.
+tank.view.bagII.baglocked.setting:Задать пароль
+tank.view.bagII.baglocked.modify:Изменить пароль
+tank.view.bagII.baglocked.delete:Удалить пароль
+tank.view.bagII.baglocked.diffrent:Пароли не совпадают! 
+tank.view.bagII.baglocked.alertInfo:Длина пароля может быть от 6 до 14 символов.
+tank.view.bagII.baglocked.deletePassword:Удалить доп. пароль
+tank.view.bagII.baglocked.sureToDelete:Подтвердить удаление?
+tank.view.bagII.baglocked.inputOriginalPassword:Введите старый пароль.
+tank.view.bagII.baglocked.resetting:Изменить доп. пароль
+tank.view.bagII.baglocked.immediatelyComplete:Завершить изменение
+tank.view.bagII.baglocked.inputAnswer:Введите ответы на вопросы к паролю
+tank.view.bagII.baglocked.sureInfo: Подтверждение доп. пароля
+tank.view.bagII.baglocked.complete:Выполнено
+tank.view.bagII.baglocked.answerDiffer:Ответы на вопросы к паролю не совпадают!
+tank.view.bagII.baglocked.passwordSetting: Настройка защиты доп. пароля
+tank.view.bagII.baglocked.selectQustion:Выберите вопросы для защиты пароля
+tank.view.bagII.baglocked.inputCompletely:Заполните все данные.
+tank.view.bagII.baglocked.cantRepeat:Вопросы к паролю должны быть разными.
+tank.view.bagII.baglocked.modifyTitle:Изменить доп. пароль
+tank.view.bagII.baglocked.modifyBtn:Изменить
+tank.view.bagII.baglocked.originalNull:Введите старый пароль.
+tank.view.bagII.baglocked.newNull:Введите новый пароль!
+tank.view.bagII.baglocked.newDiffer:Неправильный новый пароль.
+tank.view.bagII.baglocked.newTooLong:Новый пароль слишком длинный.
+tank.view.bagII.baglocked.newTooShort:Новый пароль слишком короткий.
+tank.view.bagII.sexErr:Неподходящий пол
+tank.view.bagII.dressed:Уже надето
+tank.game.mapGenerated:Сцена создана
+tank.game.cantUseItem:Вы не можете использовать предметы под действием печати!
+tank.gametrainer.study.fengongbogu:Розовый гулу
+tank.gametrainer.view.freshmanQustion:Вопрос для новичков
+tank.gametrainer.view.agree:Согласиться
+tank.missionresult.leave:Уйти
+tank.room.explanation:Информация о пункте
+tank.room.statistics:Статистика боя
+tank.room.moreThanOne:В обеих командах должно быть больше чем по одному игроку.
+tank.room.somebodyInvalidate:Некоторые игроки в зале не подходят по уровню.
+tank.roomlist.lessLevel:Ваш уровень ниже {0}-го, поэтому вы не можете отправиться в Поход.
+tank.roomlist.friendOffline:Ваш друг не в сети
+tank.roomlist.joinBossBattleQuickly:Быстрый доступ к схватке с боссом
+tank.roomlist.joinExploreBattleQuickly:Быстрый доступ к приключению
+tank.roomlist.joinBattleQuickly:Быстрый доступ к PvP бою
+tank.loginstate.loginURLFail:Срок действия ссылки истек
+tank.loginstate.chooseCharacter:Выберите персонажа
+tank.loginstate.inputUserName:Введите имя пользователя 
+tank.loginstate.CharacterNameNull:Введите имя персонажа!
+tank.loginstate.guildNameNull:Введите название гильдии!
+tank.loginstate.characterModify:Новое имя:
+tank.loginstate.inputCharacterName:Введите имя персонажа 
+tank.loginstate.guildNameExist:Гильдия под названием <{0}> уже существует. Чтобы войти в игру, вам нужно изменить название своей гильдии.
+tank.loginstate.guildNameModify:Сменить название гильдии
+tank.loginstate.allNull:Имя не может состоять из пробелов
+tank.loginstate.inputNickName:Введите имя пользователя 
+shop.view.restore:Вернуться к образу по умолчанию.
+store.states.clothOpenProperty:Предмет усилен. В вашем костюме появилась новая ячейка характеристик.
+store.states.clothOpenDefense:Предмет усилен. В вашем костюме появилась новая ячейка защиты.
+store.states.weaponOpenAttack:Предмет усилен. В вашем оружии появилась новая ячейка атаки.
+store.states.weaponOpenProperty:Предмет усилен. В вашем оружии появилась новая ячейка характеристик.
+store.states.embedTitle:Украшение
+store.view.fusion.buyFormula:Купить формулу
+store.view.shortcutBuy.buyBtn:Купить
+heiti:Черный
+store.view.shortcutBuy.shouldPay:Всего вам нужно выплатить
+store.view.strength.unpare:Камень не подходит для этого снаряжения.
+store.view.strength.typeUnpare:Неверный тип камня
+store.view.transfer.info:В рюкзаке нет места, или предметы не того типа!
+tank.view.buffControl.buffButton.freeCard:Карточка умений
+tank.view.dailyconduct.gain:Принять
+tank.gametrainer.data.TrainerModel.answer1:1. Как перемещать персонажа?
+tank.gametrainer.data.TrainerModel.answer4:Как использовать оружие?
+tank.gametrainer.data.TrainerModel.answer6:Зажать пробел, а потом отпустить его. 
+tank.view.bagII.baglocked.question2:Девичья фамилия матери?
+tank.view.bagII.baglocked.question3:Имя вашего питомца?
+tank.view.bagII.baglocked.question5:Дата вашего рождения?
+tank.view.bagII.baglocked.question6:Любимый герой мультфильма?
+tank.view.bagII.baglocked.customer:Определяется пользователем
+tank.tofflist.view.lastUpdateTime:Последние обновления:\n
+tank.view.common.newAnwserTitle:Вопрос для новичков
+tank.view.common.newAnwser1:Чтобы улучшить свойства моего снаряжения! 
+tank.view.common.newAnwser2:Чтобы повысить уровень моего здоровья.
+tank.gametrainer.view.wrongAnwser:Ответ неверный.
+tank.data.QualityType.cucao:Плохое
+tank.data.QualityType.putong:Обычное
+tank.data.QualityType.youxiu:Хорошее
+tank.data.QualityType.jingliang:Отличное
+tank.data.QualityType.zhuoyue:Превосходное
+tank.data.QualityType.chuanshuo:Идеальное
+tank.data.QualityType.shenqi:Божественное
+tank.view.common.DeadTipDialog.title:Бой с тенью
+tank.view.common.DeadTipDialog.btn:Я уже знаю
+tank.game.GameView.getgoodstip.broadcast:{0}  завершает {1} . Среди трофеев обнаруживается 
+tank.dialog.showbugleframe.crossbugletitle:Быстро купить межсерверный мегафон
+tank.game.GameView.unexpectedBattle:Битва
+tank.game.GameView.dungeonBattle:Поход
+tank.view.chat.ChannelListSelectView.cross:Межсерверное объявление
+tank.view.chatFormat.cross:Невозможно отправить личное сообщение игроку на другом канале.
+tank.game.BloodStrip.HP:Здоровье
+tank.game.PowerStrip.energy:Энергия: 
+tank.game.deputyWeapon.canNotUse:Вы слишком часто использовали артефакт в этом бою!
+tank.view.common.InviteAlertPanel.pass:Этап:
+tank.menu.FightPower:Сила: {0} 
+tank.hall.ChooseHallView.hotWellAlert:Приглашение на горячий источник
+tank.view.ConsortiaReworkNameView.consortiaNameModify:Сменить название гильдии
+tank.view.ConsortiaReworkNameView.consortiaNameAlert1:Чтобы использовать карточку названия гильдии, надо сначала вступить в какую-нибудь гильдию.
+tank.view.ConsortiaReworkNameView.consortiaNameAlert2:Этим может пользоваться только магистр гильдии.
+tank.view.ConsortiaReworkNameView.consortiaNameAlert3:Введите новое название своей гильдии.
+tank.view.ConsortiaReworkNameView.consortiaNameModifySuccess:Название гильдии изменено. Изменения вступят в силу через 24 часа.
+tank.view.ConsortiaReworkNameView.consortiaNameAlert6:Введите хоть какое-нибудь название для гильдии.
+tank.view.ConsortiaReworkNameView.consortiaNameAlert7:Введите имя.
+tank.manager.crossdisable:Межсерверный мегафон пока недоступен.
+tank.game.deputyWeapon.canNotUse2:Вы слишком часто использовали в этом бою щит гулу.
+tank.game.deputyWeapon.canNotUse3:Вы слишком часто использовали в этом бою щит Барока.
+tank.view.emailII.ReadingView.useHelp:Руководство
+tank.game.BloodStrip.tip:Как только ваше здоровье упадет до нуля, вы превратитесь в призрака. Улучшение и усиление снаряжения могут очень сильно увеличить ваш запас здоровья!
+tank.gameover.gainDoubleEXP:Карточка удвоенного опыта удваивает получаемый вами опыт.
+tank.game.PowerStrip.tip:Передвигаясь, вы расходуете энергию. Когда её запас упадет до нуля, вы не сможете ни двигаться, ни применять предметы.
+tank.room.RoomIIView.cross.kuaqu:Межсерверные бои.
+tank.room.RoomIIView.cross.benqu:Локальные бои.
+tank.command.fightLibCommands.script.MeasureScree.DifficultMeasureScreenScript.command1:Что делать, если расстояние до цели не получается определить точно?
+tank.command.fightLibCommands.script.MeasureScree.DifficultMeasureScreenScript.command5:А теперь попробуйте применить полученные знания на практике!
+tank.command.fightLibCommands.script.MeasureScree.EasyTwentyDegree.command2:Броски под углом 20° имеют свои плюсы и минусы. Например, летящий у самой земли снаряд почти не сносит ветром. Но зато ему куда сильнее мешают препятствия.
+tank.command.fightLibCommands.script.MeasureScree.EasyTwentyDegree.command3:Теперь разберем подробнее, с какой силой нужно метать оружие, чтобы попасть в цель.
+tank.command.fightLibCommands.script.MeasureScree.EasyTwentyDegree.command4:Обратите внимание на эту таблицу. Запущенный с силой 10 снаряд пролетит одну десятую часть экрана, с силой 19 - на две, и так далее. Разумеется, угол прицела везде считается за 20°.
+tank.command.fightLibCommands.script.MeasureScree.EasyTwentyDegree.command7:Отлично! А теперь - несложное упражнение для закрепления навыков.
+tank.command.fightLibCommands.script.HighThrow.EasyHighThrow.command2:Запущенные таким способом снаряды буквально обрушиваются на противника с небес. Если их не снесет ветром, конечно же!
+tank.command.fightLibCommands.script.HighThrow.EasyHighThrow.command5:Я ставлю для вас мишень. Попробуйте поразить  ее выстрелом по параболе!
+tank.command.fightLibCommands.script.HighThrow.DifficultHighThrow.command1:Хотите знать, что делать в случае, если ветер чересчур силен, или не удается точно рассчитать расстояние?
+tank.command.fightLibCommands.script.SixtyDegree.DifficultSixtyDegreeScript.command1:Что делать, если не удается точно прицелиться, или ветер слишком силен?
+tank.command.fightLibCommands.script.SixtyDegree.EasySixtyDegreeScript.command2:Запущенные под крутым углом снаряды способны поразить цель на любой высоте. Плохо лишь то, что снаряды сильно сносит ветром, и целиться нужно очень тщательно.
+tank.command.fightLibCommands.script.SixtyDegree.EasySixtyDegreeScript.command3:Мастерство придет с практикой. Итак, как же стрелять под углом в 65° так, чтобы попадать в противника?
+tank.command.fightLibCommands.script.SixtyDegree.EasySixtyDegreeScript.command6:Я поставлю для вас мишень. Попробуйте по ней попасть!
+tank.command.fightLibCommands.script.SixtyDegree.EasySixtyDegreeScript.command7:Точно в цель! А попасть по двум мишеням с десяти попыток вы сумеете?
+tank.command.fightLibCommands.script.SixtyDegree.NormalSixtyDegreeScript.command1:Как я уже говорила, при метании снарядов под углом в 65° больше всего мешает ветер. Сейчас мы научимся делать поправку на него!
+tank.command.fightLibCommands.script.HighGap.EasyHighGap.command1:Нередки ситуации, когда противник находится выше или ниже вас. В таких случаях нужно делать особую поправку при стрельбе.
+tank.command.fightLibCommands.script.HighGap.EasyHighGap.command2:Помните, что снаряд летит по дуге - если противник стоит выше - не переборщите с силой выстрела!
+tank.command.fightLibCommands.script.HighGap.NormalHighGap.command1:Вы неплохо справились с прошлым уроком! Давайте не будем ничего менять, только условие победы немного усложним?
+tank.command.fightLibCommands.script.ChallengeScript:Сюда может дойти лишь избранный! Приготовьтесь к самым страшным испытаниям - впереди сущий ад!
+tank.command.fightLibCommands.script.MeasureScree.startTrain:Начать тренировку
+tank.fightLib.ChooseFightLibTypeView.selectFightLibInfo:Выберите урок.
+tank.fightLib.ChooseFightLibTypeView.selectDifficulty:Выберите уровень сложности.
+tank.view.ChannelList.FastMenu.exit:Закрыть
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.sure:Вы уверены, что хотите увеличить уровень гильдии? 
+church.churchScene.SceneUI.menuClick:Вы уверены, что хотите сейчас провести церемонию бракосочетания? 
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.CONSORTIASHOPGRADE:Вы уверены, что хотите улучшить магазин гильдии?
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.CONSORTIASTOREGRADE:Вы уверены, что хотите улучшить сейф гильдии?
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.CONSORTIASMITHGRADE:Вы уверены, что хотите улучшить арсенал гильдии?
+are.you.sure.to.marry:Вы уверены, что хотите начать церемонию бракосочетания?
+tank.room.RoomIIView2.leaveRoom:Вы уверены, что хотите сейчас выйти из Храма? 
+tank.gametrainer.data.TrainerModel.answer5:С помощью низкочастотных телепатических сигналов.
+tank.view.common.newQuestion1:1. Зачем нужно усиление предметов? 
+tank.view.common.newQuestion2:2. Работает ли смертельный прием в сочетании с умением "Три в одном"? 
+tank.view.common.newAnwser3:Да.
+tank.view.common.newAnwser4:Нет.
+tank.consortia.myconsortia.frame.MyConsortiaTax.sure:Вы уверены? 
+tank.view.emailII.EmailIIStripView.delectEmail: Предметы, приложенные к письму также будут удалены. <br>Это действие необратимо. Продолжить? 
+tank.gametrainer.data.TrainerModel.answer2:С помощью клавиш ← или → на клавиатуре.
+tank.hotSpring.room.time.minute: мин.
+tank.hotSpring.room.config.title:Настройки зала
+tank.hotSpring.room.create.title:Создать зал.
+tank.hotSpring.nogoin:Сегодня вы уже посещали источник. Приходите завтра!
+tank.hotSpring.room.defaultName:Искупаться и расслабиться в горячем источнике.
+store.view.ShortcutBuyCell.jiezi:Кольцо
+store.view.ShortcutBuyCell.shouzhuo:Браслет
+store.view.ShortcutBuyCell.baozhu:Жемчуг
+store.view.ShortcutBuyCell.zhuque:Феникс
+store.view.ShortcutBuyCell.xuanwu:Змей
+store.view.ShortcutBuyCell.qinglong:Дракон
+store.view.ShortcutBuyCell.baihu:Тигр
+store.view.ShortcutBuyCell.zhuque1:феникса
+store.view.ShortcutBuyCell.xuanwu1:змея
+store.view.ShortcutBuyCell.qinglong1:дракона
+store.view.ShortcutBuyCell.baihu1:Тигра
+shop.ShopIIModel.GoodsNumberLimit: Больше предметов для покупки нет.
+tank.hotSpring.money:Алмазы
+tank.hotSpring.gold:золотых.
+tank.hotSpring.comfirm:Вход будет стоить вам 10 000 золотых. Продолжить? 
+tank.room.duplicate.previewTitle:Темный замок
+tank.view.common.NPCPairingDialog.title:Вы встретились с сильным противником.
+tank.view.common.NPCPairingDialog.accept:Принять
+tank.view.common.NPCPairingDialog.refuse:Отклонить
+tank.view.common.NPCPairingDialog.content:На вашем пути появился могучий враг. Вы готовы принять вызов?
+tank.view.im.IMBlackList.add:Добавить в черный список
+tank.fightLib.FightLibQuestionFrame.reAnswer:Повтор
+tank.fightLib.FightLibQuestionFrame.viewTutorial:Инструкции
+store.view.strength.clew:<FONT SIZE='16' FACE='Calibri' KERNING='2' COLOR='#FF0000'><B>Камень энергии 5-го уровня увеличивает вероятность успеха при усилении.\nЧтобы получить камень энергии 5-го уровня, используйте слияние камней энергии 4-го уровня.</B></FONT>
+2.35version:
+tank.consortia.myconsortia.MyConsortiaMemberInfoItem.long:Долгое время
+tank.hotSpring.room.load.error:Ошибка загрузки!
+tank.menu.fireConfirm:Вы уверены, что хотите исключить из своей гильдии игрока по имени {0}?
+tank.timeBox.awardsInfo:Награды
+tank.timebox.second: сек.
+tanl.timebox.tipMes:После отсчета времени вы получите ценные призы.
+tank.game.GameView.RouletteBattle:Рулетка
+tank.dialog.showbugleframe.rouletteKey:Купить ключ к сундуку
+tank.view.rouletteView.title:Сундук удачи.
+tank.view.store.consortiaRateI:Вы не состоите в гильдии.
+tank.view.store.consortiaRateII:Взнос: {0}/{1}
+tank.view.store.consortiaRateIII:Арсенал гильдии должен иметь уровень 1 или выше.
+tank.view.effort.EffortCategoryTitleItem.PART:Персонаж
+tank.view.effort.EffortPullDodnMenu.FULL:Все
+tank.view.effort.EffortPullDodnMenu.ACQUIRE:Завершенные
+tank.view.effort.EffortPullDodnMenu.INCOMPLETE:Незавершенные
+tank.view.rouletteview.close:Вы уверены, что хотите выйти?
+tank.view.im.IMController.addBlackList:Вы не можете внести в черный список больше 100 игроков.
+tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.battle:Относительная сила участника гильдии
+tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.contribute:Размер взносов участников гильдии.
+tank.menu.fire:Исключить
+tank.consortia.myconsortia.systemWord:Щелкните здесь, чтобы отредактировать объявление.
+tank.consortia.myconsortia.frame.MyConsortiaInfoPanel.week:/Неделя
+2.40version:
+baglocked.SetPassFrame1.inputTextInfo1:Введите пароль
+baglocked.SetPassFrame1.inputTextInfo2:(Введите от 6 до 14 символов)
+baglocked.SetPassFrame1.inputTextInfo3:Повторите ввод пароля
+baglocked.SetPassFrame2.question1:Вопрос А
+baglocked.SetPassFrame2.answer1:Ответ А
+baglocked.SetPassFrame2.inputTextInfo1:(не больше 40 символов)
+baglocked.SetPassFrame2.question2:Вопрос Б
+baglocked.SetPassFrame2.answer2:Ответ Б
+baglocked.UpdatePassFrame.Text5:Введите старый пароль
+baglocked.UpdatePassFrame.Text6:Введите новый пароль
+baglocked.UpdatePassFrame.Text7:Еще раз введите старый пароль
+tank.view.chat.ChatFacePannel.face1:Улыбка
+tank.view.chat.ChatFacePannel.face2:Несчастный
+tank.view.chat.ChatFacePannel.face3:Слюни
+tank.view.chat.ChatFacePannel.face4:Шок
+tank.view.chat.ChatFacePannel.face5:Гордость
+tank.view.chat.ChatFacePannel.face6:Слезы
+tank.view.chat.ChatFacePannel.face7:Румянец
+tank.view.chat.ChatFacePannel.face8:Цыц!
+tank.view.chat.ChatFacePannel.face9:Крик
+tank.view.chat.ChatFacePannel.face10:Смех
+tank.view.chat.ChatFacePannel.face11:Печаль
+tank.view.chat.ChatFacePannel.face12:Язык
+tank.view.chat.ChatFacePannel.face13:Сигара
+tank.view.chat.ChatFacePannel.face14:Угроза
+tank.view.chat.ChatFacePannel.face15:Хохот
+tank.view.chat.ChatFacePannel.face16:Больной
+tank.view.chat.ChatFacePannel.face17:Замерзший
+tank.view.chat.ChatFacePannel.face18:Вопрос
+tank.view.chat.ChatFacePannel.face19:Т-с-с!
+tank.view.chat.ChatFacePannel.face20:Побитый
+tank.view.chat.ChatFacePannel.face21:Капля
+tank.view.chat.ChatFacePannel.face22:Борьба
+tank.view.chat.ChatFacePannel.face23:Презрение
+tank.view.chat.ChatFacePannel.face24:ЯРОСТЬ!
+tank.view.chat.ChatFacePannel.face25:Безумие
+tank.view.chat.ChatFacePannel.face26:Головокружение
+tank.view.chat.ChatFacePannel.face27:Прощание
+tank.view.chat.ChatFacePannel.face28:Отказ
+tank.view.chat.ChatFacePannel.face29:Бла-бла-бла
+tank.view.chat.ChatFacePannel.face30:Вялость
+tank.view.chat.ChatFacePannel.face31:Флирт
+tank.view.chat.ChatFacePannel.face32:Буэ
+tank.view.chat.ChatFacePannel.face33:Паника
+tank.view.chat.ChatFacePannel.face34:Хорошо!
+tank.view.chat.ChatFacePannel.face35:Плохо!
+tank.view.chat.ChatFacePannel.face36:Аплодисменты
+tank.view.chat.ChatFacePannel.face37:Рукопожатие
+tank.view.chat.ChatFacePannel.face38:Пятачок
+tank.view.chat.ChatFacePannel.face39:Псина
+tank.view.chat.ChatFacePannel.face40:Бык
+tank.view.chat.ChatFacePannel.face41:Поцелуй
+tank.view.chat.ChatFacePannel.face42:Люблю!
+tank.view.chat.ChatFacePannel.face43:Разбитое сердце
+tank.view.chat.ChatFacePannel.face44:Бомба
+tank.view.chat.ChatFacePannel.face45:Пьедестал
+tank.view.chat.ChatFacePannel.face46:Ошибка
+tank.view.chat.ChatFacePannel.face47:Правильно!
+tank.view.chat.ChatFacePannel.face48:Злодейский вид
+daily.view.DetList.getBtnText1:Принять
+daily.view.DetList.getBtnText2:Принято
+feedback.view.FeedbackSubmitFrame.title:Свяжитесь с нами
+feedback.view.FeedbackSubmitSp.comBoxText:Выберите тему.
+feedback.view.FeedbackSubmitSp.submitBtnText:Отправить
+feedback.view.ThankReferQuestion:Отправлено. Спасибо за отклик!
+feedback.view.MaxReferTimes:Отправьте завтра.
+feedback.view.SystemBusy:Система занята. Повторите попытку позже. 2010-11-15
+feedback.view.question_type:Выберите тему.
+feedback.view.question_title:Введите заголовок.
+feedback.view.question_content:Кратко укажите, о чем речь.
+feedback.view.question_LessThanEight:Опишите, о чем речь (больше 8 знаков).
+feedback.view.user_full_name:Введите свое имя.
+feedback.view.user_phone:Введите свой мобильный телефон.
+feedback.view.complaints_title:Введите заголовок темы.
+feedback.view.complaints_source:Введите источник жалобы.
+feedback.view.charge_order_id:Введите свой платежный идентификатор.
+feedback.view.charge_method:Введите свой способ оплаты.
+feedback.view.charge_moneys:Введите размер оплаты.
+feedback.view.activity_name:Введите название события.
+feedback.view.goods_get_method:Укажите способ, которым вы приобрели предмет.
+feedback.view.goods_get_date:Укажите, когда вы приобрели предмет.
+feedback.view.report_url:Введите адрес сайта, на который хотите пожаловаться.
+feedback.view.report_user_name:Введите имя пользователя, на которого хотите пожаловаться.
+feedback.view.problemCombox_text0:Вопросы по игре
+feedback.view.problemCombox_text1:Вопросы по событиям
+feedback.view.problemCombox_text2:Обсуждение предметов
+feedback.view.problemCombox_text3:Вопросы учетной записи
+feedback.view.problemCombox_text4:Вопросы выставления сч
+feedback.view.problemCombox_text5:Предложения
+feedback.view.problemCombox_text6:Сообщения об ошибках
+feedback.view.problemCombox_text7:Жалоба на бота
+feedback.view.problemCombox_text8:Жалоба на услуги
+feedback.view.problemCombox_text9:Другое
+feedback.view.infoDateText:Пример: 2010-09-17
+feedback.view.delPostsBtnText:Закрыть тему
+feedback.view.continueSubmitBtnText:Повторить отправку.
+feedback.view.submitAssessmentBtnText:Оценить
+room.view.chooseMap.DungeonChooseMapView.dungeonModeDescription:Бои в режиме похода разделены на несколько этапов. Чтобы получить главный приз, вам нужно пройти их все!
+im.imList.blackTitle:Черный список
+im.CMFriendList.title:Друзья, играющие в "Бумз".
+im.CMFriendList.titleII:Друзья, еще не играющие в "Бумз".
+trainer.view.QuestionView.award:За правильный ответ вы получите: 
+ddt.view.common.QuestionGoogsView.questionCorrect:Текущие ответы
+ddt.view.common.QuestionGoogsView.title:Набор муз
+ddt.auctionHouse.notesTitle:Аукцион
+ddt.room.boguTip:Открыт новый уровень сложности!
+ddt.room.boguNewEnemy:Новый противник!
+ddt.room.boguGoods1:Щит гулу
+ddt.room.boguGoods3:Гулу
+ddt.room.boguGoods4:Жемчужина, ур. 2
+tank.view.caddy.start:Старт
+tank.view.caddy.end:Стоп
+tank.view.caddy.close:Закрыть
+tank.view.caddy.closeNode:Что вы хотите сделать с полученными предметами?
+tank.view.caddy.putInBag:Убрать в рюкзак
+tank.view.caddy.sellAll:Продать все
+tank.view.caddy.showChat:Вы разбиваете волшебный горшок и находите {0}.
+store.StoreIIComposeBG.consortiaSimthLevel:Уровень арсенала гильдии
+store.StoreIIComposeBG.ComposePercentageStrip:Амулет удачи повышает вероятность успешного улучшения.
+church.view.churchFire.ChurchFireView:Золото:
+im.IMView.inviteBtnText:Пригласить
+im.IMView.inviteInfo:Приглашения уже отправлены через службу новостей сообщества.
+im.IMView.infoText:Сейчас вы не состоите в гильдии.
+gotopage.view.GotoPageView.bagStoreAlert:Прежде, чем войти в арсенал, выйдите из магазина.
+ddt.loader.loadingActivityInformationFailure:Ошибка загрузки!
+ddt.loader.LoadingBombMetadataFailure:Ошибка загрузки!
+ddt.loader.LoadingChestsListFailure:Ошибка загрузки!
+ddt.loader.LoadingLoginFailedRewardInformation:Ошибка загрузки!
+ddt.loader.LoadingCopyMapsInformationFailure:Ошибка загрузки!
+ddt.loader.LoadingAchievementTemplateFormFailure:Ошибка загрузки!
+ddt.loader.LoadingExpressionResourcesFailure:Ошибка загрузки!
+ddt.loader.LoadingBuddyListFailure:Ошибка загрузки!
+ddt.loader.LoadingItemTypeFailure:Ошибка загрузки!
+ddt.loader.LoadingGoodsTemplateFailure:Ошибка загрузки!
+ddt.loader.LoadingAnnouncementFailure:Ошибка загрузки!
+ddt.loader.LoadMapInformationFailure:Ошибка загрузки!
+ddt.loader.LoadingOpenMapListFailure:Ошибка загрузки!
+ddt.loader.LoadingTaskListFailure:Ошибка загрузки!
+ddt.loader.FailedToRegister:Ошибка регистрации.
+ddt.loader.LoadingRoleListFailure:Ошибка загрузки!
+ddt.loader.LoadingServerListFailure:Ошибка загрузки!
+ddt.loader.LoadingStoreItemsFail:Ошибка загрузки!
+ddt.loader.TheClassificationOfGoodsLoadingShopFailure:Ошибка загрузки!
+ddt.loader.LoadingTestFailure:Ошибка загрузки!
+ddt.loader.LoadingChestsInformationFailure:Ошибка загрузки!
+ddt.loader.LoadingGuildMembersListFailure:Ошибка загрузки!
+ddt.loader.LoadingComplainInformationFailure:Ошибка загрузки!
+ddt.loader.LoadingNoviceRewardFailure:Ошибка загрузки!
+ddt.enthrall.emptyName:Введите свое имя.
+civil.view.CivilRightView.info:Введите имя для поиска.
+caddy.prePage:След.
+caddy.nextPage:Пред.
+CrazyTank.CLOSE_OTHER_CLIENT:Закрытие других окон клиента...
+money: алмазов
+gift: купонов
+gold: золотых
+medal:мед.
+tank.auctionHouse.controller.AuctionHouseController: Предметы не найдены!
+tank.auctionHouse.view.AuctionBrowseView.stipple: алм.
+tank.auctionHouse.view.AuctionBuyView.Auction:Слишком низкая ставка.
+tank.auctionHouse.view.AuctionBuyView.less:Слишком низкая ставка:
+tank.auctionHouse.view.AuctionCellView.Sale:Невозможно продать персональный предмет
+tank.auctionHouse.view.AuctionSellLeftView.ChooseTwo: Выберите предмет для продажи
+tank.auctionHouse.view.AuctionSellLeftView.storage: Недостаточно средств для оплаты пошлины
+tank.auctionHouse.view.AuctionSellView.cancel: Вы хотите убрать лот с аукциона?
+tank.auctionHouse.view.AuctionSellView.Price:В данный момент снять предмет с аукциона невозможно.
+choosecharacter.ChooseCharacterView.name: Имя содержит недопустимые символы.
+choosecharacter.ChooseCharacterView.string: Имя содержит недопустимые символы.
+tank.game.PropShortCutView.prop: Удалить этот предмет?
+tank.game.RightPropView.prop:Эти умения не действуют на других персонажей.
+tank.game.ToolStripView.suicide1:Вы уверены, что хотите покончить с собой?
+tank.game.WebSpeedView.explain1:Среднее время отклика от нашего сервера. Красный цвет означает, что у вас недостаточно быстрое подключение.
+tank.room.RoomIIController.weapon: Вы не можете играть без оружия!
+tank.room.RoomIIPlayerItem.make: Невозможно выполнять другие действия во время боя.
+tank.room.RoomIIPlayerItem.position: Сохраните хотя бы одну ячейку.
+tank.roomlist.RoomListIICreateRoomView.string:Название зала содержит недопустимые символы.
+tank.roomlist.RoomListIIFindRoomPanel.id:Введите № зала
+tank.serverlist.ServerListPosView.choose:Выберите канал.
+shop.ShopIIShoppingCarItem.forever:Постоянный
+store.view.fusion.AccessoryDragInArea.type: Неверный предмет!
+store.view.fusion.AccessoryDragInArea.more: Невозможно добавить больше предметов!
+store.view.fusion.AccessoryFrame.add:Дополнительные компоненты
+store.view.fusion.PreviewFrame.false:Добавьте предметы и формулы для слияния.
+store.view.fusion.StoreIIFusionBG.error:Неудача!
+store.view.transfer.StoreIITransferBG.target:Получаемое снаряжение
+store.ComposeItemCell.type:Типы предметов не совпадают.
+store.ComposeItemCell.up:Снаряжение достигло максимального уровня.
+tank.data.player.SelfInfo.this:Предмет невозможно надеть.
+tank.data.player.SelfInfo.object:Предмет предназначен для другого пола.
+tank.data.player.SelfInfo.need:Невозможно использовать предмет, поскольку ваш уровень слишком низок.
+tank.data.EquipType.tool:Умение
+tank.data.EquipType.normal:Разное
+tank.manager.ChatManager.tool:Отсутствует необходимый предмет.
+tank.manager.MailManager.email:Ошибка открытия письма! Повторите попытку позже!
+tank.manager.PlayerManager.your:Ваша гильдия распущена!
+tank.manager.PlayerManager.hit:Вас исключили из гильдии !
+tank.manager.PlayerManager.come:приглашает вас вступить в гильдию &lt;{0}&gt;
+tank.manager.RoomManager.type:Подходящих залов не найдено!
+tank.view.bagII.BreakGoodsView.input:Введите количество предметов. 
+tank.view.bagII.DeleteGoodsBtn.sure:Удалить предмет?
+tank.view.bagII.GoodsTipPanel.use:Постоянный
+tank.view.bagII.GoodsTipPanel.less:Осталось:
+tank.view.bagII.GoodsTipPanel.time:Срок действия:
+tank.view.bagII.GoodsTipPanel.over:Срок действия истек
+tank.view.bagII.GoodsTipPanel.hechengshi:Кр. улучш.
+tank.view.cells.BagCell.detrude:Выбросить предмет?
+tank.view.common.AddPricePanel.sure:Выбросить предмет?
+FPSView.as.InviteAlertPanel.ruguo:Предложение будет отклонено, если вы не ответите в течение {0} сек. 
+tank.view.scenechatII.SceneChatIIController.say1:→[
+tank.view.scenechatII.SceneChatIIController.say3:]:
+tank.view.im.IMConsortiaList.dengji:Уровень гильдии 
+tank.view.im.IMController.chongfu:Игрок уже является вашим другом.
+tank.view.task.TaskCatalogContentView.dropTaskII:Отменить задание?
+tank.view.task.TaskCatalogContentView.dropTaskIII:Задание еще не завершено.
+tank.view.emailII.EmailIIDiamondView.emailTip:Требуется оплата
+tank.view.emailII.EmailIIDiamondView.deleteTip:Заплатить 
+tank.view.emailII.EmailIIDiamondView.money: алмазов?
+tank.view.emailII.WritingView.NickName:Вы не можете отправить письмо себе.
+tank.view.im.IMFriendItem.deleteFriend:Удалить игрока из списка?
+tank.view.scenechatII.SceneChatIIView.selfChat:Вы не можете написать себе.
+tank.room.RoomIIPlayerItem.exitRoom:Исключить из зала
+shop.ShopIISaveFigurePanel.stipple:Не хватает алмазов: {0} 
+tank.manager.PlayerManger.friendOnline: входит в игру!
+tank.manager.PlayerManger.friendOffline: выходит из игры.
+tank.data.player.FightingPlayerInfo.your:Вы получаете: 
+tank.consortia.myconsortia.frame.MyConsortiaDeclarationFrame.titleText:О гильдии
+tank.consortia.myconsortia.frame.MyConsortiaDeclarationFrame.long:Текст слишком длинный.
+tank.consortia.myconsortia.frame.MyConsortiaDeclarationFrame.input:Введите информацию о гильдии
+tank.consortia.myconsortia.frame.MyConsortiaJobItem.diffrent:Звания, имеющие разные полномочия, не могут называться одинаково.
+tank.consortia.myconsortia.frame.MyConsortiaJobItem.duty:Название содержит недопустимые символы.
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.explainTxt:Гильдия достигла максимального уровня, максимальное количество участников-{0}.
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.upgrade:Увеличивает максимальное число участников гильдии. Текущий лимит: {0} чел.
+tank.consortia.myconsortia.MyConsortiaInfoPane.time:Время следующей выплаты налога 
+tank.manager.ChatManagerII.cannot:Вы не можете написать себе.
+tank.manager.PlayerManager.msg:Гильдия, в которой вы состояли, распущена.
+tank.manager.PlayerManager.disband:Гильдия, в которой вы состояли, распущена.
+tank.manager.PlayerManager.delect:<{0}> исключает вас из гильдии.
+tank.manager.PlayerManager.up: повышается до звания 
+tank.manager.PlayerManager.consortia:<{0}> изгоняет игрока <{1}> из гильдии.
+tank.manager.PlayerManager.leaveconsortia:<{0}> выходит из гильдии
+tank.view.chat.ChatInput.usernameField.text:[{0}]: 
+tank.view.chat.FaceTextField.sendto:→[
+tank.view.chat.FaceTextField.send:→
+chat.Clear:Очистить чат
+chat.Bottom:В конец
+tank.view.im.IMBlackItem.sure:Убрать игрока из черного списка? 
+tank.view.im.IMController.cannotAddSelfFriend:Вы не можете добавить себя в список друзей
+tank.view.im.IMController.thisone:Игрок в черном списке. Вы уверены, что хотите добавить<br>его в друзья? 
+tank.game.ArrowViewIII.send:Телепорт [F]
+tank.game.GameView.team:Во время хода товарища по команде вы можете использовать предметы в ячейках Z, X и C, чтобы ему помочь.
+tank.roomlist.RoomListIICreateRoomView.contest:Вы не можете выбрать бой за флаг в PvP зале.
+tank.manager.PlayerManager.player:<{0}> вступает в гильдию.
+tank.game.ToolStripView.cannotExit:Вы можете покинуть бой только через 2 минуты после его начала.
+tank.data.MovementInfo.date: {2}-{1}-{0} 
+shop.ShopIIBtnPanel.message.free:Вы не можете дарить бесплатные предметы друзьям.
+tank.manager.PlayerManager.contributionSelf:Внесено очков: {0}.
+tank.manager.PlayerManager.contributionOther:<{0}> делает вклад {1} оч.
+tank.manager.PlayerManager.youUpgrade:<{0}> дает вам звание <{1}>.
+tank.manager.PlayerManager.upgradeSelf:<{0}> получает от вас звание <{1}>.
+tank.manager.PlayerManager.upgradeOther:<{0}> повышает звание игрока <{1}> до <{2}>.
+tank.manager.PlayerManager.youDemotion:<{0}> понижает вас до звания <{1}>.
+tank.manager.PlayerManager.demotionSelf:Вы понизили игрока <{1}> до звания <{0}>.
+tank.manager.PlayerManager.demotionOther:<{0}> понижает игрока <{1}> до звания <{2}>.
+hours: ч.
+tank.game.LeftPlayerCartoonView.Name:Ждать [P]
+tank.view.enthrall.CIDInfoSetFail:Неправильный код
+tank.view.enthrall.CIDInfoSetSuccess:Код введен верно
+tank.view.enthrall.CIDInfoFalse:Ошибка. Повторите ввод.
+tank.view.enthrallCheckFrame.checkAlert:Ошибка. Повторите ввод.
+tank.view.changeColor.sexAlert:Предмет предназначен для другого пола.
+BrowseLeftMenuView.zhuque:Кристалл феникса
+BrowseLeftMenuView.xuanwu:Кристалл змея 
+BrowseLeftMenuView.qinglong:Кристалл дракона 
+BrowseLeftMenuView.baihu:Кристалл тигра 
+choosecharacter.ChooseCharacterView.setCheckTxt:Имя прошло проверку!
+church.churchScene.frame.PresentFrame.confirm:Вы потратите 
+church.churchScene.scene.SceneMap.useFire:Отображение фейерверков отключено.
+church.churchScene.SceneControler.timerComplete:Церемония завершится через 10 мин. Внесите плату, если желаете её продолжить.
+church.churchScene.SceneControler.timerComplete.msg:Церемония завершится через 10 мин. Внесите плату, если желаете её продолжить.
+church.churchScene.SceneControler.startWedding.valid:Оставшегося времени аренды храма не хватит на проведение церемонии бракосочетания. Повторно внесите плату, если желаете её провести.
+church.churchScene.SceneControler.startWedding.spouse:Вы не сможете начать церемонию в отсутствие будущего супруга
+church.churchScene.SceneView.stopWeddingMovie:Церемония завершена
+church.churchScene.MoonLightScene:Балкон
+church.churchScene.WeddingMainScene:Венчание
+church.weddingRoom.frame.CreateRoomFrame._remark_txt:Сегодня {0} и {1} решили связать себя узами брака. Они приглашают всех причастных разделить с ними этот торжественный момент! PS: Вход в храм с оружием строго воспрещен!
+church.weddingRoom.WeddingRoomControler.showCreateFrame:Вам не с кем играть свадьбу
+civil.frame.CivilRegisterFrame.text:Ищу новых друзей.
+civil.frame.CivilRegisterFrame.titleText:Поиск друзей
+civil.register.NicknameLabel:Имя: 
+civil.register.MatrimonyLabel:Семейное положение: 
+civil.register.NewMemberNotify:Прим.: Стоимость регистрации - 10 000 золотых.
+tank.consortia.myconsortia.frame.AlienationConsortiaFrame.NickName:Вы не можете передать себе управление гильдией!
+tank.consortia.myconsortia.frame.ConsortiaAssetManagerFrame.okFunction:Сохранить изменения?
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.consortiaLevel:Гильдия достигла максимального уровня
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.consortiaShopLevel:Магазин гильдии достиг максимального уровня
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.pleaseUpgrade:Необходимо поднять уровень гильдии
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.smith:Сейф гильдии достиг максимального уровня.
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.store:Арсенал гильдии достиг максимального уровня.
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.CONSORTIASHOPGRADE.explainTxt:После улучшения магазина, в нем можно будет купить новые товары.
+consortia.upgrade:Уровень гильдии 
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.success:Увеличивает шанс успешного усиления. Текущий бонус: 
+tank.manager.TaskManager.ChannelListSelectView:Вы получаете новое задание. Пожалуйста, просмотрите его содержание. 
+tank.view.bagII.baglocked.BagLockedGetFrame.titleText:Разблокировать
+tank.view.bagII.baglocked.BagLockedGetFrame.input:Введите свой доп. пароль
+tank.view.bagII.baglocked.BagLockedSetFrame.tip2:Введите пароль.
+tank.view.bagII.GoodsTipPanel.advance: +
+tank.view.common.church.ProposeResponseFrame.msg:<{0}> получает отказ в ответ на свое предложение! 
+tank.view.common.CheckCodePanel.titleText:Защита от ботов
+tank.view.emailII.EmailIIStripSended.sender_txt:Получатель: 
+tank.game.DanderStrip.tip:Когда персонаж наносит или получает повреждения, его ярость нарастает.
+church.churchScene.scene.MoonSceneMap.lipao:Подождите, пожалуйста.
+tank.manager.enthrallRemind5:Вы провели в игре больше 5 часов. Отдохните, пожалуйста! 
+tank.data.auctionHouse.AuctionGoodsInfo.tshort:Меньше 30 мин.
+tank.view.changeColor.lackCard1:Изменение цвета стоит {0} алмазов.
+tank.room.RoomIIView2.confirmtostartgame:Действие будет стоить 100 алмазов. Продолжить? 
+tank.view.bagII.GoodsTipPanel.holerequire: [Откроется на {0}-м уровне усиления]
+tank.dungeon.tryagain.content: Вы хотите повторить этот этап похода? <br><FONT COLOR='#FF0000' SIZE='13'>Это действие будет стоить 500 алмазов</FONT>
+tank.gameover.payConfirm.title:Купить дополнительную карту
+tank.gameover.payConfirm.content:Карта стоит 486 алмазов. Продолжить?
+tank.missionsettle.dungeon.leaveConfirm.title:Завершить поход.
+tank.room.difficulty.simple:Легкая
+tank.room.difficulty.normal:Нормальная
+tank.room.difficulty.hard:Сложная
+tank.room.difficulty.hero:Героическая
+tank.room.RoomMapSetPanelDuplicate.choiceMap:Выберите карту
+tank.room.RoomIIView2.setRoomInfo:Выберите карту!
+tank.manager.PlayerManager.gradeLow:Вы не сможете зайти на верфь, не достигнув {0}-го уровня.
+tank.gameover.takecard.getgold:Вы получаете золото: {0}
+tank.game.gameplayer.proplist.full:Меню предметов заполнено. Невозможно подобрать предмет.
+tank.view.shortcutforge.tip:К арсеналу
+tank.view.DefyAfficheView.afficheLast: и кричит:  
+tank.view.DefyAfficheView.afficheInfoText:Отправка сообщения будет стоить 500 алмазов.
+tank.view.personalinfoII.recovery:Щит
+tank.view.personalinfoII.recoveryDetail:Уменьшает получаемый урон. 
+tank.view.personalinfoII.hpDetail:Максимальное количество очков здоровья.
+tank.view.personalinfoII.defenseDetail:Уменьшает получаемый урон и повышает здоровье. 
+tank.view.ClientDownloading.Tip:Чтобы получить больше опыта и трофеев, подключайтесь к игре через клиент. 
+tank.view.DownloadingView.titleText:Загрузка клиента
+tank.view.continuation.contiuationFailed:Недостаточно средств для продления срока действия!
+store.view.transfer.StoreIITransferBG.lijinbuzu:У вас не хватает купонов. Вы можете заплатить алмазами.
+tank.view.common.levelRange:Уровень: 
+tank.view.common.roomLevel:Сложность: 
+tank.view.common.duplicateName:Название похода: 
+tank.view.common.gameLevel:Сложность: 
+tank.gameover.clientGainEXP:Игроки, вошедшие через клиент, получают опыт
+shop.view.madelLack:У вас не хватает медалей
+shop.view.lackCoin:Недостаточно средств для оплаты
+tank.manager.congratulateGain:{0} открывает {1} и получает 
+tank.view.bagII.baglocked.unlock:Разблокировать
+tank.view.bagII.baglocked.guide:Настройка дополнительного пароля
+tank.view.bagII.baglocked.next:Далее
+tank.view.bagII.baglocked.setted:Вы установили доп. пароль!
+tank.view.bagII.baglocked.preview:Назад
+tank.view.bagII.cantAddPrice:Срок действия предмета невозможно продлить.
+tank.loginstate.characterNameExist:Персонаж по имени <{0}> уже существует. Чтобы войти в игру, вам нужно изменить имя своего персонажа.
+tank.loginstate.inputInvalidate:Имя содержит недопустимые символы.
+shop.view.cantPresent:Нельзя дарить вещи, приобретенные за купоны и медали.
+shop.view.giftLack:У вас не хватает купонов.
+store.states.hatOpenProperty:Предмет усилен. В вашей шапке появилась новая ячейка характеристик.
+store.states.hatOpenDefense:Предмет усилен. В вашей шапке появилась новая ячейка защиты.
+store.view.Compose.buyCompose:Купить кристалл улучшения
+civil.frame.CivilRegisterFrame.checkIntro:Сообщение содержит недопустимые символы.
+tank.view.bagII.GoodsTipPanel.holeactive:[Откроется на {0}-м уровне усиления]
+tank.view.bagII.baglocked.operationTimesOut:Дневной лимит изменений пароля исчерпан.
+tank.view.common.BuyGiftBagButton.initliziItemTemplate.excellent:Набор мастера
+tank.view.common.BuyGiftBagButton.initliziItemTemplate.info:Содержит 3 камня энергии IV, небесный амулет и билет удачного усиления +25% (персональные предметы). При покупке прямо сейчас вы получаете 15% скидку - всего 4599 алмазов за все эти предметы!
+tank.view.bagII.baglocked.question1:Прозвище лучшего друга?
+tank.view.bagII.baglocked.question4:Номер вашей школы?
+tank.view.chatsystem.sendTo:→
+tank.view.chatsystem.privateSayToYou:: 
+store.view.strength.buyGift:Набор мастера стоит 4599 алмазов. Продолжить? 
+tank.consortia.myconsortia.frame.MyConsortiaAfficheFrame:недопустимые символы.
+tank.view.bagII.SellGoodsBtn.sure:Продать предмет? \nЦена: {0}
+tank.game.GameView.getgoodstip:{1} завершается. [{0}] получает 
+tank.room.duplicate.notOpen:Этот поход пока недоступен.
+tank.game.actions.kill:Убито
+tank.game.actions.turn:Раундов
+tank.manager.GradeExaltClewManager:Вы получаете новый уровень!
+tank.view.ConsortiaReworkNameView.consortiaNameAlert:Максимальное количество символов - 12.
+tank.view.ConsortiaReworkNameView.consortiaNameAlert4:Ваша гильдия получила новое название!
+tank.view.ConsortiaReworkNameView.consortiaNameAlert5:Название гильдии содержит недопустимые символы.
+shop.ShopIIModel.countOver:Предмет продан.
+tank.game.ToolStripView.isExit:Вы хотите покинуть бой? 
+tank.view.im.IMController.shifou: Добавить игрока в список друзей? 
+tank.missionsettle.explore.leaveConfirm.contents:Вы хотите покинуть бой?
+tank.view.im.IMController.issure:Внести игрока в черный список? 
+tank.fightLib.FightLibAwardView.exp:оч. опыта
+tank.gameover.ExperienceView:Играя в паре, вы можете получать на 50% больше очков опыта!
+church.churchScene.frame.ModifyDiscriptionFrame.word: симв.
+tank.game.map.smallMapView.slow:Обнаружено падение FPS. Хотите отключить графические эффекты?
+tank.manager.PlayerManager.pass:Вы приняты в гильдию {0}!
+tank.room.RoomMapSetPanelDuplicate.clew:Чтобы отправиться в этот поход, вам нужно достичь {0}-го уровня.
+tank.auctionHouse.view.BrowseLeftMenuView.qianghua5:Камень энергии V
+tank.view.effort.EffortCategoryTitleItem.FULL:Прогресс
+tank.view.effort.EffortCategoryTitleItem.INTEGRATION:Прочие
+tank.view.effort.EffortCategoryTitleItem.TASK:Задания
+tank.view.effort.EffortCategoryTitleItem.DUNGEON:Походы
+tank.view.effort.EffortCategoryTitleItem.FIGHT:Битвы
+baglocked.SetPassFrame1.titText1: 1/3: Ввод доп. пароля
+baglocked.SetPassFrame1.inputTextInfo4:Не забывайте свой доп. пароль!
+baglocked.SetPassFrame2.titText2:2/3: Секретные вопросы
+baglocked.SetPassFrame2.textInfo2_7:Секретные вопросы невозможно изменить или удалить!
+baglocked.SetPassFrame3.titText3:3/3: Подтверждение секретных вопросов
+baglocked.SetPassFrame3.textInfo3_7:Повторно введите ответы на секретные вопросы.
+baglocked.BagLockedGetFrame.Text4:Действие требует ввода доп. пароля.
+baglocked.DelPassFrame.operationAlertInfo:Сегодня вы можете сменить пароль еще {0} раз.
+ddt.room.boguMoreGoods:Новые трофеи:
+ddt.room.boguGoods2:Кристалл улучшения III
+ddt.view.common.church.ProposeResponse:\nпредлагает вам свою вечную любовь!
+tank.view.caddy.title:Крушитель горшков
+tank.view.caddy.lookTrophy:Награды
+tank.view.caddy.sellAllNode1:Продать все предметы?
+im.IMLookupItem.CMFriendInfo:Вы не можете удалять друзей по сообществу.
+im.IMLookupItem.ConsortiaPlayerInfo:Вы не можете удалять друзей по гильдии.
+store.StoreIIComposeBG.StrengthPercentageStrip:Билет удачного усиления повышает вероятность успешного повышения уровня предмета, а "небесный амулет" защищает ваше снаряжение от поломки в случае неудачи.
+ddt.enthrall.invalidID:Неправильный номер.
+
+
+Crazytank.ONLY_ONE_CLIENT:Не используйте больше одной учетной записи!
+load:Загрузка
+fail:Сбой
+store.view.fusion.TransferItemCell.object:Неверный тип снаряжения!
+store.view.fusion.TransferItemCell.put:Неверный тип снаряжения.
+store.view.transfer.StoreIITransferBG.put:Неверный тип снаряжения! 
+tank.data.EquipType.hair:Прическа
+FPSView.as.InviteAlertPanel.yaoqingni: приглашает вас к себе в зал.
+FPSView.as.InviteAlertPanel.second: сек.
+tank.view.scenechatII.SceneChatIIFastReply.say2:Прекрасно выглядишь! У тебя потрясающий вкус!
+tank.view.scenechatII.SceneChatIIFastReply.say3:Я из сил выбиваюсь. Дай передохнуть!
+tank.view.scenechatII.SceneChatIIFastReply.say5:Смеюсь до колик!
+tank.gametrainer.data.TrainerModel.answer3:Прикосновениями пальцев к дисплею.
+store.view.ShortcutBuyCell.lingju:Сцепление
+trainer.view.QuestionView.tip:Замечательно! Попробуйте ответить на следующий вопрос!
+shop.ShopIIShoppingCarItem.gold:зол.
+tank.view.quest.newquest.Subtitle:Доступно новое задание. Щелкните здесь для его просмотра.
+ge:шт.
+store.view.fusion.StoreIIFusionBG.useNoExtends:Бонусы от улучшения предметов будут сброшены. Вы уверены? <br><FONT SIZE='12' FACE='Arial' KERNING='2' COLOR='#FF0000'>Срок действия предмета будет равен меньшему из сроков действия компонентов.</FONT>
+tank.view.bagII.BagIIView.BindsInfo:Предмет станет персональным. <BR><FONT SIZE='16' FACE='Arial' KERNING='2' COLOR='#FF0000'>Продолжить?</FONT>
+
+
+second:сек.
+ddt.ConnectServerError:Соединение с сервером разорвано!
+tank.trainer.Welcome:Добро пожаловать в мир 'Бумз', <font color='#a4ee91'><b>{0}</b></font>! Мы подготовили для тебя ускоренный <font color='#DC801B'><b>курс молодого бойца</b></font>. Пройдя его, ты получишь <font color='#DC801B'><b>ценную награду </b></font>.
+weekly.magazineTitle:Вестник 'Бумз'
+ddt.StartupResourceLoader.Error.LoadModuleError:Ошибка загрузки: {0} "
+chat.FastReplyCustomCountLimit:Вы уже назначили максимальное количество 'горячих клавиш'.
+chat.FastReplyCustomTextLengthLimit:Максимальное число 'горячих клавиш' - 20.
+chat.FastReplyDefaultStr:<Пользов.>
+chat.fastRepley.Message0:А что я? Никого не трогаю, примус починяю...
+chat.fastRepley.Message1:Готовься к болезненной смерти!
+chat.fastRepley.Message2:Мой брат привык давить таких букашек!
+chat.fastRepley.Message3:На старт... Внимание... Начали!
+chat.fastRepley.Message4:Накладываю на тебя проклятие кривых рук!
+tank.auctionHouse.view.BagFrame.Choose:Выберите предметы для продажи.
+tank.RenameFrame.Consortia.FailWord:Недопустимое имя.
+tank.RenameFrame.Consortia.space:Имя не должно состоять из одних пробелов.
+tank.RenameFrame.Consortia.string:Имя содержит недопустимые символы.  
+tank.invite.response.title:Приглашение от игрока "{0}"
+tank.bagAndInfo.ColorShell.NoWeapon:Необходимо держать в руках оружие.
+store.view.fusion.PreviewFrame.lowRate:Низк.
+store.StrengthItemCell.up: Снаряжение достигло максимального уровня усиления.
+store.Strength.Succes.ChatSay:Усиление удалось.
+store.Embed.Succes.ChatSay:Украшение удалось.
+store.storeTip.hurt:Урон {0}{1}{2}
+store.storeTip.chatHurt:Урон от оружия повышен на {0} ед. 
+store.storeTip.Armor:Защита {0}{1} {A 2}
+store.storeTip.chatArmor:Защита повышена на {0} ед.
+store.Embed.OpenHole.Opened:Ячейка уже открыта.
+store.Embed.OpenHole.UnabledOpened:Невозможно открыть ячейку
+store.storeTip.openHole:Новая ячейка 
+store.storeTip.AddHP:Сила лечения {0}{1}{2}
+store.storeTip.chatAddHP:Сила лечения повышена на {0} ед.
+store.storeTip.subHurt:-{0} урона {1}{2}
+store.storeTip.chatSubHurt:Сопротивление урону повышено на {0} ед.:
+store.storeTip.clothOpenDefense:Защита
+store.storeTip.weaponOpenAttack:Атака
+store.storeTip.weaponOpenProperty:Характеристика
+store.storeTip.OpenDefense: Открыта новая ячейка для жемчужины защиты.
+store.storeTip.OpenAttack: Открыта новая ячейка для жемчужины атаки.
+store.storeTip.OpenProperty: Открыта новая ячейка для жемчужины характеристик.
+tank.manager.PlayerManager.hitSuccess: исключается из гильдии.
+tank.game.ToolStripView.recentContact:Недавние собеседники
+tank.view.common.BellowStripViewII.shortcut: Щелкните левой кнопкой мыши, чтобы сохранить ярлык "Бумз!" на вашем компьютере.
+tank.view.im.IMController.cannot: Невозможно занести самого себя в черный список.
+tank.view.emailII.BagFrame.selectBag:Выберите предмет из рюкзака
+tank.consortia.club.CreatConsortiaFrame.yourGrade:Требуется уровень 12 и выше.
+civil.register.IntroductionLabel:Личная информация:
+tank.consortia.myconsortia.frame.AlienationConsortiaFrame.Grade:Стать лидером гильдии может только персонаж 12-го уровня и выше.
+tank.manager.ItemManager.gift: Подарок
+shop.DataError.NoGood:Не найден товар:
+tank.gameover.payConfirm.contentCommon:Эта карточка стоит 486 алмазов (437 для VIP-игроков). \n Приобрести ее?
+tank.gameover.payConfirm.contentVip:Для VIP-игроков эта карточка стоит 437 алмазов. \n Приобрести ее?
+tank.view.bagII.GoldDirections: Алмазы: можно получить, пополнив счет
+tank.view.bagII.GiftDirections: Купоны: можно получить, выполняя задания
+tank.view.bagII.MoneyDirections: Золото: можно добыть в бою
+store.view.strength.noneSymble:Вы не использовали небесный амулет.\nЕсли вам не повезет, предмет станет слабее! Продолжить?
+store.view.strength.FiveLevelTip:Предмет достиг 5-го уровня усиления. При дальнейшем улучшении в случае неудачи\nпредмет станет слабее! Чтобы избежать этого, используйте небесный амулет.
+store.openHole.NOstone:Необходимо обычное или улучшенное сверло.
+tank.fightLib.AwardBox.FullBag:Недостаточно места в рюкзаке. Предметы будут высланы вам по почте.
+tank.fightLib.FirstGetPass:Испытание пройдено!
+tank.fightLib.questionInfo:Это испытание состоит из {0} вопросов. Необходимо дать верный ответ на {1} из них.\nВерных ответов: {2}/{1}. Осталось вопросов: {3}.
+tank.fightLib.Lesson.17Grade:Урок "{0}" предназначен для персонажей от 17-го уровня и выше.
+tank.fightLib.Lesson.20Grade:Курс "{0}" предназначен для персонажей 20-го уровня и выше.
+tank.command.fightLibCommands.script.MeasureScree.EasyMeasureScreenScript.command1:Этот курс позволит вам научиться с легкостью определять расстояние, отделяющее вас от противника.
+tank.command.fightLibCommands.script.MeasureScree.EasyMeasureScreenScript.command3:Отлично! Длина этого прямоугольника равно размеру экрана. Мы так и будем называть его - 'один экран'.
+tank.command.fightLibCommands.script.MeasureScree.EasyMeasureScreenScript.command7:Вот вы, а вот ваша цель.
+tank.command.fightLibCommands.script.MeasureScree.EasyMeasureScreenScript.command10:А теперь попробуйте применить полученные знания на практике!
+tank.command.fightLibCommands.script.MeasureScree.NomalMeasureScreenScript.command1:На прошлом уроке мы научились определять расстояние в пределах одного экрана. Но что делать, если цель находится дальше?
+tank.command.fightLibCommands.script.MeasureScree.NomalMeasureScreenScript.command4:Перетаскиваем рамочку на мини-карте, так чтобы конец первого экрана стал началом второго. Разбиваем его на десять частей и считаем расстояние до мишени.
+tank.command.fightLibCommands.script.MeasureScree.NomalMeasureScreenScript.command6:А теперь попробуйте применить полученные знания на практике!
+tank.command.fightLibCommands.script.MeasureScree.DifficultMeasureScreenScript.command4:Перетаскиваем рамочку на мини-карте, так чтобы конец первого экрана стал началом второго. Разбиваем его на десять частей и считаем расстояние до мишени.
+tank.command.fightLibCommands.script.MeasureScree.EasyTwentyDegree.command6:А теперь задайте угол прицела в 20° и поразите мишень точным броском!
+tank.command.fightLibCommands.script.MeasureScree.NormalTwentyDegree.command1:В этот раз мы научимся стрелять по цели, находящейся дальше одного экрана. Взгляните на таблицу, которую я для вас подготовила.
+tank.command.fightLibCommands.script.MeasureScree.DifficultTwentyDegree.command1:Этот урок посвящен стрельбе под углом в 20° по сложным мишеням - расстояние до которых рассчитать непросто.
+tank.command.fightLibCommands.script.MeasureScree.DifficultTwentyDegree.command2:Это - последнее, и самое сложное упражнение. Возможно, вам не удастся его пройти с первой попытки. Но будем надеяться на лучшее! Вперед!
+tank.command.fightLibCommands.script.HighThrow.EasyHighThrow.command3:При стрельбе по параболе самое важное - это угол, под которым запускается снаряд. В безветренную погоду он обычно меняется от 70° до 85°, ну а сила выстрела практически всегда равна 90 единиц.
+tank.command.fightLibCommands.script.HighThrow.EasyHighThrow.command6:В яблочко! А теперь попробуйте поразить еще две мишени в других точках поля!
+tank.command.fightLibCommands.script.HighThrow.NormalHighThrow.command1:На этом уроке мы научимся делать поправку на ветер.
+tank.command.fightLibCommands.script.HighThrow.DifficultHighThrow.command2:Ответ очевиден: сделать пробный выстрел! И по нему вычислить поправку на ветер. Попробуйте!
+tank.command.fightLibCommands.script.SixtyDegree.EasySixtyDegreeScript.command4:Специально для вас я составила эту таблицу. Чтобы снаряд пролетел одну десятую экрана, его нужно запустить с силой в 13 единиц, две десятые - с силой в 21 единицу… И так далее.
+tank.command.fightLibCommands.script.HighGap.DifficultHighGap.command1:Это - последнее испытание из цикла "Разница высот". Для победы вам нужно поразить семь целей - любым из изученных ранее способов.
+tank.command.fightLibCommands.script.MeasureScree.watchAgain:Повторить
+tank.command.fightLibCommands.script.MeasureScree.understood:Понятно
+tank.fightLib.Award.GetMessage:Получено:
+tank.view.effort.EffortRigthItemView.achievementPoint:Очки достижений
+tank.view.im.IMController.addFriend:В списке друзей может быть не более {0} имен.
+feedback.view.SystemsAnalysis:Ваш запрос обрабатывается.
+ddt.view.common.QuestionGoogsView.questionDescription:Этот набор запечатан поцелуем сфинкса. Чтобы получить его содержимое, нужно правильно ответить на вопрос. \nВ случае неверного ответа набор исчезнет.
+tank.view.caddy.BagFull:Рюкзак переполнен.
+tank.view.caddy.sellAllNode:Продать все?<br>Вы получите:Через {0} д. вы получите - {1} ур. VIP-статуса.
+tank.view.caddy.dontClose:Подождите.
+tank.view.caddy.awardsPoint:<FONT SIZE='12' FACE='Times New Roman' COLOR='#993300'><B>·</B></FONT>
+tank.view.caddy.awardsGong:Повезло!
+tank.view.caddy.openCaddy:Открыв волшебный горшок, получить
+tank.view.caddy.quickDate:Товара нет в наличии
+tank.view.caddy.quickBuyKey:Купить молоток
+tank.view.bead.quickNoBuy:Выберите хотя бы один предмет.
+tank.view.bead.title:Открыть жемчужину
+tank.view.bead.buyNode:У вас нет жемчужины нужного вида. Приобрести ее?
+tank.view.bead.dontClose:Подождите.
+tank.view.bead.quickNode:Выберите хотя бы один вид жемчужин.
+tank.view.award.Player:Игрок
+tank.view.award.Attack:Открыть жемчужину атаки
+tank.view.award.type:получает жемчужину
+tank.view.award.typeOne:с сервера
+tank.view.award.Attribute:Открыть жемчужину характеристики
+tank.view.bead.opendGetAwards:Открыв жемчужину характеристики, получить
+tank.view.bead.AttackBead:Получить жемчужину атаки
+tank.view.bead.DefanceBeak:Открыв жемчужину защиты, получить
+tank.view.caddy.boxNameCaddy:Волшебный горшок
+tank.view.caddy.boxNameBead:Жемчужина
+tank.view.caddy.boxNameGift:Конверт
+tank.view.offer.noOffer:Недостаточно очков славы.
+tank.view.offer.noConsortia:Вы не состоите в гильдии.
+tank.game.GameView.CaddyBattle:Открыть волшебный горшок
+tank.game.GameView.beadBattle:Открыть жемчужину
+tank.game.GameView.GiftBattle:Открыть набор славы
+tank.view.offer.dontClose:Подождите.
+tank.view.offer.opendGetAwards:Открыв набор славы, получить
+tank.view.chat.ChatInputView.friend:Друзья
+im.IMView.inviteInfo1:Использованы недопустимые символы.
+ddt.manager.playerManager.hushandOnline:Ваш муж [{0}] входит в игру.
+ddt.manager.playerManager.wifeOnline:Ваша жена [{0}] входит в игру.
+ddt.email.readingEmail.payEmail:Если вы решите забрать эту посылку, необходимо будет заплатить указанную сумму денег.
+store.fusion.preview.LowRate:Низкий
+store.showTips.compose.dontCompose:Необходимо указать оружие или снаряжение.
+store.showTips.compose.dontComposeI:Необходимо указать оружие или снаряжение.
+store.showTips.compose.dontComposeII:Необходим кристалл улучшения.
+store.showTips.transfer.dontTransferI:Необходимо указать оружие или снаряжение.
+store.showTips.transfer.dontTransferIII:Укажите исходное оружие или снаряжение.
+store.showTips.transfer.dontTransferIIII:Необходимо указать оружие или снаряжение.
+store.showTips.strength.dontStrengthI:Необходимо указать оружие или снаряжение.
+store.showTips.strength.dontStrengthII:Необходимо использовать камень энергии.
+store.showTips.fusion.noEquip:Необходимо указать предмет.
+store.showTips.fusion.notSameStone:Предметы должны быть одного типа.
+store.showTips.fusion.nofusonStone:Необходима формула слияния.
+ddt.view.vote.title:Опрос
+ddt.view.vote.loadXMLError:Загрузка информации
+ddt.view.vote.choseOne:Выберите ответ
+room.roomRightPropView.bagFull:Можно взять с собой не более трех предметов.
+room.roomRightPropView.uppropTip:Щелкните, чтобы выбросить предмет.
+room.roomRightPropView.downpropTip:Щелкните по значку, чтобы взять предмет в битву.
+ddt.vip.vipIcon.otherVipTip:VIP: {0} ур.
+ddt.vip.vipIcon.clickOpen:Щелкните по кнопке, чтобы получить статус VIP.
+ddt.vip.vipIcon.reduceVipExp:Ежедневно VIP-опыт снижается на {0} ед.
+ddt.vip.vipIcon.upGradDays:Осталось {0} д., повышение - {1} ур.
+ddt.vip.vipFrame.ConfirmTitle:Подтвердить создание
+ddt.vip.vipFrame.openVipBtn:Создать
+ddt.vip.helpFrame.title:Немного о VIP-привелегиях
+ddt.vip.vipFrame.title:Приобретение VIP-статуса
+ddt.vip.vipView.oneMonth:1 мес.
+ddt.vip.vipView.threeMonth:3 мес.
+ddt.vip.vipView.sixMonth:6 мес.
+ddt.vip.vipView.oneYear:1 год
+ddt.vip.vipView.twoYear:2 года
+ddt.vip.vipView.threeYear:3 года
+ddt.vip.vipView.other:Другое
+ddt.vip.vipView.months:мес.
+ddt.vip.vipView.payMoneyShow:Пополните счет на <FONT COLOR='#FF0000'>{0}</FONT> алм.
+ddt.vip.vipView.checkName:Имена не совпадают.
+ddt.vip.vipIcon.upGradFull:Вы уже оплатили максимальный VIP-статус.
+ddt.vip.vipView.noMoney:У вас не хватает алмазов. Хотите их приобрести?
+ddt.vip.vipView.upRule:Правила роста
+ddt.vip.vipView.help:VIP: описание
+ddt.vip.vipView.confirmforSelf:Получить VIP-статус на {0}?<br/>(Это обойдется в {1} алм.)
+ddt.vip.vipView.confirmforOther:Приобрести VIP-статус на {1} для игрока {0}?<br/>(Это обойдется в {2} алм.)
+ddt.vip.vipView.finish:Форма заполнена не до конца.
+ddt.vip.vipView.expired:До конца действия VIP-статуса осталось {0} д. Необходимо внести оплату.
+ddt.vip.vipView.expiredTrue:Срок действия вашего VIP-статуса истек!
+ddt.vip.vipView.RenewalNow:Советуем продлить его.
+ddt.vip.vipView.checkOtherInput24:Число месяцев не может превышать 24.
+ddt.vip.vipView.checkOtherInput0:Число месяцев не может равняться 0.
+ddt.vip.vipView.vipLevel.explain:<b>1. Смысл VIP-статуса</b><br/>VIP-статус наделяет пользователя особыми привилегиями.<br/><br/><b>2. Уровень VIP-статуса</b><br/>Существует девять уровней VIP-статуса. В общей сложности они действуют 31 день.<br/>Каждый день показатель VIP повышается на 10 единиц. Через несколько дней у игрока появляется возможность повысить уровень VIP-статуса.<br/>По истечении срока VIP-статус пропадает, и игрок теряет доступ к особым привилегиям.<br/>Показатель VIP начинает снижаться на 5 единиц в день.<br/><br/><b>3. Формула роста VIP:</b><br/>  <FONT COLOR='#FF0000'>Рост = Создание / (оплата роста + рост не-VIP)</FONT>
+ddt.vip.loadVip.error:Загрузка сведений не удалась.
+ddt.vip.dueTime.tip:Через {0} д. вы получите {1} ур. VIP-статуса.
+ Развитие: +10 ед./день
+ddt.vip.vipFrame.upValue2:Развитие: -5 ед./день
+ddt.vip.vipFrame.upValue3:Развитие: 0 ед./день
+ddt.vip.vipFrame.youarenovip:Вы не являетесь VIP-пользователем.
+ddt.vip.vipView.checkOtherInput:Введите число меньше 24.
+ddt.vip.vipView.cueDateScript:Вы сможете получить следующий VIP-подарок {1}/{0}, в 00:00.
+bag.changeColor.tips.name:Костюм
+bag.changeColor.tips.armName:Оружие
+im.IMController.deleteRecentContactsInfo:Очистить список недавних собеседников?
+bagAndInfo.info.PlayerInfoEffortHonorView.selecting:Выбрать имя
+bagAndInfo.bag.UnableUseColorShell:Можно использовать для усиления оружия 10 ур. и выше.
+ddt.vip.VipStatusView.VIPFeatureDescription:<FONT COLOR='#FF0000' ><b>1. Имена VIP-игроков</b></FONT><br/>    Имена VIP-игроков отображаются красным цветом.<br/><FONT COLOR='#FF0000'><b>2. Дополнительный опыт</b></FONT><br/>    VIP-игроки получают большее количество опыта за PvP бои, сражения гильдий и участие в походах. (Коэффициент повышения опыта может быть от 1,1 до 1,9, в зависимости от VIP-уровня.)<br/><FONT COLOR='#FF0000'><b>3. Горячий источник</b></FONT><br/>    В горячих источниках VIP-игроки получают особый комплект одежды. Они могут находиться там на целый час дольше других игроков и получают дополнительный опыт.<br/><FONT COLOR='#FF0000'><b>4. Походы</b></FONT><br/>    По завершении похода VIP-игроки получают скидку в 10% при третьей дополнительной карте.<br/><FONT COLOR='#FF0000'><b>5. Число друзей</b></FONT><br/>    Список друзей VIP-игрока расширяется на 50 имен на первом, пятом и девятом уровне VIP – всего до 150 имен.<br/><FONT COLOR='#FF0000'><b>6. Гильдейская слава VIP</b></FONT><br/>    При проигрыше в битве гильдий VIP-игрок теряет вдвое меньше славы, чем обычный.<br/><FONT COLOR='#FF0000'><b>7. Подарки и награды</b></FONT><br/>    VIP-игроки получают особые подарки.<br/><FONT COLOR='#FF0000'><b>8. Особые задания</b></FONT><br/>    VIP-игрокам доступны особые ежедневные задания<br/><FONT COLOR='#FF0000'><b>9. Система достижений</b></FONT><br/>    С повышением уровня VIP-игрок может получать достижения и давать названия наградам.
+ddt.vip.VipStatusView.RewardDescription:Карта опыта, карта славы.
+bagAndInfo.bag.sortBagClick.isSegistration:Объединить предметы в сумке после сортировки?
+ddt.giftSystem.loadRecord.error:Не удалось загрузить записи о подарках.
+ddt.giftSystem.GiftBannerView.giftLvel:Обаяние: {0} ур.
+ddt.giftSystem.RecordParent.receivedShow:Получено подарков: <FONT COLOR='#FF0000' >{0}</FONT>
+ddt.giftSystem.RecordParent.sendedShow:Отправлено подарков: <FONT COLOR='#FF0000' >{0}</FONT>
+ddt.giftSystem.RecordItem.receivedHeadTxt:От:
+ddt.giftSystem.RecordItem.sendedHeadTxt:Кому:
+ddt.giftSystem.RecordItem.receivedGiftName:. ({0})
+ddt.giftSystem.RecordItem.giftCount: х{0}
+ddt.giftSystem.RebackMenu.reback:Подарок
+ddt.giftSystem.RebackMenu.check:Обзор
+ddt.giftSystem.GiftGoodItem.charm:Обаяние 
+ddt.giftSystem.GiftGoodItem.money:алм.
+ddt.giftSystem.GiftGoodItem.free:Остаток
+ddt.giftSystem.RebackMenu.alert:Выберите подарок для игрока <FONT COLOR='#FF0000' >{0}</FONT>!
+ddt.giftSystem.ClearingInterface.title:Подарок
+ddt.view.SnsFrame.visibleBtnText:Не напоминать
+ddt.view.SnsFrame.snsInviteBtnTipData:Приглашение в игру
+ddt.view.SnsFrame.inputTextText:Встретимся в игре!
+ddt.giftSystem.MyGiftItem.own:<FONT COLOR='#FF0000'>{0}</FONT> шт.
+ddt.giftSystem.ClearingInterface.inputName:Введите имя друга
+ddt.giftSystem.ClearingInterface.moreThanZero:Число подарков не может быть равно 0.
+ddt.giftSystem.ClearingInterface.canNotYourSelf:Нельзя отправлять подарки самому себе.
+ddt.giftSystem.ClearingInterface.noEnoughMoney:Недостаточно средств на счету.
+ddt.giftSystem.GiftShopView.chooseGiftForFriend:Выберите подарок для друга!
+ddt.FriendDropListCell.noFriend:Нет результатов
+ddt.view.NovicePlatinumCard.titleText:Платиновая карта новичка
+im.CMFriendList.switchBtn1.tipData1:Не уведомлять друга о посылке
+im.CMFriendList.switchBtn1.tipData2:Не уведомлять друга о посылке
+im.CMFriendList.switchBtn2.tipData1:Открыть список друзей
+im.CMFriendList.switchBtn2.tipData2:Закрыть список друзей
+IM.InviteDialogFrame.info:Сражения с монстрами - это хорошо, но настоящий адреналин можно ощутить только в схватке с живым противником. Заходите на арену!
+im.InviteDialogFrame.Title:Пригласить
+im.InviteDialogFrame.name:Выслать приглашение
+im.InviteDialogFrame.send:Отправить
+im.SnsFrame.success:Поделитесь радостью!
+ddt.giftSystem.giftView.helpFrameTitle:Описание подарка
+ddt.giftSystem.ClearingInterface.limit:Бесплатные подарки можно отправлять только по одному.
+ddt.giftSystem.GiftGoodItem.freeLimit:Все подарки уже раскуплены!clear:Удалить
+tank.view.enthrallCheckFrame.checkCode:Код подтверждения
+ddt.room.boguBoss:Король гулу Леонард
+
+ddt.roomList.roomListBG.full:Все режимы
+ddt.vip.vipFrame.upValue1:Рост: 10 ед./дн.
+
+tank.auctionHouse.view.sphere:Жемчужины
+tank.view.common.BellowStripViewII.bag:Рюкзак (B)
+tank.auctionHouse.view.BrowseLeftMenuView.Prop:Навыки
+tank.auctionHouse.view.prop:Другое
+tank.auctionHouse.view.cloth:Костюм
+tank.auctionHouse.view.BrowseLeftMenuView.Hairdressing:Салон
+tank.auctionHouse.view.beauty:Салон
+tank.auctionHouse.view.BrowseLeftMenuView.All:Все
+tank.auctionHouse.view.BrowseLeftMenuView.Head:Украшения
+tank.auctionHouse.view.BrowseLeftListView:Все
+tank.auctionHouse.view.BrowseLeftMenuView.Weapon:Оружие
+tank.view.common.BellowStripViewII.email:Почта (R) 
+tank.auctionHouse.view.BrowseLeftMenuView.Arm:Снаряжение
+store.view.strength.clew2:<FONT SIZE='16' FACE='Arial' KERNING='2' COLOR='#FF0000'><B> Если усилить оружие до 10 уровня и выше, перенос ха
+
+рактеристик будет невозможен. Продолжить?</B></FONT>  
+feedback.view.explainTextAreaText:<p align="center"><b>Восстановление утраченного имущества</b></p><br><b> 1. Сроки восстановления</b><br>Восстановлению подлежат вещи, с момента утраты которых прошло не более 15 дней. <br><br><b> 2. Порядок восстановления</b><br> а) Игрок должен предоставить администрации список утраченного снаряжения (включая уровень усиления каждого предмета и использованные жемчужины). После проверки указанное снаряжение будет восстановлено.<br> б) Восстановлению также подлежат предметы для заданий и легендарные монеты. <br><br><b> 3. Восстановлению не подлежат: </b><br> а) предметы, не являющиеся персональными; <br> б) предметы, которые были проданы или переданы другому игроку; <br> в) золото, купоны и алмазы; <br> г) расходуемые предметы (например, камни энергии, дракона\феникса\тигра\змеи, карточки, эликсиры опыта, медали, коробки с наградой). <br><br><b> 4. Возмещение при взломе </b><br> а) Возмещение возможно только в том случае, если подтвердится взлом учетной записи. <br> б) Учетная запись взломщика будет заблокирована, а оставшиеся на ней предметы будут возвращены пострадавшему. <br><br><b> 5. Восстановление прочего имущества</b><br> а) Восстановление прочих предметов возможно только в том случае, если причиной их утраты стала ошибка игровой программы.
+tank.game.smallmap.simple1:Сложность: низкая
+tank.store.embedCell.defense:Это - ячейка защиты. Вставьте в нее подходящую жемчужину - и показатель брони повысится.
+tank.game.smallmap.difficulty1:Сложность: высокая
+tank.store.embedCell.attack:Это - ячейка атаки. Вставьте в нее походящую жемчужину - и наносимый урон возрастет.
+store.Transfer.Succes.ChatSay:Перенос удался!
+tank.game.smallmap.simple:Низкая
+store.openHole.btnTipData:Необходимо обычное или улучшенное сверло.
+tank.view.caddy.quickBoxKey:{0} - быстрая покупка
+tank.game.smallmap.difficulty:Высокая
+ddt.vip.vipView.expiredToday:До конца действия VIP-статуса осталось {0} ч. Необходимо внести оплату.
+tank.game.smallmap.normal:Обычная
+tank.store.embedCell.close12:Откроется на 12-м уровне усиления
+tank.store.embedCell.close3:Откроется на 3-м уровне усиления
+tank.store.embedCell.close6:Откроется на 6-м уровне усиления
+tank.store.embedCell.close9:Откроется на 9-м уровне усиления
+tank.game.ToolStripView.isExitPVP:Вы хотите покинуть бой? <br><FONT SIZE='12' FACE='Arial' COLOR='#FF0000'> Это будет стоить вам опыта и славы! </FONT>
+tank.game.ToolStripView.task:Задания (Q)
+tank.game.ToolStripView.set:Настройки (H)
+tank.game.ToolStripView.friend:Общение (F)
+tank.store.embedCell.closeOpenHole:Воспользуйтесь сверлом, чтобы открыть эту ячейку.
+store.view.transfer.StoreIITransferBG.sure:Вы уверены, что хотите заменить характеристики указанного предмета?<br><FONT SIZE='12' FACE='Arial' KERNING='2' COLOR='#FF0000'> Примечание: Перенос сделает этот предмет персональным.</FONT>
+
+ddt.giftSystem.GiftBannerView.giftShow:Подарки:           шт.
+tank.store.embedCell.attribute:Это - ячейка характеристик. Вставьте в нее подходящую жемчужину - и характеристики персонажа улучшатся.
+store.view.fusion.AccessoryDragInArea.move:Перенос невозможен.
+shop.ShopIITryDressView.hideHat:Шапка
+tank.view.changeColor.ChangeColorLeftView.suit:Образ
+tank.view.changeColor.ChangeColorLeftView.glass:Очки
+tank.game.smallmap.hero:Героическая
+store.showTips.transfer.dontTransferII:Характеристики этого предмета нельзя перенести на другой.
+tank.game.smallmap.normal1:Сложность: обычная
+store.view.transfer.StoreIITransferBG.move:Перенос
+yes:Да
+no:Нет
+tips:Подсказки
+weekly.magazineDailyNextGetDate:Вы получили подарок! Следующий станет доступен {1}/{0}.
+tank.auctionHouse.view.AuctionBrowseView.buction:Введите цену
+tank.auctionHouse.view.AuctionBrowseView.input:Подтвердить
+tank.game.BuffName11:Пещера муравьев - здоровье
+tank.game.BuffName12:Усиленные броски
+tank.game.BuffName13:Недовольство
+tank.game.BuffName14:Зазубренное оружие
+tank.game.BuffName15:Второе дыхание
+tank.game.BuffName16:Злорадство
+tank.game.BuffName17:Удачный день
+tank.game.BuffName18:Сияние
+tank.game.BuffName19:Прочный щит
+tank.game.BuffName20:Усиленная гравитация
+tank.game.BuffName21:Запас ярости
+tank.game.BuffName22:Охлаждение
+tank.game.BuffName23:Непоколебимость
+tank.game.BuffName24:Защитник
+tank.game.BuffName25:Противоядие
+tank.game.BuffName26:Ангел-хранитель
+tank.game.BuffName27:Устойчивость
+tank.game.BuffTip11:Показатель здоровья будет увеличен на {0} очков.
+tank.game.BuffTip12:Каждый ваш удар наносит протинику на {0} ед. урона больше.
+tank.game.BuffTip13:В начале каждого хода вы получаете дополнительно по {0} оч. ярости.
+tank.game.BuffTip14:Эффект 'Боль' наносит противнику на {0} ед. урона больше.
+tank.game.BuffTip15:Перемещение не требует расхода энергии.
+tank.game.BuffTip16:Попадание в противника приносит дополнительно {0} оч. ярости.
+tank.game.BuffTip17:Показатели атаки, защиты, ловкости и удачи повышаются на {0} ед.
+tank.game.BuffTip18:Показатель здоровья будет увеличен на {0} очков.
+tank.game.BuffTip19:Сопротивляясь удару врага, вы дополнительно блокируете {0} ед. урона.
+tank.game.BuffTip20:Каждый ваш удар наносит на {0}% больше урона.
+tank.game.BuffTip21:В начале боя вы получаете дополнительно {0} оч. ярости.
+tank.game.BuffTip22:С каждым ходом получаемый урон от напалма снижается на {0} ед.
+tank.game.BuffTip23:Вас не страшит рык Огненного дракона.
+tank.game.BuffTip24:Ваша защита усилена на {0}%.
+tank.game.BuffTip25:С каждым ходом получаемый урон от отравления снижается на {0} ед.
+tank.game.BuffTip26:Небесная сфера лечит на {0} оч. здоровья больше.
+tank.game.BuffTip27:Вы можете выстоять под ударами гулу-боксера.
+shop.Shop.car:Корзина
+store.view.transfer.StoreIITransferBG.BeforeHole:Заменить отверстия: {0}?
+store.view.transfer.StoreIITransferBG.AfterHole:Заменить два предыдущих отверстия?
+store.view.transfer.HoleBeforeLabel:Усилить жемчужины для инкрустации
+store.view.transfer.HoleAfterLabel:Запечатать жемчужины для инкрустации
+store.view.transfer.EmptyItem:Недостаточно предметов.
+store.view.transfer.NoItem:Требуется указать предметы.
+store.StrengthItemCell.ratiofalse:Уровень камня энергии слишком низок. Усиление невозможно.
+store.StrengthItemCell.countlittle:Требуется не менее трех самоцветов.
+store.Embed.OpenHole.NoDrill:В рюкзаке нет сверла {0} уровня.
+store.Embed.OpenHole.LvError:Уровень отверстия слишком низкий. Инкрустация невозможна.
+store.Embed.OpenHole.NoTarget:Не для снаряжения
+ddt.UseGoodsFrame.title:Открыть
+tank.UseGoodsFrame.number:Укажите количество
+chat.Friend:Друзья
+chat.Function:Чат
+tank.game.ToolStripView.itemTemplateInfo.Name2:Артефакт (R)
+tank.game.ToolStripView.itemTemplateInfo.Description2:Щелкните по этой кнопке, чтобы использовать накопленную ярость и провести смертельный прием. (Не работает с умением 'Три в одном'.)
+BrowseLeftMenuView.wuqisp:Осколок оружия
+BrowseLeftMenuView.fuwuqisp:Осколок артефакта
+BrowseLeftMenuView.freakCard:Карта монстра
+BrowseLeftMenuView.equipCard:Карта оружия
+church.weddingRoom.frame.AddWeddingRoomFrame.day:дн.
+church.weddingRoom.frame.AddWeddingRoomFrame.notenoughday:Менее 1 дня
+church.weddingRoom.frame.AddWeddingRoomFrame.exceedmounth:Более 1 месяца
+church.weddingRoom.frame.AddWeddingRoomFrame.note:На заметку: если ваша вторая половинка не появляется в игре больше месяца, вы сможете подать на развод по сниженной цене (999 алмазов).
+church.weddingRoom.frame.AddWeddingRoomFrame.frameInfo:XXXX не появляется в игре уже больше месяца! Теперь вы можете развестись всего за <cr999 алмазов cr>.
+church.view.weddingRoomList.DivorcePromptFrame.yes:Развестись
+church.view.weddingRoomList.DivorcePromptFrame.no:Отмена
+church.view.weddingRoomList.frame.WeddingUnmarryViewTip:Развод
+tank.view.bagII.GoodsTipPanel.holeLv:(ячейка {0} ур.)
+tank.view.equipretrieve.tip:Разбор
+tank.view.equipretrieve.success:Предмет разобран!
+tank.view.equipretrieve.helpTip:Разбор предметов
+tank.view.equipretrieve.bagHasFull:Недостаточно места в рюкзаке. Предметы будут высланы вам по почте.
+tank.view.equipretrieve.countlack:Недостаточно предметов
+tank.view.equipretrieve.needsixteen:Получите 16 уровень,  чтобы получить возможность \nразбирать предметы.
+tank.view.store.matte.LevelWrong:Уровень отверстия слишком низкий. Инкрустация невозможна.
+tank.auctionHouse.view.pleaseInputOnThere:Введите название предмета.
+tank.auctionHouse.view.cards:Карты
+tank.auctionHouse.view.rarechip:Осколки
+tank.game.prop.Error1:Можно использовать только в свой ход.
+tank.game.prop.NotAttacking:Можно использовать только в свой ход.
+
+tank.game.prop.NotCoolDown:Вы сможете использовать этот артефакт через {0} рнд.
+tank.game.prop.LockState:В данный момент использование навыков невозможно.
+tank.game.prop.EmptyEnergy:Недостаточно энергии.
+store.embem.HoleTip.Level:Уровень:
+store.openHole.OpenTipData:{0} ур.: {1}/{2}\nНеобходимо сверло {3} ур.
+tank.view.bagII.SellGoodsBtn.CantSellEquip:Этот предмет нельзя продать.
+store.view.ShortcutBuyCell.Stone1:Феникс
+store.view.ShortcutBuyCell.Stone2:Змея
+store.view.ShortcutBuyCell.Stone3:Дракон
+store.view.ShortcutBuyCell.Stone4:Тигр
+tank.view.store.consortiaRateIV:После усиления коэффициент успеха вырос.
+tank.view.caddy.EmptyBox:Недостаточное количество: {0}.
+tank.view.daddy.SilverAward:Разбейте еще четыре волшебных горшка - и вы получите серебряный горшок!
+tank.view.daddy.GoldAward:Разбейте еще четыре волшебных горшка - и вы получите золотой горшок!
+tank.store.embedCell.Hole:Отверстие для жемчужины характеристик {0} ур. Сюда можно вставить жемчужину характ
+
+еристик S{0} ур. или S{0} ур. и ниже.
+ddt.loader.LoadingManualContentFailure:Загрузка справочника не выполнена.
+ddt.loader.LoadingManualSearchTagsFailure:Загрузка закладки справочника не выполнена.
+ddt.loader.LoadingGoodsAdditionFail:Загрузка малых дополнений к предметам не выполнена.
+ddt.loader.LoadingWeaponBallListFormFailure:Загрузка WeaponBallList не выполнена.
+ddt.vip.vipView.EquipRenewal:Оплата
+ddt.view.academyCommon.academyRequest.AcademyRequestMasterFrame.submitLabel:Мне очень нужна помощь учителя!
+ddt.view.academyCommon.academyRequest.AcademyRequestMasterFrame.title:Попроситься в ученики
+ddt.view.academyCommon.academyRequest.AcademyRequestMasterFrame.explainText:Объявление о поиске учителя
+ddt.view.academyCommon.academyRequest.AcademyRequestApprenticeFrame.submitLabel:Набираю учеников
+ddt.view.academyCommon.academyRequest.AcademyRequestApprenticeFrame.title:Предложить ученичество
+ddt.view.academyCommon.academyRequest.AcademyRequestApprenticeFrame.explainText:Объявление о наборе учеников
+ddt.view.academyCommon.academyRequest.AcademyRegisterFrame.academyHonorLabel:Учителя и ученики:
+ddt.view.academyCommon.recommend.AcademyApprenticeMainFrame.title:Рекомендация
+ddt.view.academyCommon.recommend.AcademyMasterMainFrame.title:Рекомендовать ученика
+ddt.view.academyCommon.myAcademy.myAcademyItem.MyAcademyMasterItem.online:В игре
+ddt.view.academyCommon.myAcademy.myAcademyItem.MyAcademyMasterItem.offline:Вне игры
+
+ddt.goodsTip.date1:Можно открыть через {0} дн. {1} ч. {2} мин.
+ddt.goodsTip.date2:Можно открыть через {0} ч. {1} мин.
+ddt.view.academyCommon.academyIcon.MasterIcon:Мой учитель
+ddt.view.academyCommon.academyIcon.ApprenticeIcon:Мой ученик
+ddt.view.academyCommon.academyIcon.AcademyIconTip.master:Учитель игрока {0}
+ddt.view.academyCommon.academyIcon.AcademyIconTip.Apprentice:Ученик игрока {0}
+ddt.view.academyCommon.academyIcon.AcademyIconTip.ApprenticeNull:Щелкните здесь, чтобы просмотреть прогресс обучения.
+ddt.view.academyCommon.myAcademy.MyAcademyApprenticeItem.remove:На вас будет наложен штраф в виде 10000 золотых и невозможности \n поиска учителя в течение 24 часов. Уйти от учителя {0}? 
+ddt.view.academyCommon.academyRequest.AcademyAnswerMasterFrame.AnswerMaster:Вы готовы учить игрока {0}?
+ddt.view.academyCommon.academyRequest.AcademyAnswerApprenticeFrame.AnswerApprentice:Вы хотите учиться у игрока {0}?
+ddt.view.academyCommon.graduate.ApprenticeGraduate:Выпуск
+ddt.view.academyCommon.graduate.ApprenticeGraduate.title:Вы завершили свое обучение! Поздравляем!
+ddt.view.academyCommon.graduate.ApprenticeGraduate.explain:Отныне вы сами можете обучать новичков!
+ddt.view.academyCommon.graduate.MasterGraduate:Выпуск
+ddt.view.academyCommon.graduate.MasterGraduate.title:Поздравляем! {0} становится самостоятельным героем!
+ddt.view.academyCommon.graduate.MasterGraduate.explain:Можно взять еще учеников! \n (Одновременно можно учить троих игроков.)
+ddt.manager.showAcademyPreviewFrame.masterFree:Прогресс обучения
+ddt.manager.AcademyManager.warning:Ученик должен быть слабее вас хотя бы на 5 уровней!
+ddt.manager.AcademyManager.warningI:Учитель должен быть сильнее вас хотя бы на 5 уровней!
+ddt.manager.AcademyManager.warningII:В ученики можно брать персонажей 5 уровня и выше.
+ddt.manager.AcademyManager.warningIII:В ученики можно брать персонажей не выше 20 уровня.
+ddt.manager.AcademyManager.warningIIII:В учителя можно идти только с 20 уровня.
+ddt.manager.AcademyManager.warning6:В ученики принимают персонажей 5 уровня и выше.
+ddt.manager.AcademyManager.WarningApprenticeState:У вас уже есть учитель.
+ddt.manager.AcademyManager.WarningMasterFullState:У вас уже трое учеников.
+im.IMView.myAcademyBtnTips:Мое обучение
+ddt.view.academyCommon.recommend.RecommendPlayerCellView.tips:Щелкните здесь, чтобы просмотреть снаряжение персонажа.
+ddt.manager.academyManager.Freezes:Вы отказались от учителя. Подождите 24 часа, прежде чем искать себе нового.
+ddt.manager.playerManager.masterState:Ваш учитель [{0}] входит в игру.
+ddt.manager.playerManager.ApprenticeState:Ваш ученик [{0}] входит в игру.
+academy.view.AcademyMemberListView.searchTxt:Введите имя
+ddt.view.academyCommon.register.TitleTxt:Личные данные
+ddt.view.academyCommon.register.TitleTxtII:Изменить
+ddt.view.academyCommon.register.introductionFieldTxt:Здесь можно найти себе учителя или учеников.
+ddt.data.analyze.AcademyMemberListAnalyze.info:К сожалению, сейчас подходящих учеников нет.
+ddt.data.analyze.AcademyMemberListAnalyze.infoI:К сожалению, сейчас подходящих учителей нет.
+academy.view.AcademyMemberListView.amendBtnTips:Изменить запись
+academy.view.AcademyMemberListView.registerBtnTips:Сохранить запись
+ddt.manager.AcademyManager.alertSubmit:В Академию
+hall.HallStateView.academyInfo:Эта функция доступна персонажам 6 уровня и выше.
+ddt.view.academyCommon.register.introductionLabel:Кому:
+academy.view.AcademyMemberListView.registerInfo:У вас уже есть учитель.
+academy.view.AcademyMemberListView.registerInfoII:У вас уже трое учеников.
+academy.view.AcademyMemberListView.registerInfoIII:По вашему запросу ничего не найдено.
+academy.view.success:Запрос отправлен. Ждите ответа!
+ddt.cardSystem.CardCell.cannotMoveCard.Same:Эта карта уже установлена.
+ddt.cardSystem.CardCell.cannotMoveCardMain:Эту карту нельзя установить в основное гнездо.
+ddt.cardSystem.CardCell.cannotMoveCardOther:Эту карту нельзя установить в дополнительное гнездо.
+ddt.cardSystem.CardCell.notOpen:Эта ячейка пока недоступна.
+ddt.cardSystem.CardCell.differentSets:Карту нельзя использовать в другой колоде.
+ddt.cardSystem.loadfail.setsSortRule:Не удалось загрузить правила хранения карт.
+ddt.cardSystem.loadfail.setsProperties:Не удалось загрузить характеристики комплекта.
+ddt.cardSystem.loadfail.PropertyList:Не удалось загрузить экран просмотра колоды.
+ddt.cardSystem.cardsTipPanel.type:Тип:
+ddt.cardSystem.cardsTipPanel.typeDetail:{0} ({1})
+ddt.cardSystem.cardsTipPanel.basePropText:Характеристики:
+ddt.cardSystem.cardsTipPanel.level:Уровень
+ddt.cardSystem.cardsTipPanel.attack:Атака: {0} ({1})
+ddt.cardSystem.cardsTipPanel.defends:Защита: {0} ({1})
+ddt.cardSystem.cardsTipPanel.agility:Ловкость: {0} ({1})
+ddt.cardSystem.cardsTipPanel.lucy:Удача: {0} ({1}) 
+ddt.cardSystem.cardsTipPanel.guard:Щит: {0} ({1})
+ddt.cardSystem.cardsTipPanel.damage:Урон: {0} ({1})
+ddt.cardSystem.cardsTipPanel.setsName:Колода: {0} ({1} / {2})
+ddt.cardSystem.cardsTipPanel.equip:Использовать {0} шт.:   
+ddt.goodTip.laterEquipmentGoodView.equip:Использовать {0} шт.:
+ddt.trainer.view.ExplainOne.explain: +1 к атаке
+ddt.trainer.view.ExplainTen.explain: +10% к урону
+ddt.cardSystem.UpGradeFrame.title:Улучшение карты
+ddt.cardSystem.UpGradeFrame.explain0:Улучшает до 1 звезды. Можно использовать 1 доп. карту, дает 5-10 очков развития.
+ddt.cardSystem.UpGradeFrame.explain1:Улучшает до 2 звезд. Можно использовать 2 доп. карты, дает 5-10 очков развития.
+ddt.cardSystem.UpGradeFrame.explain2:Улучшает до 3 звезд. Можно использовать 3 доп. карты, дает 5-10 очков развития.
+ddt.cardSystem.UpGradeFrame.moreCards:Недостаточно карт для улучшения.
+ddt.cardSystem.PropResetFrame.title:Перераспределение очков
+ddt.cardSystem.PropResetFrame.oldProp:Исходные характеристики
+ddt.cardSystem.PropResetFrame.newProp:Новые характеристики
+ddt.cardSystem.PropResetFrame.count:{0} шт.
+ddt.cardSystem.PropResetFrame.prop:({0})
+ddt.cardSystem.PropResetFrame.attack:Атака: {0}
+ddt.cardSystem.PropResetFrame.defends:Защита: {0}
+ddt.cardSystem.PropResetFrame.agility:Ловкость: {0}
+ddt.cardSystem.PropResetFrame.lucy:Удача: {0} 
+ddt.cardSystem.PropResetFrame.damage:Урон: {0}
+ddt.cardSystem.PropResetFrame.guard:Щит: {0}
+ddt.cardSystem.PropResetFrame.explain:Каждое перераспределение очков потребует 5 таких карт или 300 алмазов.
+ddt.cardSystem.PropResetFrame.noReplace:Отказ
+ddt.cardSystem.PropResetFrame.reset:Изменить характеристики
+ddt.cardSystem.PropResetFrame.replace:Сохранить
+ddt.cardSystem.CardBoxTipPanel.place:Гнезда для карт: {0}
+ddt.cardSystem.CardsTipPanel.main:Основная карта
+ddt.cardSystem.CardsTipPanel.vice:Доп. карта
+ddt.cardSystem.CardBoxTipPanel.type:Тип: {0}
+ddt.cardSystem.CardBoxTipPanel.sets:Колода: {0}
+ddt.trainer.view.ExplainPowerThree.three:Три в одном
+ddt.trainer.view.ExplainPowerThree.power:Смертельный прием
+ddt.trainer.view.ExplainPowerThree.ps:Примечание: эти два умения нельзя использовать одновременно.
+ddt.trainer.view.ExplainPlane.explain:Позволяет стремительно перемещаться по карте.
+ddt.trainer.view.ExplainTwoTwenty.two: +2 атаки
+ddt.trainer.view.ExplainTwoTwenty.twenty: +20% к урону
+ddt.trainer.view.ExplainTwoTwenty.ps:Добавляют дополнительные выстрелы и урон соответственно.
+ddt.trainer.view.ExplainThreeFourFive.tip:Увеличивают урон
+ddt.trainer.view.ExplainThreeFourFive.ps:Совет: увеличители урона помогут вам победить! Не пренебрегайте ими!
+ddt.functionLimitTip:Эта функция недоступна, необходимо достичь {0} уровня!
+ddt.storeLimitTip:Можно открыть после выполнения задания 'Первая экспедиция'.
+ddt.room.cantOpenMuti:Дополнительное место в комнате можно будет открыть по достижении 6 уровня.
+room.view.roomView.MatchRoomView.roundTimeTip:Ход будет длиться 10 секунд.
+room.view.roomView.MatchRoomView.challengeTip:Теперь можно бросать вызов противнику.\n Щелкните по имени игрока в списке арены, а затем нажмите кнопку 'Вызов' в открывшемся меню.
+shop.manager.ShopBuyManager.textImg:Количество
+shop.view.ShopRankingView.NoSearchResults:По вашему запросу ничего не найдено.
+im.playerState.awayReply:Меня сейчас нет у компьютера. Я отвечу тебе, когда вернусь!
+im.playerState.busyReply:Мне сейчас некогда общаться. Поговорим потом!
+im.playerState.noDisturbReply:Не отвлекай меня. Постучись попозже.
+im.playerState.shoppingReply:Я занимаюсь покупками. Поговорим потом.
+im.playerState.away:Отсутствует
+im.playerState.offline:Вне игры
+im.playerState.busy:Занят
+im.playerState.noDisturb:Не беспокоить
+im.playerState.online:В игре
+im.playerState.shopping:В магазине
+ddt.consortia.event.contribute:"{0}" {1} пополняет казну гильдии на {2} оч. вклада!
+ddt.consortia.event.quite:{0} {1} исключает персонажа {2} из гильдии.
+ddt.consortia.event.join:{0} {1} принимает персонажа {2} в гильдию.
+ddt.view.bossbox.AwardsView.TheNextTimeText:Оставайтесь в игре до {0} - и вы получите следующие награды:
+shop.view.ShopRankingView.shopSearchText:Введите название
+shop.view.ShopRankingView.PleaseEnterTheKeywords:Введите ключевое слово
+im.imView.giftBtnTip:Подарки
+ddt.giftSystem.openGiftBtn.text:Этот подарок можно будет использовать по достижении 16 уровня.
+ddt.userGuild.boxTip:Можно открыть через {0} ч. {1} мин.
+ddt.cardSystem.cardCollectView.title:Карты
+ddt.cardSystem.cardProp.unknown:Характеристики неизвестны
+ddt.cardSystem.preview.propExplain:Описание карты:
+ddt.cardSystem.preview.setProp1:Бонус от 
+ddt.cardSystem.preview.setProp2: кард колоды:
+ddt.cardSystem.upgradeFrame.rule:Карта улучшена до <FONT COLOR='#f8f806' >{0}</FONT> ур. <br>За каждые <FONT COLOR='#f8f806' >{1}</FONT> шт. карт<br> добавляется <FONT COLOR='#f8f806' >{2}-{3}</FONT> оч. роста.
+ddt.cardSystem.upgradeFrame.upSuccess:Добавлено {0} оч. роста.
+ddt.cardSystem.upgradeFrame.isMaxLevel:Эта карта достигла максимального уровня.
+ddt.cardSystem.loadfail.setsUpgradeRule:Не удалось загрузить правила улучшения карт.
+ddt.cardSystem.loadfail.propIncreaseRule:Не удалось загрузить правила изменения характеристик улучшения карт.
+ddt.cardSystem.getNewCard.name:Получено: {0}
+ddt.cardSystem.useCardBox.tweenty:Альбом для карт становится доступен начиная с 20 уровня.
+game.view.propContainer.ItemContainer.energy:Нажмите клавишу 'Пробел', чтобы сделать выстрел.
+game.view.arrow.ArrowView.energy:Нажмите клавишу 'Пробел', чтобы бросить предмет.
+ddt.cardSystem.cardEquip.openVice3:Гнездо для доп. карты
+ddt.cardSystem.cardEquip.openVice4:Гнездо для доп. карты
+ddt.cardSystem.cardEquip.congratulate:У вас появилось еще одно место для карты.
+ddt.cardSystem.upgrade.explain:Инструкция по улучшению карт
+ddt.cardSystem.cardView.explain:Инструкция по картам
+shop.view.ShopRightView.getSimpleAlert.title:Бесплатный предмет
+shop.view.ShopRightView.getSimpleAlert.msg:Получить приз?
+ddt.roomLoading.tips0:Чтобы открыть окно быстрых сообщений во время боя, нажмите клавишу 'Enter'.
+ddt.roomLoading.tips1:Чтобы улучшать карты, используйте их!
+ddt.roomLoading.tips2:За обучение новичков можно получить неплохие подарки.
+ddt.cardSyste.bagItem.unkwon:Закрыто
+ddt.cardSystem.bagView.openCardBox.level:Альбом для карт становится доступен начиная с 20 уровня.
+tank.game.SelfMark.Skip:Нажмите здесь, чтобы пропустить ход и получить 20 очков ярости.
+tank.data.EquipType.weapon: Оружие
+tank.dungeon.help.hited:Уничтожено: {0}/{1}
+ddt.manager.AcademyManager.warning7:Персонаж 16 уровня и выше не может стать учеником.
+ddt.manager.AcademyManager.warning8:Учениками могут стать только персонажи 6-16 уровня.
+ddt.manager.AcademyManager.warning9:Персонажей 17-19 уровня нельзя брать в ученики.
+ddt.consortion.shopItem.limitOver:Вы уже получили эту награду.
+clear:Удалить
+store.StoreIIComposeBG.VIPStrip: Бонус усиления для VIP-игроков (до +50% максимум)
+poorNote:Недостаточно алмазов. Пополнить счет?
+exp:Опыт
+offer:Слава
+attack:Атака
+defence:Защита
+agility:Ловкость
+luck:Удача
+damage:Урон
+recovery:Щит
+MaxHp:Здоровье
+energy:Энергия
+club.contactConsortia.minLenLimit:Нужно ввести не менее четырех символов.
+club.contactConsortia.maxLenLimit:Максимальное количество символов - 30.
+club.contactConsortiaName:Название гильдии
+club.contactChairman:Связаться с главой
+ddt.vip.vipView.yearDiscountText:При покупке VIP сразу на три или более \nмесяцев вы автоматически получите королевский VIP.
+chat.BugleInputFrameTitleString:Персональный мегафон
+chat.BugleInputNull:Поле сообщения не может быть пустым. Пожалуйста, введите текст.
+chat.BugleInputFrameRemainString:Осталось символов:
+game.PlayerThumbnailTipItemText_0:Досье
+game.PlayerThumbnailTipItemText_1:Добавить в друзья
+game.PlayerThumbnailTipItemText_2:Личное сообщение
+littlegame.AwardScore:Очки:
+littlegame.MinLvNote:Чтобы войти, нужен {0}-й уровень.
+littlegame.ScoreNote:Чтобы войти, нужен {0}-й уровень.
+room.UnableToSwitchToAnotherViewer:Во время наблюдения за битвой нельзя менять поле боя.
+room.UnableToSwitchToAnotherViewerWhenIsReady:В состоянии боевой готовности нельзя перейти в режим наблюдения.
+core.crossZone.AddFriendUnable:Нельзя добавить в друзья игрока с другого сервера.
+tank.MessageTip.GhostProp:-призрак использует 
+tank.MessageTip.AutoGuide: получает
+tank.MessageTip.AutoGuide2: за пропуск 4-х ходов.
+tank.MessageTip.EmptyGrid:Вам некуда положить 
+tank.calendar.signed:Вход выполнен.
+tank.calendar.OutWeek:Можно отметиться только за сегодня.
+tank.calendar.NoneActivity:Нет событий.
+tank.calendar.title:Награда за вход в игру (S)
+tank.calendar.activity.time:{0}～{1}
+tank.calendar.sign.title:Награда за отметки
+tank.calendar.DailyAward:Вы получили еженедельную награду. Зайдите {1}/{0} около 24 ч., чтобы получить еще один приз!
+tank.calendar.grid.month0:ЯНВ
+tank.calendar.grid.month1:ФЕВ
+tank.calendar.grid.month2:МАРТ
+tank.calendar.grid.month3:АПР
+tank.calendar.grid.month4:МАЙ
+tank.calendar.grid.month5:ИЮН
+tank.calendar.grid.month6:ИЮЛ
+tank.calendar.grid.month7:АВГ
+tank.calendar.grid.month8:СЕН
+tank.calendar.grid.month9:ОКТ
+tank.calendar.grid.month10:НОЯ
+tank.calendar.grid.month11:ДЕК
+tank.calendar.grid.today:{2}.{1}.{0}
+tank.calendar.grid.week0:Воскресенье
+tank.calendar.grid.week1:Понедельник
+tank.calendar.grid.week2:Вторник
+tank.calendar.grid.week3:Среда
+tank.calendar.grid.week4:Четверг
+tank.calendar.grid.week5:Пятница
+tank.calendar.grid.week6:Суббота
+tank.calendar.Activity.GetResult0:Награду можно получить, открыв почтовый ящик.
+tank.calendar.Activity.GetResult1:Неизвестная ошибка.
+tank.calendar.Activity.GetResult2:Такого пользователя не существует.
+tank.calendar.Activity.GetResult3:Не удалось получить предмет.
+tank.calendar.Activity.GetResult4:Такого номера не существует.
+tank.calendar.Activity.GetResult5:Этот номер уже получил награду, повторно получить награду невозможно.
+tank.calendar.Activity.GetResult6:Вы получили награду за событие.
+tank.calendar.Activity.GetResult7:Событие еще не началось.
+tank.calendar.Activity.GetResult8:Событие окончено.
+tank.calendar.Activity.GetResult9:Не удалось получить.
+tank.calendar.Activity.GetResult10:У вас недостаточно прав.
+tank.calendar.Activity.GetResult11:Поле кода активации не может быть пустым.
+tank.calendar.Activity.GetResult12:Истек срок ожидания. Попробуйте еще раз через некоторое время.
+tank.calendar.Activity.GetResult13:События не существует. Обратитесь к гейм-мастеру.
+tank.calendar.DailyAwardTitle:Ежедневная награда
+tank.calendar.award.CountTitle:Все награды за вход в игру
+tank.calendar.award.NagivCount: раз(а)
+tank.calendar.LuckyNumBar.PayNote:Вы ставите на номер "{0}" в завтрашней игре. <br>Потратить 99 алмазов для участия?
+tank.calendar.LuckyNumBar.ChooseNote:Если вам удастся угадать удачный номер на завтра, вы получите в несколько раз больше опыта и славы, а также повышение случайной характеристики.
+calendar.view.goodsExchange.BagFrame.Choose:Выберите предметы, которые хотите обменять.
+IM.privateChatFrame.failWord:Сообщение содержит недопустимые символы.
+tank.RenameFrame.Consortia.input:Поле не должно быть пустым.
+tnak.game.tryagain.title:<font color='#F6EE4B' >{0}</font> может воскресить отряд!
+tnak.game.tryagain.value:Стоимость воскрешения - <font color='#FF0000' ><b>{0}</b></font> алм.
+tank.game.BuffName31:Редкое везение
+tank.game.BuffName32:Щит ангела-хранителя
+tank.game.BuffName101:Панацея
+tank.game.BuffName102:Храбрая атака
+tank.game.BuffName103:Смертельный удар
+tank.game.BuffName104:Железное здоровье
+tank.game.BuffName105:Воодушевление
+tank.game.BuffName106:Попутный ветер
+tank.game.BuffName107:Нечеловеческая сила
+tank.game.BuffName108:Усиление эффекта
+tank.game.BuffName109:Слава
+tank.game.BuffName110:Алчность
+tank.game.BuffName111:Стойкий иммунитет
+tank.game.BuffName112:Спокойствие
+tank.game.BuffName215:Усиленные броски
+tank.game.BuffName216:Усиленные броски
+tank.game.BuffName217:Усиленные броски
+tank.game.BuffName218:Усиленные броски
+tank.game.BuffName219:Недовольство
+tank.game.BuffName220:Недовольство
+tank.game.BuffName221:Недовольство
+tank.game.BuffName222:Недовольство
+tank.game.BuffName223:Зазубренное оружие
+tank.game.BuffName224:Зазубренное оружие
+tank.game.BuffName225:Зазубренное оружие
+tank.game.BuffName226:Зазубренное оружие
+tank.game.BuffName227:Второе дыхание
+tank.game.BuffName228:Второе дыхание
+tank.game.BuffName229:Второе дыхание
+tank.game.BuffName230:Второе дыхание
+tank.game.BuffName231:Злорадство
+tank.game.BuffName232:Злорадство
+tank.game.BuffName233:Злорадство
+tank.game.BuffName234:Злорадство
+tank.game.BuffName235:Великий воин
+tank.game.BuffName236:Великий воин
+tank.game.BuffName237:Великий воин
+tank.game.BuffName238:Великий воин
+tank.game.BuffName239:Сияние
+tank.game.BuffName240:Сияние
+tank.game.BuffName241:Сияние
+tank.game.BuffName242:Сияние
+tank.game.BuffName243:Прочный щит
+tank.game.BuffName244:Прочный щит
+tank.game.BuffName245:Прочный щит
+tank.game.BuffName246:Прочный щит
+tank.game.BuffName247:Усиленная гравитация
+tank.game.BuffName248:Усиленная гравитация
+tank.game.BuffName249:Усиленная гравитация
+tank.game.BuffName250:Усиленная гравитация
+tank.game.BuffName251:Запас ярости
+tank.game.BuffName252:Запас ярости
+tank.game.BuffName253:Запас ярости
+tank.game.BuffName254:Запас ярости
+tank.game.BuffName255:Охлаждение
+tank.game.BuffName256:Охлаждение
+tank.game.BuffName257:Охлаждение
+tank.game.BuffName258:Охлаждение
+tank.game.BuffName259:Непоколебимость
+tank.game.BuffName260:Непоколебимость
+tank.game.BuffName261:Непоколебимость
+tank.game.BuffName262:Непоколебимость
+tank.game.BuffName263:Защитник
+tank.game.BuffName264:Защитник
+tank.game.BuffName265:Защитник
+tank.game.BuffName266:Защитник
+tank.game.BuffName267:Противоядие
+tank.game.BuffName268:Противоядие
+tank.game.BuffName269:Противоядие
+tank.game.BuffName270:Противоядие
+tank.game.BuffName271:Ангел-хранитель
+tank.game.BuffName272:Ангел-хранитель
+tank.game.BuffName273:Ангел-хранитель
+tank.game.BuffName274:Ангел-хранитель
+tank.game.BuffName275:Устойчивость
+tank.game.BuffName276:Устойчивость
+tank.game.BuffName277:Устойчивость
+tank.game.BuffName278:Устойчивость
+tank.game.BuffName279:Редкое везение
+tank.game.BuffName280:Редкое везение
+tank.game.BuffName281:Редкое везение
+tank.game.BuffName282:Редкое везение
+tank.game.BuffName283:Щит ангела-хранителя
+tank.game.BuffName284:Щит ангела-хранителя
+tank.game.BuffName285:Щит ангела-хранителя
+tank.game.BuffName286:Щит ангела-хранителя
+tank.game.BuffTip215:Противник получает на {0} ед. больше урона.
+tank.game.BuffTip216:Противник получает на {0} ед. больше урона.
+tank.game.BuffTip217:Противник получает на {0} ед. больше урона.
+tank.game.BuffTip218:Противник получает на {0} ед. больше урона.
+tank.game.BuffTip219:В начале каждого хода вам дается {0} доп. оч. ярости.
+tank.game.BuffTip220:В начале каждого хода вам дается {0} доп. оч. ярости.
+tank.game.BuffTip221:В начале каждого хода вам дается {0} доп. оч. ярости.
+tank.game.BuffTip222:В начале каждого хода вам дается {0} доп. оч. ярости.
+tank.game.BuffTip223:Эффект 'Боль' наносит на {0} ед. урона больше.
+tank.game.BuffTip224:Эффект 'Боль' наносит на {0} ед. урона больше.
+tank.game.BuffTip225:Эффект 'Боль' наносит на {0} ед. урона больше.
+tank.game.BuffTip226:Эффект 'Боль' наносит на {0} ед. урона больше.
+tank.game.BuffTip227:Перемещение не требует расхода энергии. Все характеристики возрастают на {0} оч.
+tank.game.BuffTip228:Перемещение не требует расхода энергии. Все характеристики возрастают на {0} оч.
+tank.game.BuffTip229:Перемещение не требует расхода энергии. Все характеристики возрастают на {0} оч.
+tank.game.BuffTip230:Перемещение не требует расхода энергии. Все характеристики возрастают на {0} оч.
+tank.game.BuffTip231:Попадание в противника дает {0} доп. оч. ярости.
+tank.game.BuffTip232:Попадание в противника дает {0} доп. оч. ярости.
+tank.game.BuffTip233:Попадание в противника дает {0} доп. оч. ярости.
+tank.game.BuffTip234:Попадание в противника дает {0} доп. оч. ярости.
+tank.game.BuffTip235:Атаки, защита, ловкость и удача повышаются на {0} оч.
+tank.game.BuffTip236:Атаки, защита, ловкость и удача повышаются на {0} оч.
+tank.game.BuffTip237:Атаки, защита, ловкость и удача повышаются на {0} оч.
+tank.game.BuffTip238:Атаки, защита, ловкость и удача повышаются на {0} оч.
+tank.game.BuffTip239:Максимум здоровья увеличивается на {0} оч.
+tank.game.BuffTip240:Максимум здоровья увеличивается на {0} оч.
+tank.game.BuffTip241:Максимум здоровья увеличивается на {0} оч.
+tank.game.BuffTip242:Максимум здоровья увеличивается на {0} оч.
+tank.game.BuffTip243:Получаемый урон снижается на {0} ед.
+tank.game.BuffTip244:Получаемый урон снижается на {0} ед.
+tank.game.BuffTip245:Получаемый урон снижается на {0} ед.
+tank.game.BuffTip246:Получаемый урон снижается на {0} ед.
+tank.game.BuffTip247:Противник получает {0}% дополнительного урона.
+tank.game.BuffTip248:Противник получает {0}% дополнительного урона.
+tank.game.BuffTip249:Противник получает {0}% дополнительного урона.
+tank.game.BuffTip250:Противник получает {0}% дополнительного урона.
+tank.game.BuffTip251:В начале боя вам дается {0} доп. оч. ярости.
+tank.game.BuffTip252:В начале боя вам дается {0} доп. оч. ярости.
+tank.game.BuffTip253:В начале боя вам дается {0} доп. оч. ярости.
+tank.game.BuffTip254:В начале боя вам дается {0} доп. оч. ярости.
+tank.game.BuffTip255:С каждым ходом урон от напалма снижается на {0} ед.
+tank.game.BuffTip256:С каждым ходом урон от напалма снижается на {0} ед.
+tank.game.BuffTip257:С каждым ходом урон от напалма снижается на {0} ед.
+tank.game.BuffTip258:С каждым ходом урон от напалма снижается на {0} ед.
+tank.game.BuffTip259:Вас не страшит рык огненного дракона. Все характеристики возрастают на {0} оч.
+tank.game.BuffTip260:Вас не страшит рык огненного дракона. Все характеристики возрастают на {0} оч.
+tank.game.BuffTip261:Вас не страшит рык огненного дракона. Все характеристики возрастают на {0} оч.
+tank.game.BuffTip262:Вас не страшит рык огненного дракона. Все характеристики возрастают на {0} оч.
+tank.game.BuffTip263:Ваша защита усилена на {0}%.
+tank.game.BuffTip264:Ваша защита усилена на {0}%.
+tank.game.BuffTip265:Ваша защита усилена на {0}%.
+tank.game.BuffTip266:Ваша защита усилена на {0}%.
+tank.game.BuffTip267:С каждым ходом урон от яда снижается на {0} ед.
+tank.game.BuffTip268:С каждым ходом урон от яда снижается на {0} ед.
+tank.game.BuffTip269:С каждым ходом урон от яда снижается на {0} ед.
+tank.game.BuffTip270:С каждым ходом урон от яда снижается на {0} ед.
+tank.game.BuffTip271:Небесная сфера лечит на {0} оч. здоровья больше.
+tank.game.BuffTip272:Небесная сфера лечит на {0} оч. здоровья больше.
+tank.game.BuffTip273:Небесная сфера лечит на {0} оч. здоровья больше.
+tank.game.BuffTip274:Небесная сфера лечит на {0} оч. здоровья больше.
+tank.game.BuffTip275:Способность уклониться от боксерского удара и увеличить все харакеристики на {0} оч.
+tank.game.BuffTip276:Способность уклониться от боксерского удара и увеличить все харакеристики на {0} оч.
+tank.game.BuffTip277:Способность уклониться от боксерского удара и увеличить все харакеристики на {0} оч.
+tank.game.BuffTip278:Способность уклониться от боксерского удара и увеличить все харакеристики на {0} оч.
+tank.game.BuffTip279:{0}% получаемого урона преобразуется в очки здоровья.
+tank.game.BuffTip280:{0}% получаемого урона преобразуется в очки здоровья.
+tank.game.BuffTip281:{0}% получаемого урона преобразуется в очки здоровья.
+tank.game.BuffTip282:{0}% получаемого урона преобразуется в очки здоровья.
+tank.game.BuffTip283:{0}% урона возвращается противнику.
+tank.game.BuffTip284:{0}% урона возвращается противнику.
+tank.game.BuffTip285:{0}% урона возвращается противнику.
+tank.game.BuffTip286:{0}% урона возвращается противнику.
+tank.game.BuffTip31:3% урона преобразуется в очки здоровья.
+tank.game.BuffTip32:5% урона возвращается противнику, но не может его убить.
+tank.game.BuffTip101:Сила лечения повышается на {0} оч.
+tank.game.BuffTip102:Урон повышается на {0} оч.
+tank.game.BuffTip103:Критический урон повышается на {0} оч.
+tank.game.BuffTip104:Максимум здоровья для уровня повышается на {0}%.
+tank.game.BuffTip105:Атака, защита, ловкость и удача повышаются на {0} оч.
+tank.game.BuffTip106:Расход энергии на перемещение сокращается на {0}%.
+tank.game.BuffTip107:Максимум энергии повышается на {0} оч.
+tank.game.BuffTip108:Усиление эффекта
+tank.game.BuffTip109:Количество очков славы повышается в {0} р.
+tank.game.BuffTip110:Вы получаете на {0}% больше опыта и золота.
+tank.game.BuffTip111:При использовании лечащего предмета количество очков здоровья увеличивается на {0}%.
+tank.game.BuffTip112:Ярость противника снижается на {0}%.
+tank.game.BuffNameLucky:Удачный номер: "{0}".
+tank.game.BuffTip40:{0} повышает параметр "{1}" в бою.
+tank.game.BuffTip41:Полученный опыт увеличится в {0} р.
+tank.game.BuffTip42:Количество очков славы повышается в {0} р.
+tank.game.BuffTip43:Двойной опыт<br>Двойная слава<br>Здоровье повышается на {0} оч.
+tank.game.BuffTip44:Двойной опыт<br>Двойная слава<br>Атака повышается на {0} оч.
+tank.game.BuffTip45:Двойной опыт<br>Двойная слава<br>Защита повышается на {0} оч.
+tank.game.BuffTip46:Двойной опыт<br>Двойная слава<br>Удача повышается на {0} оч.
+tank.game.BuffTip47:Двойной опыт<br>Двойная слава<br>Щит повышается на {0} оч.
+tank.game.BuffTip48:Двойной опыт<br>Двойная слава<br>Урон повышается на {0} оч.
+tank.game.BuffTip49:{0} повышает параметр "{1}" в бою.
+tank.room.ToShopConfirm:Вы покинете комнату и перейдете в лавку. Продолжить?
+tank.room.RoomIIPlayerItem.new: -
+tank.roomlist.siftAllFb:Все походы
+tank.serverlist.ServerListPosView.low:Ваш уровень недостаточно высок для этого сервера.  Выберите соответствующий канал.
+tank.serverlist.ServerListPosView.full:Канал перегружен, пожалуйста, выберите другой.
+tank.serverlist.ServerListPosView.maintenance:На этом канале проводится профилактика. Пожалуйста, выберите другой.
+shop.SetsTitle:Благословения.
+store.view.transfer.HoleLabel:Характеристики выбранного предмета будут изменены. Продолжить?<br><FONT SIZE='12' FACE='Arial' KERNING='2' COLOR='#FF0000'> Примечание: оба предмета станут персональными.</FONT>
+tank.data.EquipType.TEMPARMLET:Временный браслет
+tank.data.EquipType.tempTEMPRING:Временное кольцо
+tank.data.EquipType.tempweapon:Случайное оружие
+tank.manager.PlayerManager.one:<{0}> принимает ваше приглашение в гильдию.
+tank.manager.RoomManager.break:Потеряна связь с сервером. Пожалуйста зайдите в игру еще раз.
+tank.manager.RoomManager.false:Потеряна связь с сервером. Пожалуйста зайдите в игру еще раз.
+tank.game.IM.custom:(Новая группа)
+tank.game.ToolStripView.sign:Отметки (S)
+tank.game.ToolStripView.proplayer1:Вертикальный режим.
+tank.game.ToolStripView.proplayer2:Горизонтальный режим.
+tank.game.ToolStripView.transparent:Прозрачность (Т)
+tank.view.common.BellowStripViewII.supply:Пополнить счет
+tank.view.common.BellowStripViewII.exit:Выйти
+tank.view.im.IMController.sameCityfriend:r живет в вашем городе и хочет подружиться с вами!
+tank.view.bagII.KeySetFrame.titleText:Щелкните по значку и назначьте клавишу быстрого доступа.
+tank.view.ChannelList.FastMenu.titleText:Еще (Т)
+chat.Lock:Щелкните, чтобы закрыть.
+chat.UnLock:Щелкните, чтобы открыть.
+chat.ScrollUp:Прокрутка вверх
+chat.ScrollDown:Прокрутка вниз
+tank.view.common.BuggleView.cross:Межсерверный мегафон: 
+tank.view.common.ConsortiaIcon.self:Все игроки гильдии
+tank.view.common.RoomIIPropTip.Energy:<b>Необходимо:</b><font color='#f2c834'>{0} оч. Энергии.</font>
+tank.view.common.RoomIIPropTip.Psychic:<b>Необходимо:</b> <font color='#f2c834'>{0} оч. силы духа.</font>
+tank.view.common.RoomIIPropTip.Gold:<b>Цена:</b><font color='#E0D06E'>{0} зол.</font>
+tank.view.common.RoomIIPropTip.Description:<b>Режим:</b>\r{0}
+tank.view.im.IMGourp.sure:Подтвердить сброс персональных настроек [{0}]?
+tank.view.quest.bubble.TankLink:[Основное задание]
+tank.view.quest.bubble.BranchLine:[Побочное задание]
+tank.view.quest.bubble.Daily:[Ежедневное задание]
+tank.view.quest.bubble.Act:[Событие]
+tank.view.quest.bubble.VIP:[VIP-задание]
+tank.lottery.levelNotEnough:Необходимо достичь 3 уровня, чтобы делать ставки на предсказания.
+tank.lottery.cardLottery.btnTip:Подходи к моей палатке! Эта книга предсказывает богатство. Если вытянешь удачную карту, разбогатеешь!
+tank.lottery.luckyLottery.btnTip:Испытай удачу! Хрустальный шар укажет тебе, в каком направлении действовать!
+tank.lottery.luckyHelp.btnTip:Правила предсказания удачи
+tank.lottery.cardHelp.btnTip:Правила предсказания богатства
+tank.lottery.cardResult.btnTip:Результат предсказания богатства
+tank.lottery.cardLottery.awager:Подтверждаете выбор?
+tank.lottery.cradName1:Карта царицы муравьев
+tank.lottery.cradName2:Карта муравья-солдата
+tank.lottery.cradName3:Карта муравья-разведчика
+tank.lottery.cradName4:Карта Леонардо
+tank.lottery.cradName5:Карта капитана гулу
+tank.lottery.cradName6:Карта ветерана гулу
+tank.lottery.cradName7:Карта розового гулу
+tank.lottery.cradName8:Карта вождя культистов
+tank.lottery.cradName9:Карта Старшего Ктулховеда
+tank.lottery.cradName10:Карта Младшего Ктулховеда
+tank.lottery.cradName11:Карта пигмея-копейщика
+tank.lottery.cradName12:Карта пигмея-культиста
+tank.lottery.cradName13:Карта минотавра
+tank.lottery.cradName14:Карта Люциферика
+tank.lottery.cradName15:Карта вервольфа
+tank.lottery.cradName16:Карта орлицы
+tank.lottery.cradName17:Карта Агриппы
+tank.lottery.cradName18:Карта наседки
+tank.lottery.cradName19:Карта недощипанного петуха
+tank.lottery.cradName20:Карта цыпленка
+tank.lottery.cradName21:Карта сюрикена
+tank.lottery.cradName22:Карта шокера
+tank.lottery.cradName23:Карта динамита
+tank.lottery.cradName24:Карта пушки
+tank.lottery.cardLottery.chosenLimit:Карт выбрано: {0}.
+tank.lottery.cardLottery.haveChosen:Вы выбрали эту карту.
+tank.view.changeColor.lackCard:Чтобы изменить цвет, необходимы купоны ({0}). Продолжить?
+tank.view.buff.PayBuff.Note:Щелкните, чтобы выбрать до семи благословений с различными полезными эффектами!
+tank.view.buff.PayBuff.Name:Благословения
+ddt.data.analyze.MyAcademyPlayersAnalyze:Информация о наставничестве недействительна.
+civil.register.infoAutoEntered:Сообщение записывается автоматически.
+tank.consortia.consortiashop.ConsortiaShopView.skill:Доступны умения гильдии {0} ур.
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.bank:Уровень сейфа гильдии достиг максимума.
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.skill:Вам доступны все умения гильдии.
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.skill.explainTxt:После улучшения можно будет использовать умения более высокого уровня.
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.consortiaSkillUpgrade:Развитие умений гильдии
+tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.search:Поиск игрока гильдии
+tank.manager.ItemManager.aid:Оберег
+tank.manager.PlayerManager.consortiaSkill:Теперь вашей гильдии доступны умения {0} ур.
+tank.manager.PlayerManager.consortiaSkill2:Уровень умений гильдии достиг {0}.
+tank.manager.PlayerManager.notOtherLvWoo:Нельзя сделать предложение игроку, не достигшему 10-го уровня.
+tank.manager.PlayerManager.notLvWoo:Игрок, не достигший 10-го уровня, не может сделать предложение.
+tank.view.bagII.GoodsTipPanel.reply:Восстановление
+tank.view.changeColor.ChangeColorLeftView.Wings:Крылья
+tank.view.emailII.EmailIIStripSended.sender_txtMember:Адресат: все игроки гильдии.
+store.ShowSuccessRate.basallevelTxt:Значение
+store.ShowSuccessRate.luckyTxt:Амулет
+store.ShowSuccessRate.sociatyTxt:Бонус гильдии
+tank.data.EquipType.decorate:Фон
+tank.view.common.BellowStripViewII.channel:Еще (Т)
+tank.manager.enthrallRemind3:Вы играете дольше 3 часов подряд. Продолжив игру сейчас, вы будете получать в два раза меньше трофеев. Сделайте передышку!
+tank.room.difficulty.all:Все
+tank.room.difficulty.none: -
+tank.roomlist.RoomListIICreatePveRoomView.go:В команде веселее!
+tank.roomlist.RoomListIICreatePveRoomView.fire:Суровое испытание, лихой азарт!
+tank.dialog.showbugleframe.texpQuickBuy:Зелья развития
+tank.view.personalinfoII.luckyday:[Бонус удачного дня]
+tank.view.continuation.contiuationTitle:Быстрое обновление.
+tank.view.HealStone.ErrorGrade:Для использования нужен {0} уровень.
+tank.game.prop.EmptyPsychic:Недостаточно силы духа.
+tank.game.prop.SoulPropOverFlow:Во время одного раунда можно использовать не более двух предметов.
+tank.game.PsychicBar.Title:Сила духа: 
+tank.game.PsychicBar.Content:За очки силы духа можно покупать усиления для ваших союзников!
+tank.roomlist.cantBeChallenged:Нельзя бросить вызов игроку, не достигшему 12-го уровня.
+tank.roomlist.notGotoIntoRoom:Игроки, не достигшие {0}-го уровня, не могут попасть в комнату "{1}".
+tank.roomlist.challenge:Поединок
+tank.roomlist.joinDuplicateQuickly:Приоритеты при выборе похода и быстрого матча.
+tank.invite.InvitePlayerItem.cannot:Нельзя пригласить игрока, не достигшего {0}-го уровня.
+tank.view.chat.ChannelListSelectView.crossBugle:Межсерверный мегафон
+tank.fightLib.Lesson.Message1:Необходимо пройти курс оценки расстояния.
+tank.fightLib.Lesson.Message2:Необходимо пройти весь курс стрельбы под углом 65°.
+tank.fightLib.AngleMessage:Неверный угол, бросок не засчитывается.
+tank.command.fightLibCommands.script.MeasureScree.EasyMeasureScreenScript.command2:Начнем с самого простого. Видите этот белый прямоугольник на мини-карте? Попробуйте его перетащить.
+tank.command.fightLibCommands.script.MeasureScree.EasyMeasureScreenScript.command5:Отлично! Длина этого прямоугольника равна размеру экрана. Мы так и будем называть его - 'один экран'. А теперь мысленно разделите экран на десять частей.
+tank.command.fightLibCommands.script.MeasureScree.EasyMeasureScreenScript.command9:Оцените расстояние до цели. Оно составляет пять десятых частей экрана. Итак, начнем наш урок.
+tank.command.fightLibCommands.script.MeasureScree.NomalMeasureScreenScript.command2:Но что же делать, если до цели больше одного экрана?
+tank.command.fightLibCommands.script.MeasureScree.NomalMeasureScreenScript.command5:Разумеется, теперь счет ведется, начиная с десяти. Ну же, попробуйте!
+tank.command.fightLibCommands.script.MeasureScree.DifficultMeasureScreenScript.command2:Последний урок по оценке расстояния - самый трудный. Ошибиться можно всего один раз! Но вы ведь запомнили, как вычислить расстояние?
+tank.command.fightLibCommands.script.MeasureScree.EasyTwentyDegree.command1:Для бросков под углом 20° лучше всего использовать следующее оружие: 
+tank.command.fightLibCommands.script.MeasureScree.NormalTwentyDegree.command2:У вас получается все лучше! Попробуем усложнить задачу - теперь цели будут появляться на расстоянии до двух экранов, и поразить нужно больше мишеней!
+tank.command.fightLibCommands.script.HighThrow.EasyHighThrow.command1:Для бросков по параболе лучше всего использовать следующее оружие: 
+tank.command.fightLibCommands.script.HighThrow.NormalHighThrow.command2:Если ветер дует вам в спину, угол броска рассчитывается так: [90° - количество частей экрана до противника + скорость ветра х2]. Если ветер дует в лицо, формула меняется: [90° - количество частей экрана до противника - скорость ветра х2]. Попробуйте!
+tank.command.fightLibCommands.script.SixtyDegree.DifficultSixtyDegreeScript.command2:В первую очередь определите расстояние до цели. Затем рассчитайте силу и сделайте поправку на ветер. Все понятно? Тогда за дело!
+tank.command.fightLibCommands.script.SixtyDegree.EasySixtyDegreeScript.command1:Для бросков под углом 65° лучше всего использовать следующее оружие: 
+tank.command.fightLibCommands.script.SixtyDegree.NormalSixtyDegreeScript.command2:Если ветер дует вам в спину, увеличьте угол броска на значение, равное удвоенной силе ветра. Если же вы стреляете против ветра, то угол броска считается по формуле: [65° - скорость ветра х2]. Все ясно? Тогда за дело!
+tank.command.fightLibCommands.script.HighGap.EasyHighGap.command3:Для расчета высоты нет строгой формулы. Нужно учитывать только общую закономерность: чем больше сила броска, тем больше высота полета.
+tank.hall.ChooseHallView.fifteenGrade:Зайти на стрельбище могут игроки, достигшие 15-го уровня.
+tank.game.ToolStripView.isExitLib:Покинуть обучение?
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.CONSORTIASKILLGRADE:Развить умения гильдии?
+tank.command.fightLibCommands.script.FightLibGuideScripit.welcome:Добро пожаловать на стрельбище! Здесь вас ждет несколько уроков,\n которые помогут вам значительно улучшить свои навыки.
+tank.hall.ChooseHallView.campaignLabAlert:Стрельбище
+tank.hall.ChooseHallView.auction:Аукцион
+tank.hall.ChooseHallView.church:Храм
+tank.hall.ChooseHallView.civil:Ратуша
+tank.hall.ChooseHallView.consortia:Гильдия
+tank.hall.ChooseHallView.hotWell:Источник
+tank.hall.ChooseHallView.roomList:Арена
+tank.hall.ChooseHallView.shop:Лавка
+tank.hall.ChooseHallView.tofflist:Зал славы
+tank.hall.ChooseHallView.dungeon:Верфь
+tank.hall.ChooseHallView.master:Академия
+tank.hall.ChooseHallView.openBuildTip:Поздравляем, {0} распахивает перед вами свои двери!
+tank.consortia.myconsortia.MyConsortiaMemberInfoItem.month:Более месяца
+tank.view.surpriseRoulette.close:Вы уверены, что хотите выйти?
+tank.view.rouletteview.quit:Пока нельзя закрыть окно.
+tank.view.surpriseRoulette.quit:Нельзя закрыть, пока вращается рулетка.
+tank.view.caddy.FullBag:В рюкзаке недостаточно места!
+tank.view.caddy.opennAll:Открыть все?
+tank.view.caddy.cardBoxDontClose:Пока нельзя закрыть окно.
+tank.view.caddy.openCardBox:Открыть набор карт.
+tank.view.caddy.EmptyKey:Не хватает молотов.
+tank.view.bead.buyNoCardBox:У вас нет набора карт. Хотите купить его?
+tank.view.bead.quickNumber:Выберите количество
+tank.view.award.auto:Открывать все по порядку.
+tank.game.GameView.cardBoxBattle:Открыть набор карт.
+tank.view.card.title:Открыть
+tank.view.card.noCard:Пусто.
+tank.view.card.dontClose:Пока нельзя закрыть окно.
+store.StoreIIComposeBG.StrengthenStonStrip:На шансы успеха влияет камень энергии.
+store.StoreIIComposeBG.ComposeStonStrip:На шансы успеха влияет камень слияния.
+store.StoreIIComposeBG.LuckSignStrip:На шансы успеха влияет амулет.
+store.StoreIIComposeBG.VIPAddStrip:Режим VIP дает дополнительные шансы на успех.
+store.StoreIIComposeBG.NoVIPAddStrip:VIP-привилегии вам не доступны.
+store.StoreIIComposeBG.ConsortiaAddStrip:Гильдия дает дополнительные шансы на успех.
+store.StoreIIComposeBG.RichesIsNotEnough:Недостаточный размер вклада.
+store.StoreIIComposeBG.AllNumStrip:Совокупный шанс успеха.
+store.StoreIIComposeBG.noVIPAllNumStrip:Совокупный шанс успеха.
+ddt.loader.LoadingBadgeInfoFailure:Не удалось открыть окно гильдии!
+ddt.loader.LoadingTexpExpFailure:Не удалось получить развивающее задание!
+ddt.loader.LoadingBadLuckFailure:Не удалось загрузить.
+ddt.vip.vipIcon.notVipCoin:Недостаточно VIP-монет.
+ddt.vip.vipIcon.notVip:В лотерее могут участвовать только VIP-игроки.
+ddt.vip.vipView.expiredHour:Срок действия режима VIP истечет через час, не забудьте обновить его!
+ddt.vip.vipFrame.upValue0:Развитие: 15 очков в день.
+bagAndInfo.bag.sortBagClick.isSegistration2:Сортировать карты в рюкзаке?
+bagAndInfo.consortionBag.sortBagClick.isSegistration:Рассортировать одинаковые предметы по ячейкам?
+ddt.view.academyCommon.academyRequest.AcademyRequestMasterFrame.account:Я хочу, чтобы вы стали моим наставником!
+ddt.view.academyCommon.academyRequest.AcademyRequestApprenticeFrame.account:Я хочу, чтобы вы стали моим учеником!
+ddt.view.academyCommon.academyIcon.AcademyIconTip.masterExplanation:Ищет учеников ({0}).
+ddt.view.academyCommon.academyIcon.AcademyIconTip.1:Один
+ddt.view.academyCommon.academyIcon.AcademyIconTip.2:Два
+ddt.view.academyCommon.academyIcon.AcademyIconTip.3:Три
+ddt.view.academyCommon.academyIcon.AcademyIconTip.ApprenticeExplanation:У вас еще нет наставника.
+ddt.view.academyCommon.myAcademy.MyAcademyApprenticeItem.removeII:Разорвать отношения наставничества с игроком {0}? Учтите, что после 16 уровня вы не сможете вернуться к этому же учителю.
+ddt.view.academyCommon.myAcademy.MyAcademyApprenticeItem.removeIII:Разорвать отношения наставничества с игроком {0}?
+ddt.view.academyCommon.recommend.AcademyApprenticeMainFrame.checkBoxBtnInfo:Не предлагать сегодня.
+ddt.manager.AcademyManager.warning10:Войти в Академию?
+ddt.room.roomStart.academy.warning1:Только наставник с учеником могут попасть сюда.
+ddt.room.roomStart.academy.warning2:В команде должен быть наставник!
+ddt.room.roomStart.academy.warning3:В команде должен быть только один наставник!
+ddt.room.roomStart.academy.warning4:В команде должен быть один наставник и один ученик!
+im.IMView.socialContact:Отправление
+im.IMView.academyInfo:Доступно игрокам выше 5-го уровня..
+ddt.view.SnsFrame.titleText:
+ddt.view.SnsFrame.inputTextI:Спасибо, друзья!
+ddt.view.SnsFrame.inputTextII:Сегодня мне так хорошо!
+ddt.view.SnsFrame.inputTextIII:Я не хочу хвастаться.
+ddt.view.SnsFrame.inputTextIV:Что посеешь, то и пожнешь!
+ddt.view.SnsFrame.inputTextV:С друзьями не страшны никакие испытания!
+ddt.view.SnsFrame.inputTextVI:Защита +, атака +, удача +, ловкость +, счастье +.
+ddt.view.SnsFrame.inputTextVII:Не родись красивой!
+ddt.view.SnsFrame.inputTextVIII:Я могу попасть белке в глаз с расстояния в километры!
+ddt.view.SnsFrame.shareBtnText:Поделиться
+ddt.cardSystem.PropResetFrame.help.title:Помощь
+ddt.cardSystem.PropResetFrame.Attack:Атака: {0}
+ddt.cardSystem.PropResetFrame.Defence:Защита: {0}
+ddt.cardSystem.PropResetFrame.Agility:Ловкость: {0}
+ddt.cardSystem.PropResetFrame.Luck:Удача: {0} 
+ddt.cardSystem.PropResetFrame.Damage:Урон: {0}
+ddt.cardSystem.PropResetFrame.Guard:Щит: {0}
+ddt.cardSystem.PropResetFrame.resetagain:Перетасовать еще раз
+ddt.cardSystem.PropResetFrame.EmptyCard:У вас менее трех карт. Потратить 300 алмазов на перетасовку?
+ddt.trainer.store.open:Сначала зайдите в арсенал!
+ddt.playerManager.addFriend.isRefused:Этот игрок не хочет дружить.
+ddt.consortia.event.quit:{0} {1} выходит из гильдии.
+ddt.giftSystem.openCardBtn.text:Получите 20-ый уровень, чтобы открыть альбом для карт.
+ddt.texpSystem.openTexpBtn.text:Развивающие задания появляются на 10-м уровне.
+tank.view.changeColor.ChangeColorLeftView.wing:Крыл.
+ddt.cardSystem.upgradeFrame.ownCardNum:<FONT COLOR='#06f906' >{0}</FONT> 
+ddt.cardSystem.cardEquip.open3:<b>Получите карту <FONT COLOR='0xff0000' >20</FONT> ур.</b>, чтобы открыть  эту ячейку.
+ddt.tryonSystem.title:Выберите награду.
+ddt.consortion.levelTip.explain:Объяснение:
+ddt.consortion.levelTip.nextLevel:Следующий уровень:
+ddt.consortion.levelTip.requirements:Требования:
+ddt.consortion.levelTip.consumption:Стоимость:
+ddt.consortion.loadEventList.fail:Не удалось загрузить событие гильдии!
+ddt.consortion.loadUseCondition.fail:Не удалось загрузить информацию о гильдии!
+cityWideFrame.ONSTitle:Соседи
+cityWideFrame.ONSAlertInfo11:<font size='14px' COLOR='#000000'></font><font size='14px' COLOR='#000000'> из вашего города добавляет вас в друзья!</font>
+cityWideFrame.ONSAlertInfo:<font size='14px' COLOR='#000000'>Теперь вы и</font><font size='14px' COLOR='#D38753'> r </font><font size='14px' COLOR='#000000'>- друзья! Приятного общения!</font>
+ddt.exitPrompt.btInfoTextI:Еще не выполнено: <font size='18px' COLOR='#20d8ff'>r</font> .
+ddt.exitPrompt.btInfoTextII:<font COLOR='#00cc33'>Выполнены</font>
+ddt.exitPrompt.btInfoTextIII:Еще не прочитано: <font size='18px' COLOR='#20d8ff'>r</font> .
+ddt.exitPrompt.btInfoTextIV:<font COLOR='#00cc33'>Прочитаны</font>
+ddt.exitPrompt.prompt:Выйти из игры?
+ddt.exitPrompt.alotofTask:Много раз
+ddt.exitPrompt.copyThisUrl:Адрес сохранен.
+tank.view.im.microcobol.tip:Состояние
+socialContact.microcobol.infoTextI:Пожалуйста, введите текст.
+socialContact.microcobol.infoTextII:Лимит символов <font size='24px'>r</font> превышен.
+socialContact.microcobol.infoTextIII:Осталось символов: <font size='24px' >r</font>.
+socialContact.microcobol.succeed:Вы поделились с другими.
+socialContact.microcobol.infoTextTooLong:Достигнут максимум символов.
+journal.view.JournalItem.content1:Получены предметы: {0}, {1}, {2}, {3}.
+journal.view.JournalItem.content2:хх получает {0}-й уровень!
+journal.view.JournalItem.content3:{0}  - моя половинка!
+journal.view.JournalItem.content4:{0} и я приглашаем на нашу свадьбу!
+journal.view.JournalItem.content5:Теперь вы - глава гильдии "{1}"! 
+journal.view.JournalItem.content6:Теперь вы VIP!
+journal.view.JournalItem.content7:Новый титул: "{0}"!
+journal.view.JournalItem.content8:Новое достижение: "{0}"!
+journal.view.JournalItem.content9:{0}-й уровень!
+journal.view.JournalItem.content10:Участие в PvP-битвах ({0}).
+journal.view.JournalItem.content11:Получено {0} ед. опыта!
+journal.view.JournalItem.content12:Получены медали ({0}).
+journal.view.JournalItem.content13:Получены очки славы ({0}).
+journal.view.JournalItem.content14:Получены подарки ({0}).
+journal.view.JournalItem.content15:{0} - новый друг!
+journal.view.JournalItem.content16:Основное задание "{0}" выполнено!
+journal.view.JournalItem.content17:Побочное задание "{0}" выполнено!
+journal.view.JournalItem.content18:Ежедневное задание "{0}" выполнено!
+journal.view.JournalItem.content19:Событие "{0}" выполнено!
+journal.view.JournalItem.content20:VIP-задание "{0}" выполнено!
+journal.view.JournalItem.content21:Ученик {0} заканчивает обучение!
+journal.view.JournalItem.content22:{0} - новый наставник!
+journal.view.JournalItem.content23:{0} - новый ученик!
+journal.view.JournalItem.content24:Карта "{0}" улучшается до {1}-го уровня.
+journal.view.JournalItem.content25:Вступление в гильдию "{0}"!
+journal.view.JournalItem.content26:{0} и вы - больше не пара!
+journal.view.JournalItem.content27:VIP-статус улучшается до {0}-го уровня.
+journal.view.JournalItem.contentTxtNum:<FONT SIZE='14' FACE='Шрифт' COLOR='#993300'><B>{0}.</B></FONT>
+journal.view.JournalItem.contentTxtContent:<FONT SIZE='14' FACE='Шрифт' COLOR='#993300'><B>{0}.</B></FONT>
+ddt.consortion.mailFrame.title:Написать письмо гильдии
+ddt.consortion.mailFrame.all:Все игроки гильдии
+ddt.consortion.mailFrame.noEnagth:Сумма взносов в гильдию меньше 1000.
+ddt.consortion.mailFrame.success:Письмо гильдии отправлено.
+ddt.consortion.mailFrame.fail:Письмо гильдии не отправлено.
+ddt.consortion.pollFrame.title:Выборы главы гильдии
+ddt.consortion.pollload.error:Не удалось загрузить список кандидатов.
+ddt.consortion.pollFrame.pleaseSelceted:Выберите кандидата.
+ddt.consortion.pollFrame.helpFrame.title:Кодекс
+ddt.consortion.pollFrame.continueDay:Внимание! Для голосования осталось {0} д.
+ddt.consortion.skillFrame.title:Умения гильдии
+ddt.consortion.skillInfo.loadError:Не удалось загрузить информацию об умениях гильдии!
+ddt.consortion.skillTip.validity:Действительно: {0}
+ddt.consortion.skillItem.oneDay:1 день
+ddt.consortion.openSkillFrame.title:Умение гильдии
+ddt.consortion.SkillFrame.confirm:Закрыть умение?
+ddt.consortion.SkillFrame.info:Только глава или его заместитель могут открыть это умение.
+ddt.consortion.skillItem.click.open:Развивайте умения гильдии!
+ddt.consortion.skillItem.click.enough1:Недостаточный капитал гильдии. Вы хотите внести вклад?
+ddt.consortion.skillItem.click.enough2:Недостаточный личный вклад в гильдию. Пополнить взнос?
+ddt.consortion.pollFrame.success:Голос принят.
+ddt.consortion.pollFrame.fail:Голос не принят.
+ddt.consortion.pollFrame.double:Вы приняли участие в голосовании.
+ddt.consortion.playerTip.notInvite:Игрок, не достигший 7-го уровня, не может вступить в гильдию.
+room.roomPlayerActionKey.HAPPY:Ха-ха!
+room.roomPlayerActionKey.LUAGH:А-ха-ха-ха-ха-ха-ха, ва-ха-ха-ха-ха-ха, хи-хи-хи-хи! Умора! XD
+room.roomPlayerActionKey.NAUGHTY:Хе-хе-хе…
+room.roomPlayerActionKey.SAD:Хнык-хнык…
+room.roomPlayerActionKey.SARROWFUL:Ой! Больно!
+room.roomPlayerActionKey.LOOK_AWRY:*Печаль*
+room.roomPlayerActionKey.ANGRY:*Ярость*
+room.roomPlayerActionKey.SULK:Скучища!
+room.roomPlayerActionKey.COLD:Холодно и страшно!
+room.roomPlayerActionKey.DIZZY:*В обмороке*
+room.roomPlayerActionKey.SUPRISE:О БОЖЕ МОЙ!
+room.roomPlayerActionKey.SICK:Тьфу!
+room.roomPlayerActionKey.SLEEPING:Хр-р-р...
+room.roomPlayerActionKey.OH_MY_GOD:Ой-ой-ой!
+room.roomPlayerActionKey.LOVE:Ты просто чудо!
+room.roomPlayerActionKey.PRIDE:Аха-ха-ха-ха-ха-ха, хо-хо-хо-хо-хо!
+ddt.view.skillFrame.effect:Эффект:
+ddt.consortion.skillCell.btnPersonal.rich: оч. вклада
+ddt.consortion.skillFrame.alertFrame.title:Открыть похожее умение
+ddt.consortion.skillFrame.alertFrame.content:Активация этого умения отменит действие других умений с похожим эффектом. Продолжить?
+ddt.consortion.skillFrame.alertFrame.personal.riches:Размер личного вклада недостаточен. Вы не можете открыть это умение.
+ddt.consortion.skillFrame.alertFrame.consortion.riches:Сумма взносов в гильдию слишком мала. Нельзя открыть это умение.
+ddt.tryonSystem.tryon:Выберите награду.
+ddt.bagInfo.notSociaty:Вы не состоите в гильдии.
+ddt.bagInfo.notDesignation:У вас нет этого титула.
+ddt.dailyRecord.title:Ежедневная сводка
+ddt.dailyRecord.content1:<FONT COLOR='#820300'><B>{0}</B></FONT>    Получен предмет:<FONT COLOR='#b51609'><B>{1}</B></FONT>!<br/>
+ddt.dailyRecord.content2:<FONT COLOR='#820300'><B>{0}</B></FONT>    улучшает предмет <FONT COLOR='#b51609'><B>"{1}"</B></FONT> до <FONT COLOR='#b51609'><B>{2}</B></FONT> уровня!<br/>
+ddt.dailyRecord.content3:<FONT COLOR='#820300'><B>{0}</B></FONT>    и <FONT COLOR='#b51609'><B>{1}</B></FONT> поженились! Пусть их супружеская жизнь будет сладкой!<br/>
+ddt.dailyRecord.content4:<FONT COLOR='#820300'><B>{0}</B></FONT>    Теперь вы и <FONT COLOR='#b51609'><B>{1}</B></FONT> - муж и жена!<br/>
+ddt.dailyRecord.content5:<FONT COLOR='#820300'><B>{0}</B></FONT>    становится магистром гильдии <FONT COLOR='#b51609'><B>{1}</B></FONT>!<br/>
+ddt.dailyRecord.content6:<FONT COLOR='#820300'><B>{0}</B></FONT>    Получен королевский <FONT COLOR='#b51609'><B>VIP-статус</B></FONT>!<br/>
+ddt.dailyRecord.content7:<FONT COLOR='#820300'><B>{0}</B></FONT>    Получен титул :<FONT COLOR='#b51609'><B>{1}</B></FONT>!<br/>
+ddt.dailyRecord.content8:<FONT COLOR='#820300'><B>{0}</B></FONT>    Получено достижение:<FONT COLOR='#b51609'><B>{1}</B></FONT>!<br/>
+ddt.dailyRecord.content9:<FONT COLOR='#820300'><B>{0}</B></FONT>    Новый уровень:<FONT COLOR='#b51609'><B>{1}</B></FONT>!<br/>
+ddt.dailyRecord.content10:<FONT COLOR='#820300'><B>{0}</B></FONT>    Завершена <FONT COLOR='#b51609'><B>{1}</B></FONT>-я по счету PVP-битва!<br/>
+ddt.dailyRecord.content11:<FONT COLOR='#820300'><B>{0}</B></FONT>    Получен опыт:<FONT COLOR='#b51609'><B>{1}</B></FONT> очков!<br/>
+ddt.dailyRecord.content12:<FONT COLOR='#820300'><B>{0}</B></FONT>    Получены медали:<FONT COLOR='#b51609'><B>{1}</B></FONT>!<br/>
+ddt.dailyRecord.content13:<FONT COLOR='#820300'><B>{0}</B></FONT>    Получена слава:<FONT COLOR='#b51609'><B>{1}</B></FONT>!<br/>
+ddt.dailyRecord.content14:<FONT COLOR='#820300'><B>{0}</B></FONT>    Получен подарок:<FONT COLOR='#b51609'><B>{1}</B></FONT>!<br/>
+ddt.dailyRecord.content15:<FONT COLOR='#820300'><B>{0}</B></FONT>    Появились новые друзья <FONT COLOR='#b51609'><B>({1} чел.)</B></FONT>!<br/>
+ddt.dailyRecord.content16:<FONT COLOR='#820300'><B>{0}</B></FONT>    Завершено <FONT COLOR='#b51609'><B>{1}</B></FONT>-е по счету основное задание!<br/>
+ddt.dailyRecord.content17:<FONT COLOR='#820300'><B>{0}</B></FONT>    Завершено <FONT COLOR='#b51609'><B>{1}</B></FONT>-е по счету побочное задание!<br/>
+ddt.dailyRecord.content18:<FONT COLOR='#820300'><B>{0}</B></FONT>    Завершено <FONT COLOR='#b51609'><B>{1}</B></FONT>-е по счету ежедневное задание!<br/>
+ddt.dailyRecord.content19:<FONT COLOR='#820300'><B>{0}</B></FONT>    Завершено <FONT COLOR='#b51609'><B>{1}</B></FONT>-е по счету активное задание!<br/>
+ddt.dailyRecord.content20:<FONT COLOR='#820300'><B>{0}</B></FONT>    Завершено <FONT COLOR='#b51609'><B>{1}</B></FONT>-е по счету VIP-задание!<br/>
+ddt.dailyRecord.content21:<FONT COLOR='#820300'><B>{0}</B></FONT>    Закончено обучение!<br/>
+ddt.dailyRecord.content22:<FONT COLOR='#820300'><B>{0}</B></FONT>    Ученик <FONT COLOR='#b51609'><B>{1}</B></FONT> завершает обучение!<br/>
+ddt.dailyRecord.content23:<FONT COLOR='#820300'><B>{0}</B></FONT>    Новый наставник - <FONT COLOR='#b51609'><B>{1}</B></FONT>!<br/>
+ddt.dailyRecord.content24:<FONT COLOR='#820300'><B>{0}</B></FONT>    Новый ученик - <FONT COLOR='#b51609'><B>{1}</B></FONT>!<br/>
+ddt.dailyRecord.content25:<FONT COLOR='#820300'><B>{0}</B></FONT>    <FONT COLOR='#b51609'><B>{1}</B></FONT> получает <FONT COLOR='#b51609'><B>{2}</B></FONT> уровень!<br/>
+ddt.dailyRecord.content26:<FONT COLOR='#820300'><B>{0}</B></FONT>    Вы присоединились к гильдии <FONT COLOR='#b51609'><B>'{1}'</B></FONT>!<br/>
+ddt.dailyRecord.content27:<FONT COLOR='#820300'><B>{0}</B></FONT>    Вы и <FONT COLOR='#b51609'><B>{1}</B></FONT> развелись.<br/>
+ddt.dailyRecord.content28:<FONT COLOR='#820300'><B>{0}</B></FONT>    Получен    VIP-статус <FONT COLOR='#b51609'><B>{1}</B></FONT> уровня!<br/>
+gotopage.view.LeagueShowFrame.title:Битвы гильдий
+ddt.quest.collectInfo.phone:Номер телефона
+ddt.quest.collectInfo.email:Почта:
+ddt.quest.collectInfo.validate:Секретный код:
+ddt.quest.collectInfo.validateSend:Секретный код отправлен и должен прийти в течение нескольких минут.
+ddt.quest.collectInfo.dataError:Неверный код.
+ddt.quest.collectInfo.validateComplete:Идентификация прошла успешно!
+ddt.quest.collectInfo.validateFail:Неверный секретный код.
+ddt.quest.collectInfo.validateError:Неверный секретный код.
+ddt.quest.collectInfo.noMail:Введите адрес.
+ddt.quest.collectInfo.noPhone:Введите номер телефона.
+ddt.quest.collectInfo.noValidate:Введите секретный код.
+ddt.quest.collectInfo.phoneNumberError:Неверный номер, попробуйте еще раз.
+ddt.quest.collectInfo.notValidMailAddress:Неверный адрес.
+ddt.quest.collectInfo.notUsualMailAddress:Этот адрес не используется.
+ddt.quest.collectInfo.validMailAddress:Адрес:
+ddt.roomList.roomListBG.Athletics:Соревнование
+ddt.roomList.roomListBG.challenge:Испытание
+tank.view.common.BellowStripViewII.downLoadClient:Сохранить загрузчик на рабочем столе.
+ddt.view.academyCommon.academyRequest.state:Не в сети, попробуйте еще раз позже.
+IMControl.addNullFriend:Введите имя.
+calendar.view.GoodsExchangeView.title:Переместите предметы для обмена.
+calendar.view.GoodsExchangeView.explain:Награда будет прислана по почте.
+calendar.view.goodsExchange.warning:Предмет не подходит.
+calendar.view.goodsExchange.warningI:Уровень усиления слишком низок.
+calendar.view.goodsExchange.warningII:Уровень улучшения слишком низок.
+calendar.view.goodsExchange.warningIII:Переместите предмет, который хотите обменять.
+bagAndInfo.sellFrame.explainTxt:Вы уверены, что хотите продать предметы ( <FONT COLOR='#ff0000'>{0}</FONT> шт.)? \nЦена:
+texpSystem.view.TexpView.currLv:Уровень:
+texpSystem.view.TexpView.currEffect:Эффект:
+texpSystem.view.TexpView.upEffect:Эффект (след. ур.):
+texpSystem.view.TexpView.currExp:Опыт:
+texpSystem.view.TexpView.upExp:Опыт (след. ур.):
+texpSystem.view.TexpView.texpExp:Опыт развития:
+texpSystem.view.TexpView.texp:Развитие:
+texpSystem.view.TexpView.hp:здоровья
+texpSystem.view.TexpView.att:атаки
+texpSystem.view.TexpView.def:защиты
+texpSystem.view.TexpView.spd:ловкости
+texpSystem.view.TexpView.luk:удачи
+texpSystem.view.TexpView.up:Поздравляем! Новый уровень развития характеристики "{0}"!
+texpSystem.view.TexpView.tipContent:Уровень: <FONT COLOR='#ea1a3c'>{0}  ур.</FONT>\n{1}: получены очки (<FONT COLOR='#ea1a3c'>{2}</FONT>).
+texpSystem.view.TexpInfoTip.content:<FONT COLOR='{0}'>{1}:</FONT> <FONT COLOR='#ffffff'>{2}</FONT> ({3} ур.)
+texpSystem.view.TexpInfoTip.title:Развитие
+texpSystem.view.TexpView.texpTip:Развитие показателя {0}
+texpSystem.view.TexpView.helpTitle:Описание
+texpSystem.view.TexpView.refreshTaskTip:Заменить развивающее задание? Стоимость - 100 алмазов.
+texpSystem.view.TexpCell.typeError:Сюда можно поместить только зелье развития!
+texpSystem.view.TexpCell.selectType:Выберите характеристику для развития
+texpSystem.view.TexpCell.empty:Установите  в ячейку зелье развития.
+texpSystem.view.TexpCell.lvToplimit:Максимальный уровень развития!
+texpSystem.view.TexpCell.noGrade:Развитие начинается на 10-м уровне.
+texpSystem.view.TexpCell.texpCountToplimit:Вы достигли лимита развития на сегодня!
+pageInterface.yourturn:Ваш ход!
+quest.QuestInfoPanelView.necessaryText:Необязательные условия:
+quest.QuestInfoPanelView.notNecessaryText:Необходимые условия:
+IM.MaxCustom:Можно добавить не более 10 шаблонов.
+IM.addCustom.success:{0}: успех!
+IM.addCustom.fail:{0}: неудача!
+IM.deleteCustom.success:<{0}>: группировка и удаление прошли успешно.
+IM.deleteCustom.fail:<{0}>: группировка и удаление не удались.
+IM.alertCustom.success:Успех.
+IM.alertCustom.fail:Не удалось выполнить.
+IM.PrivateFrame.title:Разговор с игроком {0}
+IM.PrivateFrame.send:Отправить 
+IM.PrivateFrame.record:Запись
+consortion.view.selfConsortia.SearchMemberFrame:Поиск игрока гильдии
+consortion.view.selfConsortia.SearchMemberFrame.default:Введите имя игрока
+consortion.view.selfConsortia.SearchMemberFrame.warning:Имени "{0}" не существует.
+consortion.view.selfConsortia.SearchMemberFrame.warningII:Нет в списке.
+consortion.view.selfConsortia.SearchMemberFrame.warningIII:Не более 14 символов.
+IM.ChatFrame.level:Уровень: 
+IM.ChatFrame.warning:Не доверяйте стороннему программному обеспечению и сообщениям о наградах.
+IM.ChatFrame.recordFrame.title:История сообщений
+IM.ChatFrame.recordFrame.pageWord:Стр.             / {0}
+IM.messagebox.title:Сообщение (G)
+IM.addFirend.repet:Такое название уже существует.
+IM.other.noEnough.five:Противоположная сторона не включила чат.
+IM.privateChatFrame.send.tipdata:Отправить (Enter)
+tank.gameover.takecard.score:Счет
+tank.littlegame.scorelack:Недостаточно очков!
+cardSystem.preview.descript.level:(0 ур./10 ур./20 ур./30 ур.)
+consortia.task.releasetitle:Задание гильдии
+consortia.task.releaseTable:Вывесить задание
+consortia.task.cancelTable:Отменить задание
+consortia.task.resetTable:Новое задание
+consortia.task.okTable:Подтвердить оглашение
+consortia.task.OKContent:Необходимо потратить {0} оч. взноса, чтобы вывесить задание. Продолжить?
+consortia.task.lasttime:У вас осталось {0} мин. {1} сек. на выполнение задания!
+consortia.task.released:Задание вывешено!
+consortia.task.havetaskNoRelease:Вывесить задание можно бесплатно.
+consortia.donateMEDAL:Взнос
+consortia.task.noMedal:Недостаточно медалей.
+ActivityState.confirm.content:Вы уверены, что хотите начислить 10000 алмазов?
+consortion.buyBadgeFrameTitle:Купить медаль гильдии
+core.badgeTip.description:Требуется гильдия {0}-го уровня.\nДоступно только главе гильдии.
+consortia.buyBadge.levelTooLow:Уровень гильдии слишком низок.
+tank.hotSpring.continu:Чтобы остаться на источниках на второй час, нужно заплатить 100 алмазов. Продложить?
+tank.hotSpring.continuComfirm:Недостаточно алмазов.
+tank.roulette.tipInfo1:У вас недостаточно алмазов. Пополнить счет?
+tank.roulette.tipInfo2:Поздравляем! Вы получаете {0}. Попробовать еще раз?
+consortion.consortiaMyTaskView.dayDesc: *1день
+
+ddt.view.community.title13:Социальные сети - день вчерашний, будущее за общением в социальных играх! Ваш друг играет в "Бумз" на сервере "{0}"!
+ddt.view.community.text13:Хотите поиграть в одну из самых захватывающих игр? Тогда "Бумз" для вас!
+ddt.view.community.title1:"{0}" достигает уровня "{1}" на сервере "{2}" игры "Бумз"!
+ddt.view.community.text1:Ваш друг не на шутку увлекся игрой! Сможете ли вы угнаться за такими темпами развития?
+ddt.view.community.title2:Ваш друг улучшает снаряжение до уровня "{0}" на сервере "{1}" игры "Бумз".
+ddt.view.community.text2:Кстати, этого не так просто добиться. В этой игре не обойтись без холодного ума, хорошей памяти и немалой ловкости.
+ddt.view.community.title16:На сервере "{0}" игры "Бумз" основана новая гильдия "{1}"!
+ddt.view.community.text16:Продемонстрируйте свои лидерские и дипломатические способности в игре "Бумз"! Эта игра - хороший тренинг для ваших навыков!
+ddt.view.community.title17:"{0}" присоединяется к гильдии "{1}" на сервере "{2}" игры "Бумз"!
+ddt.view.community.text17:Вступайте в гильдию и заводите новых друзей!
+ddt.view.community.title18:Поздравляем со свадьбой с игроком {0} на сервере "{1}" игры "Бумз"!
+ddt.view.community.text18:Играйте в "Бумз" и вам будет о чем рассказать своим внукам!
+ddt.view.community.title19:"{0}" и {1} празднуют свадьбу на сервере "{2}" игры "Бумз"!
+ddt.view.community.text19:Приходите на церемонию!
+ddt.view.community.title15:"{0}" завершает поход ("{1}") на сервере "{2}"игры "Бумз"!
+ddt.view.community.text15:Присоединяйтесь! Виртуальные походы не менее увлекательны, чем настоящие.
+ddt.view.community.title11:"{0}" выигрывает битву на сервере "{1}" в игре "Бумз"!
+ddt.view.community.text11:С помощью виртуальных дуэлей вы сможете разрешать невиртуальные споры. Например, с домочадцами: чья очередь мыть посуду.
+
+ddt.view.community.msg13:Добро пожаловать в "Бумз"! Вы хотите обмениваться информацией с другими игроками?  
+ddt.view.community.msg1:Поздравляем с новым уровнем! Вы хотите поделиться этой новостью с другими игроками? 
+ddt.view.community.msg2:Поздравляем с улучшением снаряжения! Вы хотите поделиться этой новостью с другими игроками? 
+ddt.view.community.msg16:Теперь вы в гильдии! Хотите поделиться этой новостью с другими игроками?
+ddt.view.community.msg17:Поздравляем с успешным вступлением в гильдию {0}! Вы хотите поделиться этой новостью с другими игроками? 
+ddt.view.community.msg18:Поздравляем со вступлением в брак с игроком {0}! Вы хотите поделиться этой новостью с другими игроками? 
+ddt.view.community.msg19:Поздравляем с обручением с игроком {0}! Вы хотите поделиться этой новостью с другими игроками? 
+ddt.view.community.msg15:Поздравляем с завершением сложного боя! Вы хотите поделиться этой новостью с другими игроками?
+ddt.view.community.msg11:Поздравляем с победой в сражении! Вы хотите поделиться этой новостью с другими игроками?
+
+
+tank.lottery.cardLottery.wagerSuccess:Заявка принята. Результат предсказания скоро будет объявлен.
+tank.lottery.cardLottery.a-wager:Сделать ставку?
+
+3.6.0version:
+day:дн.
+hour:ч.
+minute:мин.
+tank.game.BuffName287:Чудесное исцеление
+tank.game.BuffName288:Чудесное исцеление
+tank.game.BuffName289:Чудесное исцеление
+tank.game.BuffName290:Чудесное исцеление
+tank.game.BuffTip287:Лечение от отравления цыплят восстанавливает {0} оч. здоровья. 
+tank.game.BuffTip288:Лечение от отравления цыплят восстанавливает {0} оч. здоровья. 
+tank.game.BuffTip289:Лечение от отравления цыплят восстанавливает {0} оч. здоровья. 
+tank.game.BuffTip290:Лечение от отравления цыплят восстанавливает {0} оч. здоровья. 
+tank.room.RoomIIController.reduceGains:В этом походе награда будет меньше.
+tank.data.EquipType.prop:	Предмет
+tank.view.bagII.GoodsTipPanel.drill:Сверло
+tank.view.bagII.GoodsTipPanel.drillnote:Сверло {0} ур.
+tank.view.chat.ChatInput.time1:Тараторка!
+tank.view.chat.ChatInput.time2:Вы слишком быстро печатаете.
+tank.game.ToolStripView.itemTemplateInfo.Description:Нажмите кнопку, чтобы пустить в ход накопленную ярость и провести смертельный прием. (Не работает с умением "Три в одном" и с ядерным фугасом.)
+church.weddingRoom.frame.AddWeddingRoomFrame.hour:ч.
+tank.roomlist.RoomListIICreatePveRoomView.tank:Игра стоит свеч!
+tank.view.bagII.MedalDirections:Медаль: можно получить во время события, максимальное количество - 999 шт.
+tank.command.fightLibCommands.script.MeasureScree.DifficultTwentyDegree.command3:Приступим к обучению стрельбе под углом 20°!
+tanl.timebox.LimitAwardTip:Это задание на время! Не медлите!
+tank.view.effort.EffortCategoryTitleItem.HONOR:Награды
+tank.view.effort.EffortRigthItemView.honorName:Награды: 
+tank.view.effort.EffortRigthItemView.honorNameII:
+tank.view.effort.EffortRigthItemView.honorNameIII:	и 
+tank.view.effort.EffortRigthItemView.honorNameIV:Призы: 
+tank.view.effort.EffortRigthItemView.honorNameV:Титул: 
+feedback.view.csTelNumber:Телефон службы поддержки: {0} 
+feedback.view.infoText:Не может быть короче 8 символов. Осталось ввести: {0} симв.
+tank.view.bead.buyNoCardBox1:У вас нет шкатулки случайной карты.
+tank.game.GameView.cardBoxBattle1:Открыть шкатулку невидимой карты
+tank.view.card.moreCard:У вас максимальное количество карт. Невозможно открыть шкатулку.
+tank.view.card.noHaveCard:Эта колода еще не собрана.
+tank.view.card.HaveCard:Снаряжение надето.
+ddt.loader.ShopDisCountRealTimesFailure:Не удалось загрузить информацию о скидках.
+ddt.loader.LoadingLikeFriendTemplateFailure:Не удалось загрузить информацию о земляках.
+store.showTips.strength.dontStrengthIII:Во время усиления предметов выше 9 уровня нужно использовать небесный амулет.
+store.showTips.fusion.notEnoughStone:Нужно поместить 4 предмета одного типа.
+ddt.view.academyCommon.myAcademy.MyAcademyMasterItem.remove:Чтобы разорвать отношения наставничества, нужно заплатить 20 000 золотых. \nНового учителя или ученика можно будет взять не ранее, чем через 24 часа. Продолжить?
+ddt.manager.academyManager.FreezesII:Вы уже можете взять нового ученика.
+ddt.consortia.event.contributeGM:Игровой мастер {0} вносит в фонд гильдии {1} оч. вклада.
+ddt.cardSystem.cardEquip.open4:<b>Получите <FONT COLOR='0xff0000' >3</FONT> карты <FONT COLOR='0xff0000' >20</FONT> ур. или <FONT COLOR='0xff0000' >1</FONT> карту <FONT COLOR='0xff0000' >30</FONT> ур.</b>, чтобы открыть эту ячейку. 
+ddt.cardSystem.cardEquip.cannotOpen3:Условие не выполнено!.
+ddt.cardSystem.cardEquip.cannotOpen4:Условие не выполнено!.
+ddt.consortion.skillItem.click.enough3:У вас не хватает медалей.
+gotopage.view.LeagueShowFrame.scoreBtnText:Очки: {0}
+calendar.view.ActiveState.StartNot:Событие еще не началось.
+calendar.view.ActiveState.OnMark:До конца события осталось: {0}.
+calendar.view.ActiveState.TimeOut:События завершились.
+consortia.task.resetContent:Заплатить 500 алм. за новое задание? <p align="center"><br><FONT SIZE='12' FACE='Arial' KERNING='2' COLOR='#FF0000'>Внимание: новое задание придется выполнять с нуля!</FONT></p>
+consortia.task.donateOK:Взнос сделан.
+consortia.task.plaese:Введите размер взноса
+consortia.task.stopTable:Миссия гильдии выполнена.
+EliteGame.loadScoreRank.fail:Не удалось обновить рейтинг по очкам.
+email.complain.lan:Жалоба
+BaseRoomView.getout.Timeout:Выход через 30 сек.
+room.scoreRoom.isInRoom:Вы уже в комнате, нельзя создать комнату Турнира Ареса.
+eliteGame.readyFrame.title:Турнир шестнадцати
+eliteGame.readyFrame.firstLine:Начинается Турнир шестнадцати!
+eliteGame.readyFrame.alert:Подготовка. Комната откроется через {0} сек.
+eliteGame.readyFrame.readyOther:Соперник готовится…
+eliteGame.readyFrame.readyOk:Боевая готовность
+store.fusion.donMoveGoods:Нельзя перемещать предмет во время его преобразования.
+store.fusion.autoSplit.inputNumber:	Введите количество: 
+loading.asset:Файл ресурса
+shop.buyAvatarFail:Невозможно купить здесь.
+email.complain.confim:Отправить жалобу?
+tank.trainer.fightAction.newHandTip1:Если прицел сбился, нужно его отрегулировать заново.
+tank.trainer.fightAction.newHandTip2:Перелет. Стреляйте слабее.
+tank.trainer.fightAction.newHandTip3Small:Перелет. Стреляйте слабее.
+tank.trainer.fightAction.newHandTip3Large:Недолет. Стреляйте сильнее.
+tank.trainer.fightAction.newHandTip4:Попадание по союзнику ранит его. Цельтесь аккуратнее.
+tank.trainer.fightAction.newHandTip5:Пользуйтесь телепортом для быстрого перемещения по карте.
+tank.trainer.fightAction.newHandTip6:Используйте аптечки, чтобы восстановить здоровье.
+tank.roulette.helpView.tltle:Правила
+ddt.vip.vipView.getAwardsByLVText:Получите VIP-подарок соответствующего уровня.
+tank.view.Texp.bugbuff:Нажмите, чтобы получить привилегии.
+tank.auctionHouse.view.wishBead:Жемчужина удачи
+tank.view.WishBead.title:Нанесение позолоты
+wishBead.wishBeadHelp.say:Описание
+wishBead.StrengthenLevel:(Позолота)
+wishBead.GoodsTipPanel.txt1:Позолота сотрется через 
+wishBead.GoodsTipPanel.txt2:  д.
+wishBead.GoodsTipPanel.txt3:ч.
+wishBead.lostEquip:Поместите сюда снаряжение
+wishBead.noBead:Не хватает жемчужин удачи.
+wishBead.notCanWish:На этот предмет невозможно нанести позолоту.
+wishBead.equipIsGold:На этот предмет уже нанесена позолота.
+wishBead.remainTimeShort:Срок действия снаряжения истек.
+wishBead.help:Невозможно выполнить это действие во время нанесения позолоты.
+wishBead.result:Успех!
+tank.roulette.tipInfo:Примите поздравления! Количество алмазов увеличивается в {0} р. \nРазмер бонуса не может превысить установленный предел.
+tank.leavaPageManager.chargeMoney.error:Не удалось загрузить страницу пополнения счета.
+tank.leavaPageManager.chargeMoney.fail:Не удалось внести 10000 алмазов.
+tank.leavaPageManager.chargeMoney.success:Внесено 10000 алмазов.
+tank.vip.rechargeAlertTitle:VIP-статус ({0} ур.), даст вам следующие привилегии:
+tank.vip.rechargeAlertEndTitle:Достигнув {0}-го VIP-уровня, вы получите преимущества:
+tank.vip.rechargeAlertContent1:1. Каждую неделю VIP-игроки получают подарок ("{0}")!
+tank.vip.rechargeAlertContent2:2.  Можно получать в {0} р. больше опыта во время битвы.
+tank.vip.rechargeAlertContent3:3. До {0} к вероятности успеха при усилении предметов.
+tank.vip.rechargeAlertContent4:4. При поражении не расходуются очки славы.
+tank.vip.rechargeAlertContent5:5. Каждый день VIP-игроки могут отдыхать на источниках на {0} ч. дольше. Кроме того, они получают особые халаты для отдыха.
+tank.vip.rechargeAlertContent6:6. Третью карту можно открыть со скидкой {0}%.
+tank.vip.rechargeAlertContent7:7. VIP-игроки могут использовать VIP-монеты {0} р. в день.
+tank.vip.rechargeAlertContent8:8. При покупке {0} мес. VIP-статуса можно получить {1} VIP-статус со скоростью роста в {2} оч. в день.
+tank.vip.rechargeAlertContent1Param0:Особый подарок для VIP
+tank.vip.rechargeAlertContent1Param1:Щедрый подарок для VIP
+tank.vip.rechargeAlertContent1Param2:Бесценный подарок для VIP
+tank.vip.rechargeAlertContent3Param:25%
+tank.vip.rechargeAlertContent5Param:1
+tank.vip.rechargeAlertContent6Param:8.8
+tank.vip.rechargeAlertContent8Param1:3
+tank.vip.rechargeAlertContent8Param2:Королевский
+tank.vip.rechargeAlertContent8Param3:15
+
+newChickenBox.EagleEye.msg:Вы можете использовать 'глаз орла' <FONT COLOR='#FF0000'>{0}</FONT> раз(а), чтобы подсмотреть награду.\nСтоимость: <FONT COLOR='#FF0000'>{1}</ FONT> алм.
+newChickenBox.noAlert:Больше не показывать
+newChickenBox.newChickenTitle:Игра Агриппы
+newChickenBox.canUseEye:Можно использовать 'глаз орла'.
+newChickenBox.useMoneyAlert:Чтобы продолжить, необходимо заплатить <FONT COLOR='#FF0000'>{0}</FONT> алм. \n  &nbsp;
+newChickenBox.useMoneyMsg:Следующая попытка: {0} алм.
+newChickenBox.freeFlush:Новая игра (0 алм.)
+newChickenBox.flushText:Новая игра
+newChickenBox.flushTimecut:Бесплатная замена призов через: {0} ч. {1} мин.
+newChickenBox.newTurnStart:Игра началась!
+newChickenBox.eyeNotUseEnable:Вы использовали 'глаз орла' максимальное число раз.
+newChickenBox.useEyeCost:Вы можете использовать способность 'глаз орла', потратив {0} алм.
+newChickenBox.useEyeEnable:Вы уже использовали 'глаз орла'.
+newChickenBox.flushTipData:Нажмите кнопку 'Новая игра', чтобы заменить призы.
+newChickenBox.firstEnterHelp:Вы можете продолжить игру!
+newChickenBox.timePlayTxt:До конца игры: {0}
+
+ConsortionShopItemBtn.name:Слава:
+
+dice.freeCount:Осталось бесплатных попыток на сегодня: {0}.
+dice.help.Title:Правила
+dice.double.tip:Выбрасываются две кости. Стоимость: {0} алм.
+dice.big.tip:Выбрасываются числа 4, 5 или 6. Стоимость: {0} алм.
+dice.small.tip:Выбрасываются числа 1, 2 или 3. Стоимость: {0} алм.
+dice.refresh.tip:Нажмите, чтобы заменить активы (награды) на поле. Стоимость: {0} алм.
+dice.refreshPrompt:Чтобы поменять активы, нужно заплатить {0} алм.
+dice.alert.nextPrompt:Не предлагать сегодня.
+dice.type.prompt:Ваш выбор: {0}. Стоимость: {0} алм.
+dice.type.common:Кости
+dice.type.double:Две кости
+dice.type.big:Грани 4-6
+dice.type.small:Грани 1-3
+dice.treasureBoxTip.script:Открыв сундук {0} ур., вы получите следующие предметы:
+dice.reward.title:Выигрыш:
+dice.Levelreward.caption:Вы получаете награду:
